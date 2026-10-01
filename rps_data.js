@@ -1,0 +1,6529 @@
+window.RPS_DATA = [
+  {
+    "kode": "UNV1101",
+    "nama": "Pancasila",
+    "semester": 1,
+    "semester_label": "Semester 1 (Gasal)",
+    "sks_teori": 2,
+    "sks_praktik": 0,
+    "sks_total": 2,
+    "rumpun": "Mata Kuliah Wajib Kurikulum (MKWK) / Universitas",
+    "tanggal": "1 September 2026",
+    "pengembang": "Gunawan",
+    "koordinator": "Gunawan",
+    "kaprodi": "Amaludin Arifia, S.Kom., M.Kom.",
+    "syarat": "Tidak ada",
+    "deskripsi": "Mata kuliah Pancasila merupakan mata kuliah wajib kurikulum yang membekali mahasiswa dengan pemahaman mendalam mengenai Pancasila sebagai dasar negara, ideologi bangsa, sistem filsafat, dan sistem etika. Mahasiswa diajak untuk menganalisis dinamika historis perumusan Pancasila, mengkaji tantangan ideologi di era globalisasi, serta menginternalisasikan nilai-nilai luhur Pancasila dalam kehidupan akademik, profesional, dan bermasyarakat. Pembelajaran mengintegrasikan studi kasus aktual, analisis kritis terhadap isu-isu kebangsaan, dan proyek kolaboratif untuk memperkuat karakter integritas, ketaatan hukum, serta tanggung jawab moral dalam pemanfaatan ilmu pengetahuan dan teknologi.",
+    "cpl": [
+      {
+        "kode": "CPL01",
+        "deskripsi": "Bertakwa kepada Tuhan Yang Maha Esa, taat terhadap hukum, dan disiplin dalam kehidupan bermasyarakat dan bernegara. **(Afektif – A5)**"
+      },
+      {
+        "kode": "CPL02",
+        "deskripsi": "Menunjukkan sikap profesional melalui kepatuhan dan respon terhadap etika profesi, isu sosial serta perkembangan teknologi, kemampuan bekerjasama dalam tim multidisiplin, dan pemahaman tentang pembelajaran sepanjang hayat. **(Afektif – A3, Kognitif – C2)**"
+      }
+    ],
+    "cpmk": [
+      {
+        "kode": "CPMK011",
+        "deskripsi": "Mampu **menganalisis** nilai-nilai ketuhanan, kemanusiaan, persatuan, kerakyatan, dan keadilan sosial sebagai landasan moral dan hukum dalam kehidupan bermasyarakat, berbangsa, dan bernegara [C4, A5]. — Kontribusi 60% terhadap CPL01"
+      },
+      {
+        "kode": "CPMK012",
+        "deskripsi": "Mampu **menginternalisasi** komitmen kebangsaan, ketaatan hukum, dan disiplin sosial dalam kehidupan bernegara berbasis ideologi Pancasila [A5]. — Kontribusi 40% terhadap CPL01"
+      },
+      {
+        "kode": "CPMK021",
+        "deskripsi": "Mampu **mengevaluasi** dinamika dan tantangan Pancasila di era disrupsi teknologi digital serta merumuskan sikap etis dan tanggung jawab sosial dalam tim [C5, A3]. — Kontribusi 100% terhadap CPL02"
+      }
+    ],
+    "sub_cpmk": [
+      {
+        "kode": "Sub-CPMK1",
+        "deskripsi": "Mahasiswa mampu **menjelaskan** konsep, urgensi, dan landasan historis-yuridis Pendidikan Pancasila di perguruan tinggi [C2, A2] (CPMK011)"
+      },
+      {
+        "kode": "Sub-CPMK2",
+        "deskripsi": "Mahasiswa mampu **menganalisis** dinamika Pancasila dalam arus sejarah perjuangan bangsa Indonesia dari era pra-kemerdekaan hingga reformasi [C4, A3] (CPMK011)"
+      },
+      {
+        "kode": "Sub-CPMK3",
+        "deskripsi": "Mahasiswa mampu **menguraikan** kedudukan Pancasila sebagai dasar negara Republik Indonesia dan hubungannya dengan UUD NRI 1945 [C3, A4] (CPMK011)"
+      },
+      {
+        "kode": "Sub-CPMK4",
+        "deskripsi": "Mahasiswa mampu **mengkritisi** Pancasila sebagai ideologi nasional dan perbandingannya dengan ideologi besar dunia [C4, A4] (CPMK012)"
+      },
+      {
+        "kode": "Sub-CPMK5",
+        "deskripsi": "Mahasiswa mampu **menganalisis** Pancasila sebagai sistem filsafat (ontologis, epistemologis, aksiologis) [C4, A3] (CPMK011)"
+      },
+      {
+        "kode": "Sub-CPMK6",
+        "deskripsi": "Mahasiswa mampu **menerapkan** nilai-nilai Pancasila sebagai sistem etika dalam pencegahan korupsi, radikalisme, dan pelanggaran hukum [C3, A5] (CPMK012)"
+      },
+      {
+        "kode": "Sub-CPMK7",
+        "deskripsi": "Mahasiswa mampu **mengevaluasi** Pancasila sebagai dasar nilai pengembangan ilmu pengetahuan dan etika pemanfaatan teknologi informasi [C5, A4] (CPMK021)"
+      },
+      {
+        "kode": "Sub-CPMK8",
+        "deskripsi": "Mahasiswa mampu **mempresentasikan** proyek implementasi nilai Pancasila dalam memecahkan isu sosial kemasyarakatan di era digital secara kolaboratif [C6, A5] (CPMK021)"
+      }
+    ],
+    "bahan_kajian": [
+      "Bahan kajian standar Diktiristek & APTIKOM 2024: **BK01 Society, Ethics and Professionalism** dan **BK21 Softskill & Pengembangan Diri**.",
+      "1. **Konsep dan Urgensi Pendidikan Pancasila:** Landasan filosofis, historis, sosiologis, dan yuridis di perguruan tinggi. (Sub-CPMK1)",
+      "2. **Pancasila dalam Arus Sejarah Bangsa:** Periode pengusulan, perumusan, pengesahan, dan dinamika implementasi era kemerdekaan hingga era reformasi. (Sub-CPMK2)",
+      "3. **Pancasila sebagai Dasar Negara:** Konsep negara, tujuan negara, urgensi dasar negara, serta hubungan Pancasila dengan Pembukaan UUD NRI 1945. (Sub-CPMK3)",
+      "4. **Pancasila sebagai Ideologi Negara:** Karakteristik ideologi terbuka, tantangan ideologi kapitalisme, komunisme, radikalisme, dan individualisme. (Sub-CPMK4)",
+      "5. **Pancasila sebagai Sistem Filsafat:** Landasan ontologis, epistemologis, dan aksiologis filsafat Pancasila. (Sub-CPMK5)",
+      "6. **Pancasila sebagai Sistem Etika:** Konsep etika Pancasila, urgensi etika dalam kehidupan berbangsa, pencegahan korupsi, dekadensi moral, dan intoleransi. (Sub-CPMK6)",
+      "7. **Pancasila sebagai Dasar Nilai Pengembangan Iptek:** Etika keilmuan, implikasi transformasi digital, dan tanggung jawab saintis di era society 5.0. (Sub-CPMK7)",
+      "8. **Aktualisasi Nilai Pancasila di Era Digital:** Proyek inovasi sosial dan advokasi konten positif nilai-nilai kebangsaan di media digital. (Sub-CPMK8)"
+    ],
+    "pustaka_utama": [
+      "[1] Kaelan. (2020). *Pendidikan Pancasila: Pendidikan untuk Memperkokoh Wawasan Kebangsaan Indonesia*. Yogyakarta: Paradigma.",
+      "[2] Tim Direktorat Pembelajaran dan Kemahasiswaan. (2016). *Buku Ajar Mata Kuliah Wajib Umum Pendidikan Pancasila*. Jakarta: Ditjen Belmawa Kemenristekdikti."
+    ],
+    "pustaka_pendukung": [
+      "[3] Notonagoro. (2018). *Pancasila Secara Ilmiah Populer*. Jakarta: Bina Aksara.",
+      "[4] Latif, Y. (2015). *Negara Paripurna: Historisitas, Rasionalitas, dan Aktualitas Pancasila*. Jakarta: Gramedia Pustaka Utama."
+    ],
+    "penilaian": {
+      "mekanisme": [
+        "pada pertemuan pertama disepakati kontrak perkuliahan dan tata tertib perkuliahan;",
+        "komposisi penilaian akhir meliputi: Partisipasi Harian (10%), Tugas Terstruktur (20%), UTS (30%), dan UAS (40%);",
+        "penilaian tugas mandiri dan kelompok diberikan umpan balik (feedback) secara berkala;",
+        "standar penilaian mengacu pada skala mutu akademik UNIROW (A, B+, B, C+, C, D, E);",
+        "seluruh rekapitulasi nilai akhir diunggah ke SIA UNIROW."
+      ],
+      "teknik": "teknik tes (Ujian Tertulis UTS dan UAS) dan teknik non-tes (observasi keaktifan, resume, presentasi proyek, dan rubrik analitis). Instrumen yang digunakan meliputi lembar soal esai dan rubrik penilaian berskala 1–5.",
+      "sifat": "edukatif, otentik, objektif, akuntabel, dan transparan yang dirancang untuk memfasilitasi pencapaian kompetensi holistik mahasiswa."
+    },
+    "p1_asesmen": {
+      "title": "Tabel P1. Rencana asesmen dan bobot penilaian per Sub-CPMK (%)",
+      "rows": [
+        [
+          "Sub-CPMK",
+          "CPL",
+          "Harian",
+          "Tugas-1",
+          "Tugas-2",
+          "Tugas-3",
+          "UTS",
+          "UAS",
+          "Total"
+        ],
+        [
+          "Sub-CPMK1",
+          "CPL01",
+          "2",
+          "3",
+          "",
+          "",
+          "",
+          "",
+          "5"
+        ],
+        [
+          "Sub-CPMK2",
+          "CPL01",
+          "1",
+          "2",
+          "",
+          "",
+          "7",
+          "",
+          "10"
+        ],
+        [
+          "Sub-CPMK3",
+          "CPL01",
+          "1",
+          "",
+          "4",
+          "",
+          "10",
+          "",
+          "15"
+        ],
+        [
+          "Sub-CPMK4",
+          "CPL01",
+          "1",
+          "",
+          "3",
+          "",
+          "13",
+          "",
+          "17"
+        ],
+        [
+          "Sub-CPMK5",
+          "CPL01",
+          "1",
+          "",
+          "",
+          "4",
+          "",
+          "8",
+          "13"
+        ],
+        [
+          "Sub-CPMK6",
+          "CPL01",
+          "2",
+          "",
+          "",
+          "4",
+          "",
+          "10",
+          "16"
+        ],
+        [
+          "Sub-CPMK7",
+          "CPL02",
+          "1",
+          "",
+          "",
+          "",
+          "",
+          "11",
+          "12"
+        ],
+        [
+          "Sub-CPMK8",
+          "CPL02",
+          "1",
+          "",
+          "",
+          "",
+          "",
+          "11",
+          "12"
+        ],
+        [
+          "**Total**",
+          "",
+          "**10**",
+          "**5**",
+          "**7**",
+          "**8**",
+          "**30**",
+          "**40**",
+          "**100**"
+        ]
+      ],
+      "widths": [
+        1560,
+        900,
+        960,
+        960,
+        960,
+        1140,
+        960,
+        960,
+        960
+      ],
+      "note": "Bobot per CPL pada mata kuliah ini: CPL01 = 76%, CPL02 = 24%. Nilai Akhir MK = Σ (nilai komponen × bobot komponen) / 100."
+    },
+    "tugas": {
+      "intro": "Tugas terstruktur dirancang untuk melatih kemampuan literasi kebangsaan, nalar kritis, dan keterampilan kolaboratif mahasiswa:",
+      "rows": [
+        [
+          "Tugas",
+          "Sub-CPMK, Jenis, Waktu",
+          "Deskripsi Pengerjaan dan Luaran",
+          "Indikator Penilaian",
+          "Bobot"
+        ],
+        [
+          "**Tugas-1**: Resume Kritis Urgensi Pancasila",
+          [
+            "Sub-CPMK1, Sub-CPMK2",
+            "Individu",
+            "Minggu 1–3"
+          ],
+          [
+            "A. Menganalisis urgensi nilai Pancasila bagi sarjana komputer.",
+            "B. Mengidentifikasi tantangan ideologi di era disrupsi digital.",
+            "Luaran: Makalah resume 3–4 halaman."
+          ],
+          [
+            "1. Ketepatan analisis historis",
+            "2. Ketajaman argumentasi",
+            "3. Kerapian tata tulis ilmiah"
+          ],
+          "5%"
+        ],
+        [
+          "**Tugas-2**: Analisis Kasus Konstitusi & Hak Digital",
+          [
+            "Sub-CPMK3, Sub-CPMK4",
+            "Kelompok (3 mhs)",
+            "Minggu 5–7"
+          ],
+          [
+            "A. Mengkaji keterkaitan pasal UUD 1945 dengan perlindungan data pribadi dan kebebasan berekspresi.",
+            "B. Merumuskan rekomendasi etis.",
+            "Luaran: Laporan studi kasus & infografis."
+          ],
+          [
+            "1. Akurasi landasan yuridis",
+            "2. Kemampuan sintesis solusi",
+            "3. Estetika visual infografis"
+          ],
+          "7%"
+        ],
+        [
+          "**Tugas-3**: Proyek Kampanye Digital Pancasila",
+          [
+            "Sub-CPMK5 s.d. Sub-CPMK8",
+            "Kelompok (4–5 mhs)",
+            "Minggu 9–15"
+          ],
+          [
+            "A. Merancang video edukasi pendek / poster digital bertema etika digital berbasis Pancasila.",
+            "B. Mempublikasikan di platform digital dan mempresentasikan hasil.",
+            "Luaran: Video pendek / karya digital & laporan proyek."
+          ],
+          [
+            "1. Orisinalitas pesan etika",
+            "2. Kualitas produksi konten digital",
+            "3. Kekompakan presentasi tim"
+          ],
+          "8%"
+        ]
+      ]
+    },
+    "mingguan": [
+      {
+        "minggu": "1–2",
+        "sub_cpmk": "Sub-CPMK1",
+        "indikator": [
+          "1.1 Ketepatan menjelaskan landasan dan tujuan Pendidikan Pancasila",
+          "1.2 Kemampuan menguraikan urgensi Pancasila bagi mahasiswa IT"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik deskriptif",
+          "**Non-tes:** Partisipasi forum diskusi",
+          "**Tes:** Kuis awal"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah interaktif",
+          "**Metode:** Small Group Discussion",
+          "[PB: 2×(2×50\")]"
+        ],
+        "penugasan": [
+          "**Tugas-1 (individu):** Resume artikel urgensi Pancasila di era digital",
+          "[PT: 2×(2×60\")]",
+          "[KM: 2×(2×60\")]"
+        ],
+        "materi": [
+          "Konsep dan Urgensi Pendidikan Pancasila",
+          "[1] Bab 1; [2] Bab 1"
+        ],
+        "bobot": "5%"
+      },
+      {
+        "minggu": "3–4",
+        "sub_cpmk": "Sub-CPMK2",
+        "indikator": [
+          "2.1 Ketepatan menganalisis tonggak sejarah Pancasila",
+          "2.2 Kedalaman argumentasi dinamika historis perumusan dasar negara"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik analitis resume",
+          "**Non-tes:** Diskusi studi kasus",
+          "**Tes:** -"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah interaktif",
+          "**Metode:** Case-Based Learning (CBL)",
+          "[PB: 2×(2×50\")]"
+        ],
+        "penugasan": [
+          "Mandiri: Analisis dokumen historis BPUPK & PPKI",
+          "[PT: 2×(2×60\")]",
+          "[KM: 2×(2×60\")]"
+        ],
+        "materi": [
+          "Pancasila dalam Arus Sejarah Bangsa Indonesia",
+          "[1] Bab 2; [4] Bab 1–2"
+        ],
+        "bobot": "3%"
+      },
+      {
+        "minggu": "5–6",
+        "sub_cpmk": "Sub-CPMK3",
+        "indikator": [
+          "3.1 Ketepatan menjelaskan hubungan Pancasila dengan UUD NRI 1945",
+          "3.2 Kemampuan menguraikan penjabaran sila Pancasila dalam pasal konstitusi"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik studi kasus",
+          "**Non-tes:** Presentasi kelompok",
+          "**Tes:** -"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah & seminar",
+          "**Metode:** Collaborative Learning",
+          "[PB: 2×(2×50\")]"
+        ],
+        "penugasan": [
+          "**Tugas-2 (kelompok):** Analisis pasal UUD 1945 terkait hak digital dan konstitusi",
+          "[PT: 2×(2×60\")]",
+          "[KM: 2×(2×60\")]"
+        ],
+        "materi": [
+          "Pancasila sebagai Dasar Negara Republik Indonesia",
+          "[2] Bab 3; [1] Bab 3"
+        ],
+        "bobot": "5%"
+      },
+      {
+        "minggu": "7",
+        "sub_cpmk": "Sub-CPMK4",
+        "indikator": [
+          "4.1 Ketepatan mengkritisi perbandingan ideologi Pancasila vs ideologi lain",
+          "4.2 Kemampuan mempertahankan nilai Pancasila dari ancaman radikalisme digital"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik esai kritis",
+          "**Non-tes:** Debat terstruktur",
+          "**Tes:** Kuis persiapan UTS"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah & debat",
+          "**Metode:** Problem-Based Learning",
+          "[PB: 1×(2×50\")]"
+        ],
+        "penugasan": [
+          "Mandiri: Penyusunan draf esai kritis ideologi",
+          "[PT: 1×(2×60\")]",
+          "[KM: 1×(2×60\")]"
+        ],
+        "materi": [
+          "Pancasila sebagai Ideologi Negara dan Tantangan Global",
+          "[1] Bab 4; [4] Bab 3"
+        ],
+        "bobot": "4%"
+      },
+      {
+        "minggu": "8",
+        "sub_cpmk": "Evaluasi Tengah Semester (UTS)",
+        "indikator": [
+          "Evaluasi penguasaan materi minggu 1 s.d. 7"
+        ],
+        "kriteria": [
+          "Kriteria: Rubrik Ujian Tertulis / Praktik"
+        ],
+        "metode": [
+          "Ujian Tengah Semester Terjadwal"
+        ],
+        "penugasan": [
+          "Mengerjakan lembar soal UTS"
+        ],
+        "materi": [
+          "**Evaluasi Tengah Semester / Ujian Tengah Semester (UTS)** – Ujian tertulis uraian komprehensif Sub-CPMK1 s.d. Sub-CPMK4  [PB: 1×(2×50\")]"
+        ],
+        "bobot": "30%"
+      },
+      {
+        "minggu": "9–10",
+        "sub_cpmk": "Sub-CPMK5",
+        "indikator": [
+          "5.1 Ketepatan menganalisis landasan ontologis, epistemologis, aksiologis",
+          "5.2 Kemampuan menyintesis pemikiran filosofis Pancasila"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik pemahaman filsafat",
+          "**Non-tes:** Kajian teks filosofis",
+          "**Tes:** -"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah interaktif",
+          "**Metode:** Discovery Learning",
+          "[PB: 2×(2×50\")]"
+        ],
+        "penugasan": [
+          "**Tugas-3 (proyek kelompok):** Desain kampanye digital nilai Pancasila",
+          "[PT: 2×(2×60\")]",
+          "[KM: 2×(2×60\")]"
+        ],
+        "materi": [
+          "Pancasila sebagai Sistem Filsafat",
+          "[1] Bab 5; [3] Bab 2"
+        ],
+        "bobot": "5%"
+      },
+      {
+        "minggu": "11–12",
+        "sub_cpmk": "Sub-CPMK6",
+        "indikator": [
+          "6.1 Ketepatan menerapkan etika Pancasila dalam isu korupsi dan cybercrime",
+          "6.2 Konsistensi sikap moral dalam pengambilan keputusan etis"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik analisis dilema etika",
+          "**Non-tes:** Role play & simulasi",
+          "**Tes:** -"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah & simulasi",
+          "**Metode:** Role-Playing & Case Study",
+          "[PB: 2×(2×50\")]"
+        ],
+        "penugasan": [
+          "Mandiri: Observasi isu pelanggaran etika di ruang digital",
+          "[PT: 2×(2×60\")]",
+          "[KM: 2×(2×60\")]"
+        ],
+        "materi": [
+          "Pancasila sebagai Sistem Etika Publik",
+          "[2] Bab 6; [1] Bab 6"
+        ],
+        "bobot": "6%"
+      },
+      {
+        "minggu": "13–14",
+        "sub_cpmk": "Sub-CPMK7",
+        "indikator": [
+          "7.1 Ketepatan mengevaluasi etika pengembangan teknologi AI/TI",
+          "7.2 Kemampuan merumuskan rambu etika Pancasila dalam riset informatika"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik review kritis artikel",
+          "**Non-tes:** Diskusi panel",
+          "**Tes:** -"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah interaktif",
+          "**Metode:** Small Group Discussion",
+          "[PB: 2×(2×50\")]"
+        ],
+        "penugasan": [
+          "Mandiri: Finalisasi luaran proyek kampanye digital",
+          "[PT: 2×(2×60\")]",
+          "[KM: 2×(2×60\")]"
+        ],
+        "materi": [
+          "Pancasila sebagai Dasar Nilai Pengembangan Ilmu dan Teknologi",
+          "[2] Bab 7; [4] Bab 5"
+        ],
+        "bobot": "1%"
+      },
+      {
+        "minggu": "15",
+        "sub_cpmk": "Sub-CPMK8",
+        "indikator": [
+          "8.1 Kualitas konten luaran proyek implementasi Pancasila",
+          "8.2 Keterampilan presentasi dan argumentasi dalam tim kolaboratif"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik penilaian presentasi produk",
+          "**Non-tes:** Gelar karya / presentasi",
+          "**Tes:** -"
+        ],
+        "metode": [
+          "**Bentuk:** Seminar kelas",
+          "**Metode:** Project-Based Learning (PjBL)",
+          "[PB: 1×(2×50\")]"
+        ],
+        "penugasan": [
+          "Mandiri: Pengunggahan karya ke media sosial dan portofolio",
+          "[PT: 1×(2×60\")]",
+          "[KM: 1×(2×60\")]"
+        ],
+        "materi": [
+          "Gelar Karya Proyek Aktualisasi Nilai Pancasila",
+          "Modul Proyek"
+        ],
+        "bobot": "1%"
+      },
+      {
+        "minggu": "16",
+        "sub_cpmk": "Evaluasi Akhir Semester (UAS)",
+        "indikator": [
+          "Evaluasi pencapaian kompetensi akhir seluruh materi"
+        ],
+        "kriteria": [
+          "Kriteria: Rubrik Proyek Akhir / Portofolio / Ujian Akhir"
+        ],
+        "metode": [
+          "Ujian Akhir Semester / Presentasi Proyek"
+        ],
+        "penugasan": [
+          "Laporan Akhir & Demonstrasi"
+        ],
+        "materi": [
+          "**Evaluasi Akhir Semester / Ujian Akhir Semester (UAS)** – Evaluasi integratif penguasaan Sub-CPMK5 s.d. Sub-CPMK8  [PB: 1×(2×50\")] - *Pelaksanaan ujian tertulis analitis dan penilaian luaran proyek akhir"
+        ],
+        "bobot": "40%"
+      }
+    ],
+    "file_docx": "Output_RPS_Sem1/UNV1101-Pancasila/RPS-UNV1101-Pancasila.docx",
+    "file_size": "54 KB"
+  },
+  {
+    "kode": "IF1302",
+    "nama": "Pengantar Teknologi Informasi",
+    "semester": 1,
+    "semester_label": "Semester 1 (Gasal)",
+    "sks_teori": 2,
+    "sks_praktik": 1,
+    "sks_total": 3,
+    "rumpun": "Ilmu Komputer Dasar (MK Kompetensi Utama)",
+    "tanggal": "1 September 2026",
+    "pengembang": "Amaludin Arifia, M.Kom",
+    "koordinator": "Amaludin Arifia, M.Kom",
+    "kaprodi": "Amaludin Arifia, S.Kom., M.Kom.",
+    "syarat": "Tidak ada",
+    "deskripsi": "Mata kuliah Pengantar Teknologi Informasi merupakan mata kuliah fondasi keilmuan Informatika yang memberikan wawasan menyeluruh mengenai ekosistem teknologi informasi modern. Mahasiswa mempelajari sejarah perkembangan komputer, arsitektur dasar perangkat keras, klasifikasi perangkat lunak dan sistem operasi, dasar jaringan komputer dan internet, keamanan siber, komputasi awan, big data, hingga kecerdasan buatan dan IoT. Selain aspek teknis, mahasiswa dibekali pemahaman etika profesi TI, perlindungan privasi data, dan regulasi hukum siber (UU ITE) untuk membentuk sarjana komputer yang kompeten, beretika, dan siap beradaptasi dengan perkembangan teknologi masa depan.",
+    "cpl": [
+      {
+        "kode": "CPL03",
+        "deskripsi": "Memiliki kemampuan memahami cara kerja sistem komputer serta menerapkan berbagai algoritma/metode untuk memecahkan masalah dalam suatu organisasi. **(Kognitif – C2, C3)**"
+      },
+      {
+        "kode": "CPL05",
+        "deskripsi": "Menguasai konsep teoritis dalam bidang Informatika/Ilmu Komputer untuk mendesain dan mensimulasikan aplikasi teknologi multi-platform yang sesuai dengan kebutuhan industri dan masyarakat. **(Kognitif – C2, C6)**"
+      },
+      {
+        "kode": "CPL02",
+        "deskripsi": "Menunjukkan sikap profesional melalui kepatuhan dan respon terhadap etika profesi, isu sosial serta perkembangan teknologi, kemampuan bekerjasama dalam tim multidisiplin, dan pemahaman tentang pembelajaran sepanjang hayat. **(Afektif – A3, Kognitif – C2)**"
+      }
+    ],
+    "cpmk": [
+      {
+        "kode": "CPMK031",
+        "deskripsi": "Mampu **menjelaskan** prinsip kerja sistem komputer, komponen perangkat keras, perangkat lunak, sistem operasi, dan jaringan komputer [C2]. — Kontribusi 100% terhadap CPL03"
+      },
+      {
+        "kode": "CPMK051",
+        "deskripsi": "Mampu **mengklasifikasikan** dan mendemonstrasikan konsep dasar representasi data, komputasi awan, keamanan siber, dan teknologi cerdas (AI/IoT) [C3]. — Kontribusi 100% terhadap CPL05"
+      },
+      {
+        "kode": "CPMK021",
+        "deskripsi": "Mampu **menganalisis** dampak etis, hukum (UU ITE), privasi data, serta etika profesi dalam perkembangan ekosistem teknologi informasi [C4, A3]. — Kontribusi 100% terhadap CPL02"
+      }
+    ],
+    "sub_cpmk": [
+      {
+        "kode": "Sub-CPMK1",
+        "deskripsi": "Mahasiswa mampu **menjelaskan** ruang lingkup teknologi informasi, sejarah evolusi komputer, dan peran TI dalam transformasi digital [C2, A2] (CPMK031)"
+      },
+      {
+        "kode": "Sub-CPMK2",
+        "deskripsi": "Mahasiswa mampu **mengidentifikasi** arsitektur dan fungsi komponen perangkat keras komputer (input, proses, output, storage) serta representasi data biner/heksadesimal [C2, A2] (CPMK031)"
+      },
+      {
+        "kode": "Sub-CPMK3",
+        "deskripsi": "Mahasiswa mampu **menguraikan** peran perangkat lunak (software), klasifikasi sistem operasi, dan perangkat lunak aplikasi modern [C2, A2] (CPMK031)"
+      },
+      {
+        "kode": "Sub-CPMK4",
+        "deskripsi": "Mahasiswa mampu **menganalisis** dasar jaringan komputer, model referensi (OSI & TCP/IP), topologi, serta infrastruktur internet [C4, A3] (CPMK031)"
+      },
+      {
+        "kode": "Sub-CPMK5",
+        "deskripsi": "Mahasiswa mampu **menerapkan** prinsip dasar keamanan siber (cybersecurity), kriptografi dasar, autentikasi, dan perlindungan privasi data [C3, A3] (CPMK051)"
+      },
+      {
+        "kode": "Sub-CPMK6",
+        "deskripsi": "Mahasiswa mampu **mengidentifikasi** arsitektur komputasi awan (Cloud Computing: IaaS, PaaS, SaaS) dan ekosistem Big Data [C2, A2] (CPMK051)"
+      },
+      {
+        "kode": "Sub-CPMK7",
+        "deskripsi": "Mahasiswa mampu **menjelaskan** konsep teknologi mutakhir (Artificial Intelligence, Internet of Things, dan Blockchain) beserta aplikasinya di industri [C2, A2] (CPMK051)"
+      },
+      {
+        "kode": "Sub-CPMK8",
+        "deskripsi": "Mahasiswa mampu **mengevaluasi** isu etika profesi teknologi informasi, hak kekayaan intelektual (HAKI), dan regulasi hukum siber (UU ITE) melalui studi kasus kolaboratif [C5, A3] (CPMK021)"
+      }
+    ],
+    "bahan_kajian": [
+      "Bahan kajian standar APTIKOM 2024: **BK01 Society, Ethics and Professionalism**, **BK08 Network and Communication**, dan **BK15 Systems Fundamentals**.",
+      "1. **Ruang Lingkup dan Sejarah TI:** Definisi TI, evolusi komputer generasi ke generasi, revolusi industri 4.0 dan society 5.0. (Sub-CPMK1)",
+      "2. **Perangkat Keras & Representasi Data:** CPU, memori, I/O devices, sistem biner, oktal, heksadesimal, ASCII, dan Unicode. (Sub-CPMK2)",
+      "3. **Perangkat Lunak & Sistem Operasi:** Perangkat lunak sistem vs aplikasi, open source vs proprietary, fungsi kernel, manajemen memori. (Sub-CPMK3)",
+      "4. **Jaringan Komputer & Internet:** Konsep LAN/WAN, model OSI 7 layer, TCP/IP, DNS, IP addressing (IPv4 vs IPv6), dan arsitektur web. (Sub-CPMK4)",
+      "5. **Keamanan Informasi & Privasi:** Ancaman siber (malware, phishing), enkripsi simetris & asimetris, firewall, autentikasi multi-faktor. (Sub-CPMK5)",
+      "6. **Cloud Computing & Big Data:** Karakteristik cloud (IaaS, PaaS, SaaS), model deployment (public, private, hybrid), dan konsep 5V Big Data. (Sub-CPMK6)",
+      "7. **Teknologi Cerdas & Tren Masa Depan:** Pengantar AI, Machine Learning, IoT ecosystem, smart devices, dan teknologi Blockchain. (Sub-CPMK7)",
+      "8. **Etika Profesi & Hukum Siber:** Kode etik ACM/IEEE, lisensi perangkat lunak, HAKI, perlindungan data pribadi (UU PDP), dan UU ITE. (Sub-CPMK8)"
+    ],
+    "pustaka_utama": [
+      "[1] Morley, D., & Parker, C. S. (2017). *Understanding Computers: Today and Tomorrow, Comprehensive* (16th ed.). Boston: Cengage Learning.",
+      "[2] Evans, A., Martin, K., & Poatsy, M. A. (2019). *Technology in Action Complete* (16th ed.). New York: Pearson."
+    ],
+    "pustaka_pendukung": [
+      "[3] Comer, D. E. (2018). *The Internet Book: Everything You Need to Know About Computer Networking and How the Internet Works* (5th ed.). Boca Raton: Chapman and Hall/CRC.",
+      "[4] Stallings, W. (2018). *Computer Organization and Architecture: Designing for Performance* (11th ed.). London: Pearson."
+    ],
+    "penilaian": {
+      "mekanisme": [
+        "kontrak perkuliahan dan tata tertib praktikum disampaikan pada pertemuan pertama;",
+        "komposisi nilai akhir: Keaktifan Harian (10%), Tugas Terstruktur (20%), UTS (30%), dan UAS (40%);",
+        "tugas praktikum dan resume dikumpulkan tepat waktu melalui platform daring universitas;",
+        "standar penilaian mengacu pada skala baku akademik UNIROW (A s.d. E);",
+        "seluruh nilai akhir diunggah ke SIA UNIROW secara akuntabel."
+      ],
+      "teknik": "teknik tes (Ujian Tertulis UTS dan UAS) serta teknik non-tes (evaluasi tugas kelompok, resume, observasi keaktifan diskusi, dan presentasi studi kasus). Instrumen berupa soal esai analitis dan rubrik berskala 1–5.",
+      "sifat": "edukatif, otentik, objektif, akuntabel, dan transparan yang mengukur capaian kognitif, afektif, dan psikomotorik mahasiswa."
+    },
+    "p1_asesmen": {
+      "title": "Tabel P1. Rencana asesmen dan bobot penilaian per Sub-CPMK (%)",
+      "rows": [
+        [
+          "Sub-CPMK",
+          "CPL",
+          "Harian",
+          "Tugas-1",
+          "Tugas-2",
+          "Tugas-3",
+          "UTS",
+          "UAS",
+          "Total"
+        ],
+        [
+          "Sub-CPMK1",
+          "CPL03",
+          "2",
+          "3",
+          "",
+          "",
+          "",
+          "",
+          "5"
+        ],
+        [
+          "Sub-CPMK2",
+          "CPL03",
+          "1",
+          "2",
+          "",
+          "",
+          "7",
+          "",
+          "10"
+        ],
+        [
+          "Sub-CPMK3",
+          "CPL03",
+          "1",
+          "",
+          "4",
+          "",
+          "10",
+          "",
+          "15"
+        ],
+        [
+          "Sub-CPMK4",
+          "CPL03",
+          "1",
+          "",
+          "3",
+          "",
+          "13",
+          "",
+          "17"
+        ],
+        [
+          "Sub-CPMK5",
+          "CPL05",
+          "1",
+          "",
+          "",
+          "4",
+          "",
+          "8",
+          "13"
+        ],
+        [
+          "Sub-CPMK6",
+          "CPL05",
+          "2",
+          "",
+          "",
+          "4",
+          "",
+          "10",
+          "16"
+        ],
+        [
+          "Sub-CPMK7",
+          "CPL05",
+          "1",
+          "",
+          "",
+          "",
+          "",
+          "11",
+          "12"
+        ],
+        [
+          "Sub-CPMK8",
+          "CPL02",
+          "1",
+          "",
+          "",
+          "",
+          "",
+          "11",
+          "12"
+        ],
+        [
+          "**Total**",
+          "",
+          "**10**",
+          "**5**",
+          "**7**",
+          "**8**",
+          "**30**",
+          "**40**",
+          "**100**"
+        ]
+      ],
+      "widths": [
+        1560,
+        900,
+        960,
+        960,
+        960,
+        1140,
+        960,
+        960,
+        960
+      ],
+      "note": "Bobot per CPL pada mata kuliah ini: CPL03 = 47%, CPL05 = 41%, CPL02 = 12%. Nilai Akhir MK = Σ (nilai komponen × bobot komponen) / 100."
+    },
+    "tugas": {
+      "intro": "Tugas terstruktur dirancang untuk melatih pemahaman konsep dasar, analisis arsitektur teknologi, serta kepekaan etis sarjana komputer:",
+      "rows": [
+        [
+          "Tugas",
+          "Sub-CPMK, Jenis, Waktu",
+          "Deskripsi Pengerjaan dan Luaran",
+          "Indikator Penilaian",
+          "Bobot"
+        ],
+        [
+          "**Tugas-1**: Esai Transformasi Digital & Konversi Bilangan",
+          [
+            "Sub-CPMK1, Sub-CPMK2",
+            "Individu",
+            "Minggu 1–3"
+          ],
+          [
+            "A. Menyusun esai mengenai peran TI dalam revolusi industri 4.0.",
+            "B. Menyelesaikan soal latihan representasi biner & heksadesimal.",
+            "Luaran: Dokumen laporan tugas individu."
+          ],
+          [
+            "1. Wawasan konseptual TI",
+            "2. Akurasi konversi biner",
+            "3. Kerapian format penulisan"
+          ],
+          "5%"
+        ],
+        [
+          "**Tugas-2**: Analisis Komparasi Sistem Operasi & Jaringan",
+          [
+            "Sub-CPMK3, Sub-CPMK4",
+            "Kelompok (3 mhs)",
+            "Minggu 5–7"
+          ],
+          [
+            "A. Menganalisis perbedaan arsitektur sistem operasi Linux dan Windows.",
+            "B. Merancang skema topologi jaringan komputer sederhana.",
+            "Luaran: Makalah komparasi & diagram topologi jaringan."
+          ],
+          [
+            "1. Kedalaman analisis OS",
+            "2. Ketepatan rancangan topologi",
+            "3. Kerja sama tim"
+          ],
+          "7%"
+        ],
+        [
+          "**Tugas-3**: Studi Kasus Keamanan Siber & Etika Profesi",
+          [
+            "Sub-CPMK5 s.d. Sub-CPMK8",
+            "Kelompok (4–5 mhs)",
+            "Minggu 9–15"
+          ],
+          [
+            "A. Mengkaji insiden nyata pelanggaran keamanan data di Indonesia.",
+            "B. Meninjau pelanggaran berdasarkan UU PDP dan kode etik profesi TI.",
+            "Luaran: Laporan studi kasus & slide presentasi."
+          ],
+          [
+            "1. Ketajaman analisis ancaman",
+            "2. Relevansi landasan hukum/etika",
+            "3. Kualitas presentasi"
+          ],
+          "8%"
+        ]
+      ]
+    },
+    "mingguan": [
+      {
+        "minggu": "1–2",
+        "sub_cpmk": "Sub-CPMK1",
+        "indikator": [
+          "1.1 Ketepatan menjelaskan evolusi komputer dari generasi ke generasi",
+          "1.2 Kemampuan menguraikan dampak transformasi digital di berbagai sektor"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik deskriptif",
+          "**Non-tes:** Partisipasi diskusi kelas",
+          "**Tes:** Kuis pengantar"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah interaktif",
+          "**Metode:** Small Group Discussion",
+          "[PB: 2×(3×50\")]"
+        ],
+        "penugasan": [
+          "**Tugas-1 (individu):** Esai perkembangan TI dan dampaknya bagi masyarakat",
+          "[PT: 2×(3×60\")]",
+          "[KM: 2×(3×60\")]"
+        ],
+        "materi": [
+          "Pengantar Ekosistem Teknologi Informasi Modern",
+          "[1] Bab 1; [2] Bab 1"
+        ],
+        "bobot": "5%"
+      },
+      {
+        "minggu": "3–4",
+        "sub_cpmk": "Sub-CPMK2",
+        "indikator": [
+          "2.1 Ketepatan mengidentifikasi komponen perangkat keras komputer",
+          "2.2 Keterampilan mengonversi bilangan biner, desimal, dan heksadesimal"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik perhitungan & identifikasi",
+          "**Non-tes:** Praktik observasi hardware",
+          "**Tes:** Latihan soal konversi biner"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah & Praktikum",
+          "**Metode:** Problem-Based Learning",
+          "[PB: 2×(3×50\")]"
+        ],
+        "penugasan": [
+          "Mandiri: Latihan konversi sistem bilangan digital",
+          "[PT: 2×(3×60\")]",
+          "[KM: 2×(3×60\")]"
+        ],
+        "materi": [
+          "Arsitektur Hardware Komputer & Representasi Data Digital",
+          "[1] Bab 2–3; [4] Bab 2"
+        ],
+        "bobot": "3%"
+      },
+      {
+        "minggu": "5–6",
+        "sub_cpmk": "Sub-CPMK3",
+        "indikator": [
+          "3.1 Ketepatan membedakan sistem operasi dan perangkat lunak aplikasi",
+          "3.2 Kemampuan menganalisis lisensi open source vs komersial"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik studi komparasi software",
+          "**Non-tes:** Diskusi studi kasus OS",
+          "**Tes:** -"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah & demo software",
+          "**Metode:** Collaborative Learning",
+          "[PB: 2×(3×50\")]"
+        ],
+        "penugasan": [
+          "**Tugas-2 (kelompok):** Analisis komparasi sistem operasi Linux vs Windows",
+          "[PT: 2×(3×60\")]",
+          "[KM: 2×(3×60\")]"
+        ],
+        "materi": [
+          "Klasifikasi Perangkat Lunak dan Peran Sistem Operasi",
+          "[1] Bab 5; [2] Bab 5"
+        ],
+        "bobot": "5%"
+      },
+      {
+        "minggu": "7",
+        "sub_cpmk": "Sub-CPMK4",
+        "indikator": [
+          "4.1 Ketepatan menguraikan arsitektur jaringan komputer dan model OSI",
+          "4.2 Kemampuan menjelaskan cara kerja protokol internet dan web"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik diagram jaringan",
+          "**Non-tes:** Simulasi penelusuran paket",
+          "**Tes:** Kuis persiapan UTS"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah & praktikum dasar",
+          "**Metode:** Discovery Learning",
+          "[PB: 1×(3×50\")]"
+        ],
+        "penugasan": [
+          "Mandiri: Pembuatan diagram topologi jaringan kantor sederhana",
+          "[PT: 1×(3×60\")]",
+          "[KM: 1×(3×60\")]"
+        ],
+        "materi": [
+          "Dasar Jaringan Komputer, Protokol Komunikasi, dan Arsitektur Internet",
+          "[3] Bab 1–4"
+        ],
+        "bobot": "4%"
+      },
+      {
+        "minggu": "8",
+        "sub_cpmk": "Evaluasi Tengah Semester (UTS)",
+        "indikator": [
+          "Evaluasi penguasaan materi minggu 1 s.d. 7"
+        ],
+        "kriteria": [
+          "Kriteria: Rubrik Ujian Tertulis / Praktik"
+        ],
+        "metode": [
+          "Ujian Tengah Semester Terjadwal"
+        ],
+        "penugasan": [
+          "Mengerjakan lembar soal UTS"
+        ],
+        "materi": [
+          "**Evaluasi Tengah Semester / Ujian Tengah Semester (UTS)** – Ujian tertulis uraian komprehensif Sub-CPMK1 s.d. Sub-CPMK4  [PB: 1×(3×50\")]"
+        ],
+        "bobot": "30%"
+      },
+      {
+        "minggu": "9–10",
+        "sub_cpmk": "Sub-CPMK5",
+        "indikator": [
+          "5.1 Ketepatan mengidentifikasi ancaman keamanan informasi dan malware",
+          "5.2 Kemampuan merekomendasikan mekanisme pertahanan siber dasar"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik analisis risiko siber",
+          "**Non-tes:** Kajian insiden cyber attack",
+          "**Tes:** -"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah & studi kasus",
+          "**Metode:** Case-Based Learning (CBL)",
+          "[PB: 2×(3×50\")]"
+        ],
+        "penugasan": [
+          "**Tugas-3 (proyek tim):** Kajian insiden kebocoran data dan rekomendasi mitigasi",
+          "[PT: 2×(3×60\")]",
+          "[KM: 2×(3×60\")]"
+        ],
+        "materi": [
+          "Keamanan Informasi, Kriptografi Dasar, dan Perlindungan Data",
+          "[1] Bab 9; [2] Bab 9"
+        ],
+        "bobot": "5%"
+      },
+      {
+        "minggu": "11–12",
+        "sub_cpmk": "Sub-CPMK6",
+        "indikator": [
+          "6.1 Ketepatan membedakan layanan cloud (IaaS, PaaS, SaaS)",
+          "6.2 Kemampuan menjelaskan pemanfaatan Big Data di berbagai sektor bisnis"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik telaah arsitektur cloud",
+          "**Non-tes:** Eksplorasi layanan cloud publik",
+          "**Tes:** -"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah interaktif",
+          "**Metode:** Problem-Based Learning",
+          "[PB: 2×(3×50\")]"
+        ],
+        "penugasan": [
+          "Mandiri: Analisis studi kasus adopsi cloud computing pada startup",
+          "[PT: 2×(3×60\")]",
+          "[KM: 2×(3×60\")]"
+        ],
+        "materi": [
+          "Arsitektur Cloud Computing dan Ekosistem Big Data Analytics",
+          "[1] Bab 8; [2] Bab 11"
+        ],
+        "bobot": "6%"
+      },
+      {
+        "minggu": "13–14",
+        "sub_cpmk": "Sub-CPMK7",
+        "indikator": [
+          "7.1 Ketepatan menjelaskan konsep kecerdasan buatan, IoT, dan Blockchain",
+          "7.2 Kemampuan mengidentifikasi peluang implementasi teknologi masa depan"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik resume teknologi mutakhir",
+          "**Non-tes:** Diskusi panel perkembangan AI",
+          "**Tes:** -"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah & pemutaran studi inovasi",
+          "**Metode:** Small Group Discussion",
+          "[PB: 2×(3×50\")]"
+        ],
+        "penugasan": [
+          "Mandiri: Penyusunan laporan poster tren inovasi teknologi cerdas",
+          "[PT: 2×(3×60\")]",
+          "[KM: 2×(3×60\")]"
+        ],
+        "materi": [
+          "Kecerdasan Buatan, Internet of Things, dan Transformasi Masa Depan",
+          "[1] Bab 10; [2] Bab 12"
+        ],
+        "bobot": "1%"
+      },
+      {
+        "minggu": "15",
+        "sub_cpmk": "Sub-CPMK8",
+        "indikator": [
+          "8.1 Ketepatan menganalisis isu etika profesi TI dan regulasi UU ITE",
+          "8.2 Kualitas presentasi studi kasus dilema etika profesi komputer"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik presentasi studi kasus etika",
+          "**Non-tes:** Seminar presentasi tim",
+          "**Tes:** -"
+        ],
+        "metode": [
+          "**Bentuk:** Seminar kelas",
+          "**Metode:** Project-Based Learning (PjBL)",
+          "[PB: 1×(3×50\")]"
+        ],
+        "penugasan": [
+          "Mandiri: Finalisasi laporan dan slide presentasi etika profesi",
+          "[PT: 1×(3×60\")]",
+          "[KM: 1×(3×60\")]"
+        ],
+        "materi": [
+          "Etika Profesi Informatika, HAKI, dan Kerangka Regulasi Siber",
+          "[1] Bab 11; [2] Bab 13"
+        ],
+        "bobot": "1%"
+      },
+      {
+        "minggu": "16",
+        "sub_cpmk": "Evaluasi Akhir Semester (UAS)",
+        "indikator": [
+          "Evaluasi pencapaian kompetensi akhir seluruh materi"
+        ],
+        "kriteria": [
+          "Kriteria: Rubrik Proyek Akhir / Portofolio / Ujian Akhir"
+        ],
+        "metode": [
+          "Ujian Akhir Semester / Presentasi Proyek"
+        ],
+        "penugasan": [
+          "Laporan Akhir & Demonstrasi"
+        ],
+        "materi": [
+          "**Evaluasi Akhir Semester / Ujian Akhir Semester (UAS)** – Evaluasi integratif penguasaan Sub-CPMK5 s.d. Sub-CPMK8  [PB: 1×(3×50\")] - *Pelaksanaan ujian tertulis analitis dan penilaian presentasi studi kasus etika"
+        ],
+        "bobot": "40%"
+      }
+    ],
+    "file_docx": "Output_RPS_Sem1/IF1302-Pengantar Teknologi Informasi/RPS-IF1302-Pengantar Teknologi Informasi.docx",
+    "file_size": "54 KB"
+  },
+  {
+    "kode": "IF1303",
+    "nama": "Arsitektur Komputer",
+    "semester": 1,
+    "semester_label": "Semester 1 (Gasal)",
+    "sks_teori": 2,
+    "sks_praktik": 1,
+    "sks_total": 3,
+    "rumpun": "Sistem Komputer & Jaringan (MK Kompetensi Utama)",
+    "tanggal": "1 September 2026",
+    "pengembang": "Aris Wijayanti, M.Kom",
+    "koordinator": "Aris Wijayanti, M.Kom",
+    "kaprodi": "Amaludin Arifia, S.Kom., M.Kom.",
+    "syarat": "Tidak ada",
+    "deskripsi": "Mata kuliah Arsitektur Komputer mempelajari struktur mendasar, keterkaitan fungsional, dan prinsip perancangan komponen internal sistem komputer. Pembahasan mencakup evolusi arsitektur Von Neumann, siklus eksekusi instruksi, perancangan ALU dan operasi biner IEEE 754, Instruction Set Architecture (ISA), teknik pipelining dan penanganan hazard, organisasi hierarki memori (Cache, RAM, Virtual Memory), sistem interkoneksi bus, teknik I/O dan Direct Memory Access (DMA), serta perkembangan prosesor multicore dan GPU modern. Mahasiswa dibekali kemampuan menganalisis trade-off antara kinerja perangkat keras dan kompleksitas instruksi perangkat lunak.",
+    "cpl": [
+      {
+        "kode": "CPL03",
+        "deskripsi": "Memiliki kemampuan memahami cara kerja sistem komputer serta menerapkan berbagai algoritma/metode untuk memecahkan masalah dalam suatu organisasi. **(Kognitif – C2, C3)**"
+      },
+      {
+        "kode": "CPL05",
+        "deskripsi": "Menguasai konsep teoritis dalam bidang Informatika/Ilmu Komputer untuk mendesain dan mensimulasikan aplikasi teknologi multi-platform yang sesuai dengan kebutuhan industri dan masyarakat. **(Kognitif – C2, C6)**"
+      }
+    ],
+    "cpmk": [
+      {
+        "kode": "CPMK031",
+        "deskripsi": "Mampu **menjelaskan** struktur hierarkis, organisasi internal, dan siklus eksekusi instruksi pada CPU modern [C2]. — Kontribusi 50% terhadap CPL03"
+      },
+      {
+        "kode": "CPMK032",
+        "deskripsi": "Mampu **menganalisis** mekanisme transfer data interkoneksi bus, sistem I/O, dan sistem interupsi pada komputer [C4]. — Kontribusi 50% terhadap CPL03"
+      },
+      {
+        "kode": "CPMK051",
+        "deskripsi": "Mampu **mengevaluasi** kinerja hierarki memori (Cache, RAM, Virtual Memory) dan arsitektur prosesor (RISC, CISC, Pipelining, Multicore) [C5]. — Kontribusi 100% terhadap CPL05"
+      }
+    ],
+    "sub_cpmk": [
+      {
+        "kode": "Sub-CPMK1",
+        "deskripsi": "Mahasiswa mampu **menjelaskan** perbedaan organisasi dan arsitektur komputer, sejarah evolusi arsitektur komputer (Von Neumann), serta metrik pengukuran kinerja komputer [C2, A2] (CPMK031)"
+      },
+      {
+        "kode": "Sub-CPMK2",
+        "deskripsi": "Mahasiswa mampu **menguraikan** siklus instruksi (fetch, decode, execute, interrupt) dan struktur set register pada Central Processing Unit (CPU) [C2, A2] (CPMK031)"
+      },
+      {
+        "kode": "Sub-CPMK3",
+        "deskripsi": "Mahasiswa mampu **menganalisis** arsitektur Arithmetic and Logic Unit (ALU), representasi data fixed-point/floating-point (IEEE 754), dan operasi aritmetika biner [C4, A2] (CPMK031)"
+      },
+      {
+        "kode": "Sub-CPMK4",
+        "deskripsi": "Mahasiswa mampu **menjelaskan** arsitektur Instruction Set Architecture (ISA), mode pengalamatan (addressing modes), serta perbandingan karakteristik RISC vs CISC [C2, A2] (CPMK031)"
+      },
+      {
+        "kode": "Sub-CPMK5",
+        "deskripsi": "Mahasiswa mampu **menganalisis** konsep pipelining instruksi, hazard pipelining (structural, data, control hazard), dan strategi penanganannya [C4, A3] (CPMK051)"
+      },
+      {
+        "kode": "Sub-CPMK6",
+        "deskripsi": "Mahasiswa mampu **mengevaluasi** hierarki memori komputer, prinsip locality of reference, organisasi cache memory (mapping, replacement policy), dan memori virtual [C5, A3] (CPMK051)"
+      },
+      {
+        "kode": "Sub-CPMK7",
+        "deskripsi": "Mahasiswa mampu **menguraikan** struktur interkoneksi bus (data, address, control bus) serta teknik modul I/O (programmed I/O, interrupt-driven I/O, dan Direct Memory Access / DMA) [C3, A2] (CPMK032)"
+      },
+      {
+        "kode": "Sub-CPMK8",
+        "deskripsi": "Mahasiswa mampu **menganalisis** perkembangan arsitektur prosesor paralel, multicore processor, Graphics Processing Unit (GPU), dan arsitektur komputasi modern [C4, A3] (CPMK051)"
+      }
+    ],
+    "bahan_kajian": [
+      "Bahan kajian standar APTIKOM 2024: **BK15 Systems Fundamentals** dan **BK16 Architecture and Organization**.",
+      "1. **Konsep Dasar & Metrik Kinerja:** Arsitektur vs organisasi, arsitektur Von Neumann, hukum Moore, Amdahl’s Law, metrik CPI dan MIPS. (Sub-CPMK1)",
+      "2. **Struktur CPU & Siklus Instruksi:** Register internal CPU, siklus fetch-decode-execute, diagram status instruksi, dan mekanisme interupsi. (Sub-CPMK2)",
+      "3. **Arsitektur ALU & Operasi Biner:** Representasi integer signed/unsigned, aritmetika floating point IEEE 754, operasi carry-lookahead adder. (Sub-CPMK3)",
+      "4. **Instruction Set Architecture (ISA):** Format instruksi, tipe operan, mode pengalamatan (immediate, direct, indirect, register), perbandingan RISC vs CISC. (Sub-CPMK4)",
+      "5. **Pipelining Instruksi CPU:** Tahapan pipeline (IF, ID, EX, MEM, WB), pipeline stall, structural hazard, data hazard (data forwarding), control hazard (branch prediction). (Sub-CPMK5)",
+      "6. **Hierarki Memori & Cache:** Kebutuhan hierarki memori, prinsip lokalitas (spatial & temporal), pemetaan cache (direct, associative, set-associative), algoritma LRU, cache write policy. (Sub-CPMK6)",
+      "7. **Sistem Bus & Modul I/O:** Bus data, address, control, arbitrase bus, teknik I/O (polling, interrupt-driven, DMA controller), PCIe, dan USB bus. (Sub-CPMK7)",
+      "8. **Arsitektur Multicore & Paralel:** Taksonomi Flynn (SISD, SIMD, MIMD), arsitektur multicore, GPU compute architecture, dan tren komputasi heterogen. (Sub-CPMK8)"
+    ],
+    "pustaka_utama": [
+      "[1] Stallings, W. (2018). *Computer Organization and Architecture: Designing for Performance* (11th ed.). London: Pearson.",
+      "[2] Patterson, D. A., & Hennessy, J. L. (2020). *Computer Organization and Design: The Hardware/Software Interface* (6th ed.). Cambridge: Morgan Kaufmann."
+    ],
+    "pustaka_pendukung": [
+      "[3] Tanenbaum, A. S., & Austin, T. (2016). *Structured Computer Organization* (6th ed.). Boston: Pearson.",
+      "[4] Null, L., & Lobur, J. (2018). *The Essentials of Computer Organization and Architecture* (5th ed.). Burlington: Jones & Bartlett Learning."
+    ],
+    "penilaian": {
+      "mekanisme": [
+        "kontrak perkuliahan dan mekanisme asesmen disampaikan di awal perkuliahan;",
+        "komposisi penilaian: Partisipasi Harian (10%), Tugas Terstruktur (20%), UTS (30%), dan UAS (40%);",
+        "umpan balik tugas diberikan guna mengoreksi kelemahan analisis teknis mahasiswa;",
+        "konversi nilai akhir mengacu pada peraturan akademik UNIROW;",
+        "nilai akhir diunggah ke SIA UNIROW."
+      ],
+      "teknik": "teknik tes (Ujian Tertulis UTS dan UAS) serta teknik non-tes (evaluasi tugas mandiri, penelusuran simulator pipeline, dan laporan kajian komparasi prosesor). Instrumen menggunakan soal uraian matematis/diagramatik dan rubrik berskala 1–5.",
+      "sifat": "edukatif, otentik, objektif, akuntabel, dan transparan yang menguji penalaran arsitektur hardware komputer."
+    },
+    "p1_asesmen": {
+      "title": "Tabel P1. Rencana asesmen dan bobot penilaian per Sub-CPMK (%)",
+      "rows": [
+        [
+          "Sub-CPMK",
+          "CPL",
+          "Harian",
+          "Tugas-1",
+          "Tugas-2",
+          "Tugas-3",
+          "UTS",
+          "UAS",
+          "Total"
+        ],
+        [
+          "Sub-CPMK1",
+          "CPL03",
+          "2",
+          "3",
+          "",
+          "",
+          "",
+          "",
+          "5"
+        ],
+        [
+          "Sub-CPMK2",
+          "CPL03",
+          "1",
+          "2",
+          "",
+          "",
+          "7",
+          "",
+          "10"
+        ],
+        [
+          "Sub-CPMK3",
+          "CPL03",
+          "1",
+          "",
+          "4",
+          "",
+          "10",
+          "",
+          "15"
+        ],
+        [
+          "Sub-CPMK4",
+          "CPL03",
+          "1",
+          "",
+          "3",
+          "",
+          "13",
+          "",
+          "17"
+        ],
+        [
+          "Sub-CPMK5",
+          "CPL05",
+          "1",
+          "",
+          "",
+          "4",
+          "",
+          "8",
+          "13"
+        ],
+        [
+          "Sub-CPMK6",
+          "CPL05",
+          "2",
+          "",
+          "",
+          "4",
+          "",
+          "10",
+          "16"
+        ],
+        [
+          "Sub-CPMK7",
+          "CPL03",
+          "1",
+          "",
+          "",
+          "",
+          "",
+          "11",
+          "12"
+        ],
+        [
+          "Sub-CPMK8",
+          "CPL05",
+          "1",
+          "",
+          "",
+          "",
+          "",
+          "11",
+          "12"
+        ],
+        [
+          "**Total**",
+          "",
+          "**10**",
+          "**5**",
+          "**7**",
+          "**8**",
+          "**30**",
+          "**40**",
+          "**100**"
+        ]
+      ],
+      "widths": [
+        1560,
+        900,
+        960,
+        960,
+        960,
+        1140,
+        960,
+        960,
+        960
+      ],
+      "note": "Bobot per CPL: CPL03 = 59%, CPL05 = 41%. Nilai Akhir MK = Σ (nilai komponen × bobot komponen) / 100."
+    },
+    "tugas": {
+      "intro": "Tugas terstruktur dirancang untuk mempertajam pemahaman kalkulasi kinerja perangkat keras, alur instruksi, dan arsitektur memori:",
+      "rows": [
+        [
+          "Tugas",
+          "Sub-CPMK, Jenis, Waktu",
+          "Deskripsi Pengerjaan dan Luaran",
+          "Indikator Penilaian",
+          "Bobot"
+        ],
+        [
+          "**Tugas-1**: Kalkulasi Kinerja CPU & Siklus Instruksi",
+          [
+            "Sub-CPMK1, Sub-CPMK2",
+            "Individu",
+            "Minggu 1–3"
+          ],
+          [
+            "A. Menghitung CPI rata-rata dan speedup berdasarkan hukum Amdahl.",
+            "B. Menggambar diagram siklus instruksi lengkap dengan register CPU.",
+            "Luaran: Laporan penyelesaian soal perhitungan teknis."
+          ],
+          [
+            "1. Akurasi kalkulasi matematis",
+            "2. Ketepatan diagram alur siklus",
+            "3. Kerapian penyajian"
+          ],
+          "5%"
+        ],
+        [
+          "**Tugas-2**: Representasi IEEE 754 & Komparasi ISA",
+          [
+            "Sub-CPMK3, Sub-CPMK4",
+            "Kelompok (3 mhs)",
+            "Minggu 5–7"
+          ],
+          [
+            "A. Mengonversi bilangan desimal pecahan ke format IEEE 754 32-bit (single precision).",
+            "B. Membandingkan struktur format instruksi MIPS (RISC) vs x86 (CISC).",
+            "Luaran: Makalah analisis komparatif ISA."
+          ],
+          [
+            "1. Ketepatan format biner IEEE 754",
+            "2. Kedalaman komparasi arsitektur ISA",
+            "3. Kerja sama tim"
+          ],
+          "7%"
+        ],
+        [
+          "**Tugas-3**: Analisis Timing Pipelining & Hit Cache",
+          [
+            "Sub-CPMK5 s.d. Sub-CPMK8",
+            "Kelompok (4–5 mhs)",
+            "Minggu 9–15"
+          ],
+          [
+            "A. Menganalisis timing diagram pipeline dan merancang forwarding path untuk mengatasi data hazard.",
+            "B. Menghitung hit ratio dan AMAT pada hierarki cache L1/L2.",
+            "Luaran: Laporan teknis simulasi pipeline & cache."
+          ],
+          [
+            "1. Ketepatan timing diagram",
+            "2. Akurasi kalkulasi AMAT",
+            "3. Kualitas presentasi kelompok"
+          ],
+          "8%"
+        ]
+      ]
+    },
+    "mingguan": [
+      {
+        "minggu": "1–2",
+        "sub_cpmk": "Sub-CPMK1",
+        "indikator": [
+          "1.1 Ketepatan membedakan konsep arsitektur dan organisasi komputer",
+          "1.2 Kemampuan menghitung metrik performa CPU (CPI, Execution Time, Speedup)"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik pemahaman arsitektur",
+          "**Non-tes:** Diskusi kelas",
+          "**Tes:** Kuis metrik kinerja"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah interaktif",
+          "**Metode:** Problem-Based Learning",
+          "[PB: 2×(3×50\")]"
+        ],
+        "penugasan": [
+          "**Tugas-1 (individu):** Soal analisis kinerja CPU berbasis hukum Amdahl",
+          "[PT: 2×(3×60\")]",
+          "[KM: 2×(3×60\")]"
+        ],
+        "materi": [
+          "Evolusi Arsitektur Komputer dan Pengukuran Kinerja Sistem",
+          "[1] Bab 1–2; [2] Bab 1"
+        ],
+        "bobot": "5%"
+      },
+      {
+        "minggu": "3–4",
+        "sub_cpmk": "Sub-CPMK2",
+        "indikator": [
+          "2.1 Ketepatan merinci alur eksekusi siklus instruksi pada register CPU",
+          "2.2 Kemampuan menelusuri penanganan interupsi perangkat keras"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik diagram alir CPU",
+          "**Non-tes:** Simulasi siklus instruksi",
+          "**Tes:** -"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah & demonstrasi visual",
+          "**Metode:** Discovery Learning",
+          "[PB: 2×(3×50\")]"
+        ],
+        "penugasan": [
+          "Mandiri: Latihan penelusuran status register pada tiap fase fetch-execute",
+          "[PT: 2×(3×60\")]",
+          "[KM: 2×(3×60\")]"
+        ],
+        "materi": [
+          "Organisasi CPU, Set Register, dan Siklus Eksekusi Instruksi",
+          "[1] Bab 14; [2] Bab 4"
+        ],
+        "bobot": "3%"
+      },
+      {
+        "minggu": "5–6",
+        "sub_cpmk": "Sub-CPMK3",
+        "indikator": [
+          "3.1 Ketepatan konversi dan operasi aritmetika floating point IEEE 754",
+          "3.2 Kemampuan menganalisis rangkaian logika ALU pada operasi biner"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik akurasi perhitungan aritmetika",
+          "**Non-tes:** Latihan soal terbimbing",
+          "**Tes:** -"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah & tutorial latihan",
+          "**Metode:** Collaborative Learning",
+          "[PB: 2×(3×50\")]"
+        ],
+        "penugasan": [
+          "**Tugas-2 (kelompok):** Analisis representasi floating point IEEE 754 dan desain adder",
+          "[PT: 2×(3×60\")]",
+          "[KM: 2×(3×60\")]"
+        ],
+        "materi": [
+          "Arsitektur Arithmetic Logic Unit (ALU) dan Format Data Biner",
+          "[1] Bab 9–10; [3] Bab 3"
+        ],
+        "bobot": "5%"
+      },
+      {
+        "minggu": "7",
+        "sub_cpmk": "Sub-CPMK4",
+        "indikator": [
+          "4.1 Ketepatan menganalisis keunggulan format instruksi RISC vs CISC",
+          "4.2 Kemampuan menentukan mode pengalamatan memori yang efektif"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik analisis komparasi ISA",
+          "**Non-tes:** Diskusi studi kasus arsitektur ARM vs x86",
+          "**Tes:** Kuis persiapan UTS"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah interaktif",
+          "**Metode:** Case-Based Learning (CBL)",
+          "[PB: 1×(3×50\")]"
+        ],
+        "penugasan": [
+          "Mandiri: Resume perbandingan format instruksi MIPS/ARM dan x86",
+          "[PT: 1×(3×60\")]",
+          "[KM: 1×(3×60\")]"
+        ],
+        "materi": [
+          "Instruction Set Architecture (ISA) dan Mode Pengalamatan",
+          "[1] Bab 12–13; [2] Bab 2"
+        ],
+        "bobot": "4%"
+      },
+      {
+        "minggu": "8",
+        "sub_cpmk": "Evaluasi Tengah Semester (UTS)",
+        "indikator": [
+          "Evaluasi penguasaan materi minggu 1 s.d. 7"
+        ],
+        "kriteria": [
+          "Kriteria: Rubrik Ujian Tertulis / Praktik"
+        ],
+        "metode": [
+          "Ujian Tengah Semester Terjadwal"
+        ],
+        "penugasan": [
+          "Mengerjakan lembar soal UTS"
+        ],
+        "materi": [
+          "**Evaluasi Tengah Semester / Ujian Tengah Semester (UTS)** – Ujian tertulis uraian dan analisis teknis Sub-CPMK1 s.d. Sub-CPMK4  [PB: 1×(3×50\")]"
+        ],
+        "bobot": "30%"
+      },
+      {
+        "minggu": "9–10",
+        "sub_cpmk": "Sub-CPMK5",
+        "indikator": [
+          "5.1 Ketepatan menganalisis alur eksekusi pipeline 5 tahap",
+          "5.2 Kemampuan merancang solusi mitigasi pipeline hazard (forwarding & branch prediction)"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik timing diagram pipeline",
+          "**Non-tes:** Simulasi MIPS pipeline",
+          "**Tes:** -"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah & simulasi software",
+          "**Metode:** Problem-Based Learning",
+          "[PB: 2×(3×50\")]"
+        ],
+        "penugasan": [
+          "**Tugas-3 (kelompok):** Analisis timing diagram pipeline dan deteksi hazard pada cuplikan kode assembly",
+          "[PT: 2×(3×60\")]",
+          "[KM: 2×(3×60\")]"
+        ],
+        "materi": [
+          "Arsitektur Pipelining CPU dan Strategi Penanganan Hazard",
+          "[1] Bab 14; [2] Bab 4"
+        ],
+        "bobot": "5%"
+      },
+      {
+        "minggu": "11–12",
+        "sub_cpmk": "Sub-CPMK6",
+        "indikator": [
+          "6.1 Ketepatan menghitung hit ratio, miss penalty, dan average memory access time (AMAT)",
+          "6.2 Kemampuan menganalisis skema mapping direct vs set-associative cache"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik kalkulasi memori cache",
+          "**Non-tes:** Eksplorasi simulator cache",
+          "**Tes:** -"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah interaktif",
+          "**Metode:** Discovery Learning",
+          "[PB: 2×(3×50\")]"
+        ],
+        "penugasan": [
+          "Mandiri: Latihan perhitungan AMAT dan penelusuran alamat cache tag/index",
+          "[PT: 2×(3×60\")]",
+          "[KM: 2×(3×60\")]"
+        ],
+        "materi": [
+          "Organisasi Hierarki Memori, Cache Memory, dan Virtual Memory",
+          "[1] Bab 4–5; [2] Bab 5"
+        ],
+        "bobot": "6%"
+      },
+      {
+        "minggu": "13–14",
+        "sub_cpmk": "Sub-CPMK7",
+        "indikator": [
+          "7.1 Ketepatan menguraikan mekanisme Direct Memory Access (DMA)",
+          "7.2 Kemampuan menganalisis arbitrase bus dan manajemen interupsi perangkat I/O"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik arsitektur I/O",
+          "**Non-tes:** Diskusi arsitektur bus PCIe/USB",
+          "**Tes:** -"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah interaktif",
+          "**Metode:** Small Group Discussion",
+          "[PB: 2×(3×50\")]"
+        ],
+        "penugasan": [
+          "Mandiri: Resume cara kerja DMA Controller dalam transfer blok data memori",
+          "[PT: 2×(3×60\")]",
+          "[KM: 2×(3×60\")]"
+        ],
+        "materi": [
+          "Sistem Interkoneksi Bus dan Arsitektur Modul Input/Output",
+          "[1] Bab 3 & 7; [3] Bab 5"
+        ],
+        "bobot": "1%"
+      },
+      {
+        "minggu": "15",
+        "sub_cpmk": "Sub-CPMK8",
+        "indikator": [
+          "8.1 Ketepatan menjelaskan arsitektur multicore dan pemrosesan paralel GPU",
+          "8.2 Kemampuan menyajikan laporan telaah perkembangan arsitektur prosesor mutakhir"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik presentasi arsitektur mutakhir",
+          "**Non-tes:** Seminar kelompok",
+          "**Tes:** -"
+        ],
+        "metode": [
+          "**Bentuk:** Seminar kelas",
+          "**Metode:** Project-Based Learning (PjBL)",
+          "[PB: 1×(3×50\")]"
+        ],
+        "penugasan": [
+          "Mandiri: Finalisasi laporan kajian arsitektur GPU/TPU modern",
+          "[PT: 1×(3×60\")]",
+          "[KM: 1×(3×60\")]"
+        ],
+        "materi": [
+          "Arsitektur Multicore, GPU Computing, dan Perkembangan Prosesor Mutakhir",
+          "[1] Bab 18; [2] Bab 6"
+        ],
+        "bobot": "1%"
+      },
+      {
+        "minggu": "16",
+        "sub_cpmk": "Evaluasi Akhir Semester (UAS)",
+        "indikator": [
+          "Evaluasi pencapaian kompetensi akhir seluruh materi"
+        ],
+        "kriteria": [
+          "Kriteria: Rubrik Proyek Akhir / Portofolio / Ujian Akhir"
+        ],
+        "metode": [
+          "Ujian Akhir Semester / Presentasi Proyek"
+        ],
+        "penugasan": [
+          "Laporan Akhir & Demonstrasi"
+        ],
+        "materi": [
+          "**Evaluasi Akhir Semester / Ujian Akhir Semester (UAS)** – Ujian komprehensif Sub-CPMK5 s.d. Sub-CPMK8  [PB: 1×(3×50\")] - *Ujian tertulis komprehensif dan evaluasi portofolio tugas"
+        ],
+        "bobot": "40%"
+      }
+    ],
+    "file_docx": "Output_RPS_Sem1/IF1303-Arsitektur Komputer/RPS-IF1303-Arsitektur Komputer.docx",
+    "file_size": "54 KB"
+  },
+  {
+    "kode": "IF1404",
+    "nama": "Algoritma dan Pemrograman Dasar",
+    "semester": 1,
+    "semester_label": "Semester 1 (Gasal)",
+    "sks_teori": 2,
+    "sks_praktik": 2,
+    "sks_total": 4,
+    "rumpun": "Algoritma dan Pemrograman (MK Kompetensi Utama)",
+    "tanggal": "1 September 2026",
+    "pengembang": "Andik Adi Suryanto, M.Kom",
+    "koordinator": "Andik Adi Suryanto, M.Kom",
+    "kaprodi": "Amaludin Arifia, S.Kom., M.Kom.",
+    "syarat": "Tidak ada",
+    "deskripsi": "Mata kuliah Algoritma dan Pemrograman Dasar adalah mata kuliah kompetensi utama pemrograman yang membekali mahasiswa dengan pola pikir algoritmik (computational thinking) dan keterampilan praktis penulisan kode program terstruktur. Mahasiswa mempelajari perancangan algoritma menggunakan flowchart dan pseudocode, tipe data primitif, operator, struktur kontrol percabangan dan perulangan, pemrograman modular dengan fungsi dan prosedur, passing parameter, rekursi, manipulasi array satu dan banyak dimensi, algoritma searching dan sorting klasik, hingga tipe data terstruktur (struct). Perkuliahan menitikberatkan pada sesi praktikum di laboratorium untuk melatih kemandirian debugging, efisiensi logika program, dan clean code.",
+    "cpl": [
+      {
+        "kode": "CPL03",
+        "deskripsi": "Memiliki kemampuan memahami cara kerja sistem komputer serta menerapkan berbagai algoritma/metode untuk memecahkan masalah dalam suatu organisasi. **(Kognitif – C2, C3)**"
+      },
+      {
+        "kode": "CPL08",
+        "deskripsi": "Memiliki kemampuan untuk mengimplementasikan kebutuhan computing dengan menggunakan berbagai metode/algoritma yang sesuai dengan kebutuhan pengguna. **(Kognitif – C3, Psikomotorik – P3)**"
+      }
+    ],
+    "cpmk": [
+      {
+        "kode": "CPMK031",
+        "deskripsi": "Mampu **menganalisis** logika komputasi dan menyusun rancangan algoritma terstruktur menggunakan pseudocode dan flowchart [C4]. — Kontribusi 50% terhadap CPL03"
+      },
+      {
+        "kode": "CPMK032",
+        "deskripsi": "Mampu **mengevaluasi** efisiensi algoritma pencarian dan pengurutan dalam penyelesaian masalah pemrograman dasar [C5]. — Kontribusi 50% terhadap CPL03"
+      },
+      {
+        "kode": "CPMK081",
+        "deskripsi": "Mampu **mengimplementasikan** algoritma ke dalam kode program yang bersih, modular, dan bebas error menggunakan bahasa pemrograman terstruktur (C/C++) [C3, P3]. — Kontribusi 100% terhadap CPL08"
+      }
+    ],
+    "sub_cpmk": [
+      {
+        "kode": "Sub-CPMK1",
+        "deskripsi": "Mahasiswa mampu **menjelaskan** konsep dasar algoritma, pemrograman terstruktur, lingkungan IDE, serta struktur umum program [C2, P2] (CPMK031)"
+      },
+      {
+        "kode": "Sub-CPMK2",
+        "deskripsi": "Mahasiswa mampu **menerapkan** tipe data dasar, variabel, konstanta, operator aritmetika/logika, dan operasi input-output dalam penulisan kode program [C3, P3] (CPMK081)"
+      },
+      {
+        "kode": "Sub-CPMK3",
+        "deskripsi": "Mahasiswa mampu **mengimplementasikan** struktur kontrol percabangan/pemilihan (if, if-else, nested-if, switch-case) untuk menyelesaikan skenario pengambilan keputusan [C3, P3] (CPMK081)"
+      },
+      {
+        "kode": "Sub-CPMK4",
+        "deskripsi": "Mahasiswa mampu **mengimplementasikan** struktur kontrol perulangan/iterasi (for, while, do-while, nested-loop) dan kontrol aliran loncatan (break, continue) [C3, P3] (CPMK081)"
+      },
+      {
+        "kode": "Sub-CPMK5",
+        "deskripsi": "Mahasiswa mampu **mengembangkan** program modular menggunakan fungsi (function), prosedur, passing parameter (by value & by reference), dan fungsi rekursif [C3, P3] (CPMK081)"
+      },
+      {
+        "kode": "Sub-CPMK6",
+        "deskripsi": "Mahasiswa mampu **mengimplementasikan** struktur data Array 1 Dimensi dan Multidimensi serta manipulasi string [C3, P3] (CPMK081)"
+      },
+      {
+        "kode": "Sub-CPMK7",
+        "deskripsi": "Mahasiswa mampu **menerapkan** algoritma pencarian (Linear Search, Binary Search) dan pengurutan (Bubble Sort, Selection Sort, Insertion Sort) pada array [C3, P4] (CPMK032)"
+      },
+      {
+        "kode": "Sub-CPMK8",
+        "deskripsi": "Mahasiswa mampu **merancang** dan menyelesaikan proyek aplikasi konsol terstruktur yang menggabungkan seluruh konsep algoritma, pemrograman modular, dan struktur data rekaman (struct/record) [C6, P4] (CPMK081)"
+      }
+    ],
+    "bahan_kajian": [
+      "Bahan kajian standar APTIKOM 2024: **BK05 Software Development Fundamentals**, **BK12 Algorithmic Foundations**, dan **BK14 Programming Fundamentals**.",
+      "1. **Konsep Algoritma & Lingkungan Pemrograman:** Definisi algoritma, diagram alir (flowchart), pseudocode, instalasi IDE (GCC/CodeBlocks/VSCode), struktur program C/C++. (Sub-CPMK1)",
+      "2. **Variabel, Tipe Data, & Operator:** Tipe data primitif (int, float, char, bool), variabel, konstanta, operator aritmetika, rasional, logika, assignment, dan I/O (printf/scanf, cin/cout). (Sub-CPMK2)",
+      "3. **Struktur Kontrol Percabangan:** Pernyataan if, if-else, nested if-else, switch-case, operator ternary, dan penanganan kondisi majemuk. (Sub-CPMK3)",
+      "4. **Struktur Kontrol Perulangan:** Sintaks for loop, while loop, do-while loop, nested loop, pernyataan break, continue, dan pencegahan infinite loop. (Sub-CPMK4)",
+      "5. **Pemrograman Modular & Rekursi:** Konsep fungsi dan prosedur, prototipe fungsi, scope variabel (lokal vs global), passing parameter by value dan by reference, fungsi rekursif. (Sub-CPMK5)",
+      "6. **Struktur Data Array & String:** Deklarasi dan inisialisasi array 1D, array multidimensi (matriks), operasi traversal, manipulasi string, dan library string.h/cstring. (Sub-CPMK6)",
+      "7. **Algoritma Searching & Sorting:** Linear search, binary search, bubble sort, selection sort, insertion sort, dan analisis komparasi efisiensi langkah. (Sub-CPMK7)",
+      "8. **Tipe Data Rekaman (Struct) & Proyek Akhir:** Deklarasi struct, array of struct, nested struct, pengantar pointer dasar, dan integrasi modul aplikasi mini. (Sub-CPMK8)"
+    ],
+    "pustaka_utama": [
+      "[1] Deitel, P. J., & Deitel, H. M. (2016). *C: How to Program* (8th ed.). Boston: Pearson.",
+      "[2] Gaddis, T. (2018). *Starting Out with C++: From Control Structures through Objects* (9th ed.). Boston: Pearson."
+    ],
+    "pustaka_pendukung": [
+      "[3] Munir, R., & Lidya, L. (2016). *Algoritma dan Pemrograman dalam Bahasa Pascal, C, dan C++*. Bandung: Informatika Bandung.",
+      "[4] Sedgewick, R., & Wayne, K. (2016). *Algorithms* (4th ed.). Boston: Addison-Wesley Professional."
+    ],
+    "penilaian": {
+      "mekanisme": [
+        "kontrak perkuliahan dan tata tertib laboratorium praktikum disepakati pada pertemuan pertama;",
+        "komposisi penilaian akhir: Keaktifan/Kuis Lab (10%), Tugas Praktikum Mandiri/Kelompok (20%), UTS Praktik (30%), dan UAS Praktik/Proyek (40%);",
+        "setiap mahasiswa wajib menyelesaikan tugas pemrograman secara mandiri dengan kode yang bebas plagiasi (deteksi similarity code);",
+        "konversi nilai akhir mengacu pada pedoman akademik resmi UNIROW;",
+        "seluruh nilai akhir diunggah ke SIA UNIROW."
+      ],
+      "teknik": "teknik tes (Ujian Koding Langsung / Live Coding UTS dan UAS) serta teknik non-tes (portofolio source code, laporan praktikum mingguan, keaktifan problem solving, dan demo proyek aplikasi). Instrumen berupa lembar spesifikasi program dan rubrik penilaian koding skala 1–5.",
+      "sifat": "edukatif, otentik, objektif, akuntabel, dan transparan yang menguji kemampuan implementasi algoritma nyata."
+    },
+    "p1_asesmen": {
+      "title": "Tabel P1. Rencana asesmen dan bobot penilaian per Sub-CPMK (%)",
+      "rows": [
+        [
+          "Sub-CPMK",
+          "CPL",
+          "Harian",
+          "Tugas-1",
+          "Tugas-2",
+          "Tugas-3",
+          "UTS",
+          "UAS",
+          "Total"
+        ],
+        [
+          "Sub-CPMK1",
+          "CPL03",
+          "2",
+          "3",
+          "",
+          "",
+          "",
+          "",
+          "5"
+        ],
+        [
+          "Sub-CPMK2",
+          "CPL08",
+          "1",
+          "2",
+          "",
+          "",
+          "7",
+          "",
+          "10"
+        ],
+        [
+          "Sub-CPMK3",
+          "CPL08",
+          "1",
+          "",
+          "4",
+          "",
+          "10",
+          "",
+          "15"
+        ],
+        [
+          "Sub-CPMK4",
+          "CPL08",
+          "1",
+          "",
+          "3",
+          "",
+          "13",
+          "",
+          "17"
+        ],
+        [
+          "Sub-CPMK5",
+          "CPL08",
+          "1",
+          "",
+          "",
+          "4",
+          "",
+          "8",
+          "13"
+        ],
+        [
+          "Sub-CPMK6",
+          "CPL08",
+          "2",
+          "",
+          "",
+          "4",
+          "",
+          "10",
+          "16"
+        ],
+        [
+          "Sub-CPMK7",
+          "CPL03",
+          "1",
+          "",
+          "",
+          "",
+          "",
+          "11",
+          "12"
+        ],
+        [
+          "Sub-CPMK8",
+          "CPL08",
+          "1",
+          "",
+          "",
+          "",
+          "",
+          "11",
+          "12"
+        ],
+        [
+          "**Total**",
+          "",
+          "**10**",
+          "**5**",
+          "**7**",
+          "**8**",
+          "**30**",
+          "**40**",
+          "**100**"
+        ]
+      ],
+      "widths": [
+        1560,
+        900,
+        960,
+        960,
+        960,
+        1140,
+        960,
+        960,
+        960
+      ],
+      "note": "Bobot per CPL: CPL03 = 17%, CPL08 = 83%. Nilai Akhir MK = Σ (nilai komponen × bobot komponen) / 100."
+    },
+    "tugas": {
+      "intro": "Tugas pemrograman dirancang bertahap dari pemahaman sintaks dasar hingga pembuatan aplikasi konsol terintegrasi:",
+      "rows": [
+        [
+          "Tugas",
+          "Sub-CPMK, Jenis, Waktu",
+          "Deskripsi Pengerjaan dan Luaran",
+          "Indikator Penilaian",
+          "Bobot"
+        ],
+        [
+          "**Tugas-1**: Desain Algoritma & Kalkulator Sederhana",
+          [
+            "Sub-CPMK1, Sub-CPMK2",
+            "Individu",
+            "Minggu 1–3"
+          ],
+          [
+            "A. Merancang flowchart dan pseudocode penyelesaian masalah aritmetika.",
+            "B. Mengimplementasikan ke program C/C++ yang bersih.",
+            "Luaran: File source code (.c/.cpp) & diagram flowchart."
+          ],
+          [
+            "1. Logika flowchart",
+            "2. Ketepatan sintaks & kompilasi bebas error",
+            "3. Kerapian indentasi"
+          ],
+          "5%"
+        ],
+        [
+          "**Tugas-2**: Program Pengambil Keputusan & Pola Matriks",
+          [
+            "Sub-CPMK3, Sub-CPMK4",
+            "Individu",
+            "Minggu 5–7"
+          ],
+          [
+            "A. Membangun program penentuan tarif tagihan listrik berdasarkan golongan dan pemakaian.",
+            "B. Membuat perulangan pembentuk pola piramida angka.",
+            "Luaran: Source code program & laporan uji coba testing data."
+          ],
+          [
+            "1. Kelengkapan kasus percabangan",
+            "2. Akurasi looping",
+            "3. Kemampuan validasi input user"
+          ],
+          "7%"
+        ],
+        [
+          "**Tugas-3**: Proyek Aplikasi Mini Manajemen Data Konsol",
+          [
+            "Sub-CPMK5 s.d. Sub-CPMK8",
+            "Kelompok (2 mhs)",
+            "Minggu 9–15"
+          ],
+          [
+            "A. Merancang aplikasi konsol manajemen data inventaris/toko buku/klinik.",
+            "B. Mengintegrasikan fungsi modular, array of struct, searching, dan sorting.",
+            "Luaran: Source code aplikasi modular, manual user, & video demo."
+          ],
+          [
+            "1. Modularitas fungsi",
+            "2. Implementasi searching & sorting",
+            "3. Kualitas demo koding"
+          ],
+          "8%"
+        ]
+      ]
+    },
+    "mingguan": [
+      {
+        "minggu": "1–2",
+        "sub_cpmk": "Sub-CPMK1",
+        "indikator": [
+          "1.1 Ketepatan merumuskan diagram alir (flowchart) dan pseudocode solusi masalah",
+          "1.2 Keterampilan mengoperasikan compiler/IDE dan menulis struktur dasar kode program"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik flowchart & sintaks",
+          "**Non-tes:** Praktik laboratorium koding",
+          "**Tes:** Kuis logika algoritmik"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah & Praktikum Lab",
+          "**Metode:** Discovery Learning & Hands-on Lab",
+          "[PB: 2×(4×50\")]"
+        ],
+        "penugasan": [
+          "**Tugas-1 (individu):** Desain flowchart dan program C/C++ kalkulator sederhana",
+          "[PT: 2×(4×60\")]",
+          "[KM: 2×(4×60\")]"
+        ],
+        "materi": [
+          "Pengantar Algoritma, Flowchart, Pseudocode, dan Lingkungan Compiler",
+          "[1] Bab 1–2; [3] Bab 1–3"
+        ],
+        "bobot": "5%"
+      },
+      {
+        "minggu": "3–4",
+        "sub_cpmk": "Sub-CPMK2",
+        "indikator": [
+          "2.1 Ketepatan penentuan tipe data, variabel, dan konstanta sesuai kebutuhan komputasi",
+          "2.2 Kemampuan menerapkan operator aritmetika dan logika dalam kode program"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik kebenaran sintaks & eksekusi",
+          "**Non-tes:** Live coding lab",
+          "**Tes:** -"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah & Praktikum Lab",
+          "**Metode:** Problem-Based Learning",
+          "[PB: 2×(4×50\")]"
+        ],
+        "penugasan": [
+          "Mandiri: Latihan konversi rumus fisika/matematika ke ekspresi program",
+          "[PT: 2×(4×60\")]",
+          "[KM: 2×(4×60\")]"
+        ],
+        "materi": [
+          "Tipe Data Primitif, Operator, dan Operasi Input/Output Terformat",
+          "[1] Bab 3; [2] Bab 2–3"
+        ],
+        "bobot": "3%"
+      },
+      {
+        "minggu": "5–6",
+        "sub_cpmk": "Sub-CPMK3",
+        "indikator": [
+          "3.1 Ketepatan menyusun struktur kondisi percabangan (if-else, switch-case)",
+          "3.2 Kemampuan menganalisis skenario percabangan majemuk dan bertingkat"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik logika percabangan",
+          "**Non-tes:** Evaluasi kode program",
+          "**Tes:** -"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah & Praktikum Lab",
+          "**Metode:** Collaborative Learning",
+          "[PB: 2×(4×50\")]"
+        ],
+        "penugasan": [
+          "**Tugas-2 (individu):** Program sistem penentuan kelulusan dan grade nilai mahasiswa bertingkat",
+          "[PT: 2×(4×60\")]",
+          "[KM: 2×(4×60\")]"
+        ],
+        "materi": [
+          "Struktur Kontrol Percabangan Tunggal, Majemuk, dan Bersarang",
+          "[1] Bab 4; [2] Bab 4"
+        ],
+        "bobot": "5%"
+      },
+      {
+        "minggu": "7",
+        "sub_cpmk": "Sub-CPMK4",
+        "indikator": [
+          "4.1 Ketepatan memilih jenis perulangan (for, while, do-while) yang efisien",
+          "4.2 Kemampuan membuat perulangan bersarang (nested loop) untuk pola visual"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik algoritma looping",
+          "**Non-tes:** Tantangan koding pola bintang/angka",
+          "**Tes:** Kuis persiapan UTS"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah & Praktikum Lab",
+          "**Metode:** Problem-Based Learning",
+          "[PB: 1×(4×50\")]"
+        ],
+        "penugasan": [
+          "Mandiri: Latihan algoritma perulangan dan pencegahan deadlock/infinite loop",
+          "[PT: 1×(4×60\")]",
+          "[KM: 1×(4×60\")]"
+        ],
+        "materi": [
+          "Struktur Kontrol Perulangan (Looping) dan Pernyataan Lompatan",
+          "[1] Bab 5; [2] Bab 5"
+        ],
+        "bobot": "4%"
+      },
+      {
+        "minggu": "8",
+        "sub_cpmk": "Evaluasi Tengah Semester (UTS)",
+        "indikator": [
+          "Evaluasi penguasaan materi minggu 1 s.d. 7"
+        ],
+        "kriteria": [
+          "Kriteria: Rubrik Ujian Tertulis / Praktik"
+        ],
+        "metode": [
+          "Ujian Tengah Semester Terjadwal"
+        ],
+        "penugasan": [
+          "Mengerjakan lembar soal UTS"
+        ],
+        "materi": [
+          "**Evaluasi Tengah Semester / Ujian Tengah Semester (UTS)** – Ujian praktik koding dan ujian tertulis logika pemrograman Sub-CPMK1 s.d. Sub-CPMK4  [PB: 1×(4×50\")]"
+        ],
+        "bobot": "30%"
+      },
+      {
+        "minggu": "9–10",
+        "sub_cpmk": "Sub-CPMK5",
+        "indikator": [
+          "5.1 Ketepatan membagi program menjadi fungsi-fungsi modular yang independen",
+          "5.2 Kemampuan membedakan parameter nilai (by value) dan acuan (by reference) serta rekursi"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik modularitas program",
+          "**Non-tes:** Praktik refactoring kode",
+          "**Tes:** -"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah & Praktikum Lab",
+          "**Metode:** Problem-Based Learning",
+          "[PB: 2×(4×50\")]"
+        ],
+        "penugasan": [
+          "**Tugas-3 (kelompok):** Pengembangan pustaka fungsi matematika & rekursif mandiri",
+          "[PT: 2×(4×60\")]",
+          "[KM: 2×(4×60\")]"
+        ],
+        "materi": [
+          "Pemrograman Modular, Desain Fungsi, Prosedur, dan Rekursi",
+          "[1] Bab 6; [2] Bab 6"
+        ],
+        "bobot": "5%"
+      },
+      {
+        "minggu": "11–12",
+        "sub_cpmk": "Sub-CPMK6",
+        "indikator": [
+          "6.1 Ketepatan mengoperasikan array 1 dimensi dan 2 dimensi (matriks)",
+          "6.2 Kemampuan manipulasi data teks (string) menggunakan fungsi standar"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik manipulasi array",
+          "**Non-tes:** Live coding operasi matriks",
+          "**Tes:** -"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah & Praktikum Lab",
+          "**Metode:** Hands-on Lab Practice",
+          "[PB: 2×(4×50\")]"
+        ],
+        "penugasan": [
+          "Mandiri: Latihan program perkalian dan transpose matriks ordo N×N",
+          "[PT: 2×(4×60\")]",
+          "[KM: 2×(4×60\")]"
+        ],
+        "materi": [
+          "Struktur Data Array Satu dan Banyak Dimensi serta Operasi String",
+          "[1] Bab 7; [2] Bab 7–8"
+        ],
+        "bobot": "6%"
+      },
+      {
+        "minggu": "13–14",
+        "sub_cpmk": "Sub-CPMK7",
+        "indikator": [
+          "7.1 Ketepatan mengimplementasikan algoritma searching (Linear & Binary)",
+          "7.2 Kemampuan menerapkan algoritma sorting (Bubble, Selection, Insertion)"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik efisiensi searching & sorting",
+          "**Non-tes:** Uji kasus dataset array acak",
+          "**Tes:** -"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah & Praktikum Lab",
+          "**Metode:** Discovery Learning",
+          "[PB: 2×(4×50\")]"
+        ],
+        "penugasan": [
+          "Mandiri: Analisis perbandingan jumlah iterasi sorting pada data terurut vs acak",
+          "[PT: 2×(4×60\")]",
+          "[KM: 2×(4×60\")]"
+        ],
+        "materi": [
+          "Algoritma Pencarian (Searching) dan Pengurutan Data (Sorting)",
+          "[1] Bab 8; [4] Bab 2"
+        ],
+        "bobot": "1%"
+      },
+      {
+        "minggu": "15",
+        "sub_cpmk": "Sub-CPMK8",
+        "indikator": [
+          "8.1 Ketepatan merancang tipe data bentukan struct dan array of struct",
+          "8.2 Kualitas penyelesaian proyek mini aplikasi konsol manajemen data berbasis menu"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik penilaian proyek akhir koding",
+          "**Non-tes:** Demo program & wawancara koding",
+          "**Tes:** -"
+        ],
+        "metode": [
+          "**Bentuk:** Presentasi & Demo Proyek",
+          "**Metode:** Project-Based Learning (PjBL)",
+          "[PB: 1×(4×50\")]"
+        ],
+        "penugasan": [
+          "Mandiri: Finalisasi source code aplikasi dan dokumentasi kode (README)",
+          "[PT: 1×(4×60\")]",
+          "[KM: 1×(4×60\")]"
+        ],
+        "materi": [
+          "Tipe Data Bentukan (Struct) dan Penyelesaian Proyek Koding Mandiri",
+          "[1] Bab 10; [2] Bab 11"
+        ],
+        "bobot": "1%"
+      },
+      {
+        "minggu": "16",
+        "sub_cpmk": "Evaluasi Akhir Semester (UAS)",
+        "indikator": [
+          "Evaluasi pencapaian kompetensi akhir seluruh materi"
+        ],
+        "kriteria": [
+          "Kriteria: Rubrik Proyek Akhir / Portofolio / Ujian Akhir"
+        ],
+        "metode": [
+          "Ujian Akhir Semester / Presentasi Proyek"
+        ],
+        "penugasan": [
+          "Laporan Akhir & Demonstrasi"
+        ],
+        "materi": [
+          "**Evaluasi Akhir Semester / Ujian Akhir Semester (UAS)** – Ujian Praktik Koding Laboratorium & Penilaian Proyek Mini Konsol Sub-CPMK5 s.d. Sub-CPMK8  [PB: 1×(4×50\")] - *Pengujian live code debugging dan demonstrasi aplikasi"
+        ],
+        "bobot": "40%"
+      }
+    ],
+    "file_docx": "Output_RPS_Sem1/IF1404-Algoritma dan Pemrograman Dasar/RPS-IF1404-Algoritma dan Pemrograman Dasar.docx",
+    "file_size": "54 KB"
+  },
+  {
+    "kode": "IF1405",
+    "nama": "Basis Data",
+    "semester": 1,
+    "semester_label": "Semester 1 (Gasal)",
+    "sks_teori": 2,
+    "sks_praktik": 2,
+    "sks_total": 4,
+    "rumpun": "Rekayasa Perangkat Lunak dan Data (MK Kompetensi Utama)",
+    "tanggal": "1 September 2026",
+    "pengembang": "Asfan Muqtadir, M.Kom",
+    "koordinator": "Asfan Muqtadir, M.Kom",
+    "kaprodi": "Amaludin Arifia, S.Kom., M.Kom.",
+    "syarat": "Tidak ada",
+    "deskripsi": "Mata kuliah Basis Data memberikan landasan komprehensif mengenai pemodelan, perancangan, pengelolaan, dan manipulasi data terstruktur menggunakan Relational Database Management System (RDBMS). Pembahasan diawali dengan arsitektur DBMS 3-skema, pemodelan data konseptual Entity-Relationship Diagram (ERD), pemetaan skema ERD ke model relasional, aturan integritas referensial, serta teori normalisasi basis data (1NF s.d. BCNF) untuk mencegah anomali data. Pada aspek praktikum, mahasiswa dilatih secara intensif menulis perintah Structured Query Language (SQL) meliputi DDL, DML, agregasi, complex join, subquery, view, hingga indeks data. Di akhir semester, mahasiswa menyusun proyek basis data yang memodelkan sistem informasi organisasi riil.",
+    "cpl": [
+      {
+        "kode": "CPL03",
+        "deskripsi": "Memiliki kemampuan memahami cara kerja sistem komputer serta menerapkan berbagai algoritma/metode untuk memecahkan masalah dalam suatu organisasi. **(Kognitif – C2, C3)**"
+      },
+      {
+        "kode": "CPL05",
+        "deskripsi": "Menguasai konsep teoritis dalam bidang Informatika/Ilmu Komputer untuk mendesain dan mensimulasikan aplikasi teknologi multi-platform yang sesuai dengan kebutuhan industri dan masyarakat. **(Kognitif – C2, C6)**"
+      },
+      {
+        "kode": "CPL08",
+        "deskripsi": "Memiliki kemampuan untuk mengimplementasikan kebutuhan computing dengan menggunakan berbagai metode/algoritma yang sesuai dengan kebutuhan pengguna. **(Kognitif – C3, P3)**"
+      }
+    ],
+    "cpmk": [
+      {
+        "kode": "CPMK031",
+        "deskripsi": "Mampu **menjelaskan** konsep sistem basis data, arsitektur DBMS (tiga skema ANSI-SPARC), dan independensi data [C2]. — Kontribusi 100% terhadap CPL03"
+      },
+      {
+        "kode": "CPMK051",
+        "deskripsi": "Mampu **merancang** model data konseptual dan logikal menggunakan Entity-Relationship Diagram (ERD) serta menerapkan teknik normalisasi basis data relasional [C6]. — Kontribusi 100% terhadap CPL05"
+      },
+      {
+        "kode": "CPMK081",
+        "deskripsi": "Mampu **mengimplementasikan** perancangan basis data ke dalam sistem Database Management System (DBMS) menggunakan SQL (DDL, DML, DCL, agregasi, subquery, join) [C3, P3]. — Kontribusi 100% terhadap CPL08"
+      }
+    ],
+    "sub_cpmk": [
+      {
+        "kode": "Sub-CPMK1",
+        "deskripsi": "Mahasiswa mampu **menjelaskan** konsep dasar sistem basis data, perbedaan pendekatan berkas tradisional vs DBMS, komponen lingkungan DBMS, dan model arsitektur 3 lapis [C2, A2] (CPMK031)"
+      },
+      {
+        "kode": "Sub-CPMK2",
+        "deskripsi": "Mahasiswa mampu **merancang** pemodelan data konseptual menggunakan Entity Relationship Diagram (ERD / E-ERD) lengkap dengan entitas, atribut, kardinalitas, dan relasi [C6, P3] (CPMK051)"
+      },
+      {
+        "kode": "Sub-CPMK3",
+        "deskripsi": "Mahasiswa mampu **mentransformasikan** skema ERD ke dalam model relasional (tabel relasi) serta menerapkan integritas referensial (primary key, foreign key) [C3, P3] (CPMK051)"
+      },
+      {
+        "kode": "Sub-CPMK4",
+        "deskripsi": "Mahasiswa mampu **menganalisis** dependensi fungsional dan melakukan normalisasi tabel dari bentuk unnormalized (UNF) hingga First, Second, Third Normal Form (1NF, 2NF, 3NF, BCNF) [C4, A3] (CPMK051)"
+      },
+      {
+        "kode": "Sub-CPMK5",
+        "deskripsi": "Mahasiswa mampu **mengimplementasikan** perintah SQL Data Definition Language (DDL) untuk pembuatan skema tabel, modifikasi struktur, dan pendefinisian konstrain pada DBMS [C3, P3] (CPMK081)"
+      },
+      {
+        "kode": "Sub-CPMK6",
+        "deskripsi": "Mahasiswa mampu **menerapkan** perintah SQL Data Manipulation Language (DML: INSERT, UPDATE, DELETE, SELECT) beserta klausa filter, sorting, dan fungsi agregasi dasar [C3, P3] (CPMK081)"
+      },
+      {
+        "kode": "Sub-CPMK7",
+        "deskripsi": "Mahasiswa mampu **mengonstruksi** kueri SQL lanjutan melibatkan operasi penggabungan tabel (INNER JOIN, LEFT/RIGHT JOIN, FULL JOIN), subquery, dan pembuatan View [C4, P3] (CPMK081)"
+      },
+      {
+        "kode": "Sub-CPMK8",
+        "deskripsi": "Mahasiswa mampu **mendesain** dan mengimplementasikan proyek basis data relasional lengkap untuk memecahkan studi kasus proses bisnis nyata pada organisasi/industri [C6, P4] (CPMK081)"
+      }
+    ],
+    "bahan_kajian": [
+      "Bahan kajian standar APTIKOM 2024: **BK06 Data Management**.",
+      "1. **Pengantar Sistem Basis Data & Arsitektur DBMS:** Pendekatan sistem berkas vs basis data, independensi logikal dan fisik data, arsitektur tiga skema (eksternal, konseptual, internal). (Sub-CPMK1)",
+      "2. **Pemodelan Data Konseptual (ERD):** Entitas kuat vs lemah, atribut (kunci, komposit, multivalued, turunan), derajat kardinalitas relasi, partisipasi total/parsial, dan Extended ERD (spesialisasi/generalisasi). (Sub-CPMK2)",
+      "3. **Model Data Relasional & Integritas Data:** Konsep relasi, domain, tupel, derajat, primary key, candidate key, alternate key, foreign key, serta integritas entitas dan referensial. (Sub-CPMK3)",
+      "4. **Teori Normalisasi Basis Data:** Konsep dependensi fungsional, dependensi parsial, dependensi transitif, anomali data (insert, update, delete), normalisasi 1NF, 2NF, 3NF, dan BCNF. (Sub-CPMK4)",
+      "5. **SQL Data Definition Language (DDL):** Sintaks CREATE DATABASE/TABLE, ALTER, DROP, konstrain NOT NULL, UNIQUE, CHECK, DEFAULT, PRIMARY KEY, dan FOREIGN KEY ON DELETE/UPDATE CASCADE. (Sub-CPMK5)",
+      "6. **SQL Data Manipulation Language (DML) & Agregasi:** INSERT INTO, UPDATE, DELETE, SELECT, klausa WHERE, LIKE, BETWEEN, ORDER BY, serta fungsi agregasi (COUNT, SUM, AVG, MIN, MAX) dengan GROUP BY dan HAVING. (Sub-CPMK6)",
+      "7. **SQL Query Kompleks & View:** Penggabungan tabel (INNER JOIN, LEFT/RIGHT/FULL OUTER JOIN, CROSS JOIN, SELF JOIN), nested subquery (IN, EXISTS, ANY, ALL), serta pembuatan dan pengelolaan VIEW. (Sub-CPMK7)",
+      "8. **Proyek Integrasi Basis Data Riil:** Studi kasus perancangan basis data transaksi bisnis (e-commerce, perpustakaan, rumah sakit, akademik), indexing, dan presentasi proyek. (Sub-CPMK8)"
+    ],
+    "pustaka_utama": [
+      "[1] Elmasri, R., & Navathe, S. B. (2016). *Fundamentals of Database Systems* (7th ed.). Boston: Pearson.",
+      "[2] Coronel, C., & Morris, S. (2019). *Database Systems: Design, Implementation, & Management* (13th ed.). Boston: Cengage Learning."
+    ],
+    "pustaka_pendukung": [
+      "[3] Silberschatz, A., Korth, H. F., & Sudarshan, S. (2020). *Database System Concepts* (7th ed.). New York: McGraw-Hill.",
+      "[4] Date, C. J. (2019). *An Introduction to Database Systems* (8th ed.). Boston: Addison-Wesley."
+    ],
+    "penilaian": {
+      "mekanisme": [
+        "kontrak kuliah dan panduan praktikum basis data disepakati pada awal semester;",
+        "komposisi penilaian akhir: Keaktifan/Latihan Lab (10%), Tugas Terstruktur (20%), UTS (30%), dan UAS Praktik/Proyek (40%);",
+        "seluruh mahasiswa wajib mempraktikkan kueri SQL di DBMS MySQL/PostgreSQL secara mandiri;",
+        "standar penilaian mengikuti panduan mutu akademik UNIROW (A s.d. E);",
+        "nilai akhir diunggah ke SIA UNIROW."
+      ],
+      "teknik": "teknik tes (Ujian Tertulis Teori Desain Data pada UTS dan Live Query Koding SQL pada UAS) serta teknik non-tes (evaluasi diagram ERD, laporan normalisasi, script kueri SQL, dan demonstrasi proyek). Instrumen menggunakan soal kasus dan rubrik analitis skala 1–5.",
+      "sifat": "edukatif, otentik, objektif, akuntabel, dan transparan yang menguji kompetensi desain konseptual hingga implementasi teknis basis data."
+    },
+    "p1_asesmen": {
+      "title": "Tabel P1. Rencana asesmen dan bobot penilaian per Sub-CPMK (%)",
+      "rows": [
+        [
+          "Sub-CPMK",
+          "CPL",
+          "Harian",
+          "Tugas-1",
+          "Tugas-2",
+          "Tugas-3",
+          "UTS",
+          "UAS",
+          "Total"
+        ],
+        [
+          "Sub-CPMK1",
+          "CPL03",
+          "2",
+          "3",
+          "",
+          "",
+          "",
+          "",
+          "5"
+        ],
+        [
+          "Sub-CPMK2",
+          "CPL05",
+          "1",
+          "2",
+          "",
+          "",
+          "7",
+          "",
+          "10"
+        ],
+        [
+          "Sub-CPMK3",
+          "CPL05",
+          "1",
+          "",
+          "4",
+          "",
+          "10",
+          "",
+          "15"
+        ],
+        [
+          "Sub-CPMK4",
+          "CPL05",
+          "1",
+          "",
+          "3",
+          "",
+          "13",
+          "",
+          "17"
+        ],
+        [
+          "Sub-CPMK5",
+          "CPL08",
+          "1",
+          "",
+          "",
+          "4",
+          "",
+          "8",
+          "13"
+        ],
+        [
+          "Sub-CPMK6",
+          "CPL08",
+          "2",
+          "",
+          "",
+          "4",
+          "",
+          "10",
+          "16"
+        ],
+        [
+          "Sub-CPMK7",
+          "CPL08",
+          "1",
+          "",
+          "",
+          "",
+          "",
+          "11",
+          "12"
+        ],
+        [
+          "Sub-CPMK8",
+          "CPL08",
+          "1",
+          "",
+          "",
+          "",
+          "",
+          "11",
+          "12"
+        ],
+        [
+          "**Total**",
+          "",
+          "**10**",
+          "**5**",
+          "**7**",
+          "**8**",
+          "**30**",
+          "**40**",
+          "**100**"
+        ]
+      ],
+      "widths": [
+        1560,
+        900,
+        960,
+        960,
+        960,
+        1140,
+        960,
+        960,
+        960
+      ],
+      "note": "Bobot per CPL: CPL03 = 5%, CPL05 = 42%, CPL08 = 53%. Nilai Akhir MK = Σ (nilai komponen × bobot komponen) / 100."
+    },
+    "tugas": {
+      "intro": "Tugas terstruktur dirancang terpadu dari analisis proses bisnis, perancangan ERD, normalisasi, hingga eksekusi SQL di DBMS:",
+      "rows": [
+        [
+          "Tugas",
+          "Sub-CPMK, Jenis, Waktu",
+          "Deskripsi Pengerjaan dan Luaran",
+          "Indikator Penilaian",
+          "Bobot"
+        ],
+        [
+          "**Tugas-1**: Telaah Kasus DBMS & Perancangan ERD",
+          [
+            "Sub-CPMK1, Sub-CPMK2",
+            "Individu",
+            "Minggu 1–3"
+          ],
+          [
+            "A. Menganalisis kebutuhan data pada proses bisnis klinik kesehatan.",
+            "B. Menggambar diagram ERD lengkap dengan derajat kardinalitas.",
+            "Luaran: Dokumen laporan analisis & diagram ERD."
+          ],
+          [
+            "1. Akurasi entitas & relasi",
+            "2. Ketepatan kardinalitas",
+            "3. Kerapian notasi pemodelan"
+          ],
+          "5%"
+        ],
+        [
+          "**Tugas-2**: Normalisasi Data & Pemetaan Skema Relasional",
+          [
+            "Sub-CPMK3, Sub-CPMK4",
+            "Kelompok (3 mhs)",
+            "Minggu 5–7"
+          ],
+          [
+            "A. Melakukan dekomposisi data faktur penjualan dari bentuk UNF ke 1NF, 2NF, 3NF.",
+            "B. Memetakan ke struktur relasi tabel lengkap dengan primary key dan foreign key.",
+            "Luaran: Makalah normalisasi & data dictionary."
+          ],
+          [
+            "1. Ketepatan identifikasi dependensi",
+            "2. Kebebasan dari anomali data",
+            "3. Konsistensi relasi"
+          ],
+          "7%"
+        ],
+        [
+          "**Tugas-3**: Proyek Pembangunan Basis Data Organisasi Nyata",
+          [
+            "Sub-CPMK5 s.d. Sub-CPMK8",
+            "Kelompok (3–4 mhs)",
+            "Minggu 9–15"
+          ],
+          [
+            "A. Membangun basis data pada DBMS MySQL/PostgreSQL (minimal 5 tabel berelasi).",
+            "B. Menulis script SQL DDL, DML data dummy, dan 10 complex query join/agregasi/view.",
+            "Luaran: Laporan teknis proyek, file SQL dump, & video demo kueri."
+          ],
+          [
+            "1. Integritas skema database",
+            "2. Kompleksitas kueri SQL",
+            "3. Presentasi demo sistem"
+          ],
+          "8%"
+        ]
+      ]
+    },
+    "mingguan": [
+      {
+        "minggu": "1–2",
+        "sub_cpmk": "Sub-CPMK1",
+        "indikator": [
+          "1.1 Ketepatan menjelaskan peran DBMS dalam mengatasi kelemahan sistem berkas tradisional",
+          "1.2 Kemampuan menguraikan prinsip independensi data fisik dan logis pada arsitektur 3 lapis"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik konsep DBMS",
+          "**Non-tes:** Partisipasi diskusi kelas",
+          "**Tes:** Kuis pengantar basis data"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah interaktif",
+          "**Metode:** Small Group Discussion",
+          "[PB: 2×(4×50\")]"
+        ],
+        "penugasan": [
+          "**Tugas-1 (individu):** Resume analisis keunggulan DBMS dibanding spreadsheet/flat-file",
+          "[PT: 2×(4×60\")]",
+          "[KM: 2×(4×60\")]"
+        ],
+        "materi": [
+          "Konsep Sistem Basis Data, Peran DBMS, dan Model Arsitektur Tiga Skema",
+          "[1] Bab 1–2; [2] Bab 1"
+        ],
+        "bobot": "5%"
+      },
+      {
+        "minggu": "3–4",
+        "sub_cpmk": "Sub-CPMK2",
+        "indikator": [
+          "2.1 Ketepatan merancang diagram ERD lengkap dengan entitas, atribut, dan relasi",
+          "2.2 Ketepatan menentukan derajat kardinalitas dan batasan partisipasi entitas"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik pemodelan data ERD",
+          "**Non-tes:** Presentasi rancangan ERD studi kasus",
+          "**Tes:** -"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah & Praktikum Desain",
+          "**Metode:** Problem-Based Learning",
+          "[PB: 2×(4×50\")]"
+        ],
+        "penugasan": [
+          "Mandiri: Perancangan skema ERD untuk studi kasus toko ritel sederhana",
+          "[PT: 2×(4×60\")]",
+          "[KM: 2×(4×60\")]"
+        ],
+        "materi": [
+          "Pemodelan Konseptual: Entity-Relationship Diagram (ERD & E-ERD)",
+          "[1] Bab 3–4; [2] Bab 2–3"
+        ],
+        "bobot": "3%"
+      },
+      {
+        "minggu": "5–6",
+        "sub_cpmk": "Sub-CPMK3",
+        "indikator": [
+          "3.1 Ketepatan mentransformasikan skema ERD ke dalam relasi tabel logikal",
+          "3.2 Kemampuan menetapkan aturan integritas referensial dan foreign key"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik pemetaan relasi",
+          "**Non-tes:** Review skema tabel relasional",
+          "**Tes:** -"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah & Praktikum Lab",
+          "**Metode:** Collaborative Learning",
+          "[PB: 2×(4×50\")]"
+        ],
+        "penugasan": [
+          "**Tugas-2 (kelompok):** Transformasi ERD studi kasus ke struktur skema tabel relasional lengkap",
+          "[PT: 2×(4×60\")]",
+          "[KM: 2×(4×60\")]"
+        ],
+        "materi": [
+          "Model Data Relasional, Aturan Integritas, dan Pemetaan Skema ERD ke Relasi",
+          "[1] Bab 5; [2] Bab 4"
+        ],
+        "bobot": "5%"
+      },
+      {
+        "minggu": "7",
+        "sub_cpmk": "Sub-CPMK4",
+        "indikator": [
+          "4.1 Ketepatan mendeteksi anomali data (update, insert, delete anomaly) pada tabel unnormalized",
+          "4.2 Kemampuan melakukan dekomposisi tabel hingga bentuk 1NF, 2NF, 3NF, dan BCNF"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik analisis normalisasi",
+          "**Non-tes:** Bedah kasus normalisasi tabel",
+          "**Tes:** Kuis persiapan UTS"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah & Diskusi Studi Kasus",
+          "**Metode:** Case-Based Learning (CBL)",
+          "[PB: 1×(4×50\")]"
+        ],
+        "penugasan": [
+          "Mandiri: Latihan normalisasi dokumen transaksi faktur penjualan ke bentuk 3NF",
+          "[PT: 1×(4×60\")]",
+          "[KM: 1×(4×60\")]"
+        ],
+        "materi": [
+          "Teori Normalisasi Basis Data Relasional dan Pencegahan Anomali Data",
+          "[1] Bab 14; [2] Bab 6"
+        ],
+        "bobot": "4%"
+      },
+      {
+        "minggu": "8",
+        "sub_cpmk": "Evaluasi Tengah Semester (UTS)",
+        "indikator": [
+          "Evaluasi penguasaan materi minggu 1 s.d. 7"
+        ],
+        "kriteria": [
+          "Kriteria: Rubrik Ujian Tertulis / Praktik"
+        ],
+        "metode": [
+          "Ujian Tengah Semester Terjadwal"
+        ],
+        "penugasan": [
+          "Mengerjakan lembar soal UTS"
+        ],
+        "materi": [
+          "**Evaluasi Tengah Semester / Ujian Tengah Semester (UTS)** – Ujian tertulis dan studi kasus pemodelan ERD serta normalisasi data Sub-CPMK1 s.d. Sub-CPMK4  [PB: 1×(4×50\")]"
+        ],
+        "bobot": "30%"
+      },
+      {
+        "minggu": "9–10",
+        "sub_cpmk": "Sub-CPMK5",
+        "indikator": [
+          "5.1 Ketepatan menuliskan perintah SQL DDL untuk membuat tabel beserta seluruh konstrain integritas",
+          "5.2 Kemampuan memodifikasi skema database menggunakan ALTER TABLE tanpa merusak data"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik eksekusi SQL DDL",
+          "**Non-tes:** Praktik pembuatan database lab",
+          "**Tes:** -"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah & Praktikum Lab",
+          "**Metode:** Hands-on Practice Lab",
+          "[PB: 2×(4×50\")]"
+        ],
+        "penugasan": [
+          "**Tugas-3 (kelompok):** Implementasi script SQL DDL lengkap untuk proyek basis data semester",
+          "[PT: 2×(4×60\")]",
+          "[KM: 2×(4×60\")]"
+        ],
+        "materi": [
+          "SQL Data Definition Language (DDL) dan Manajemen Konstrain Integritas",
+          "[1] Bab 6; [2] Bab 7"
+        ],
+        "bobot": "5%"
+      },
+      {
+        "minggu": "11–12",
+        "sub_cpmk": "Sub-CPMK6",
+        "indikator": [
+          "6.1 Ketepatan manipulasi data tabel menggunakan perintah INSERT, UPDATE, DELETE",
+          "6.2 Kemampuan melakukan query data filtering, sorting, dan fungsi agregasi (GROUP BY/HAVING)"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik query SQL DML",
+          "**Non-tes:** Live query koding di lab",
+          "**Tes:** -"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah & Praktikum Lab",
+          "**Metode:** Problem-Based Learning",
+          "[PB: 2×(4×50\")]"
+        ],
+        "penugasan": [
+          "Mandiri: Latihan kueri analitik laporan rekapitulasi data penjualan per kategori",
+          "[PT: 2×(4×60\")]",
+          "[KM: 2×(4×60\")]"
+        ],
+        "materi": [
+          "SQL Data Manipulation Language (DML), Klausa Filter, dan Agregasi Data",
+          "[1] Bab 6; [2] Bab 7–8"
+        ],
+        "bobot": "6%"
+      },
+      {
+        "minggu": "13–14",
+        "sub_cpmk": "Sub-CPMK7",
+        "indikator": [
+          "7.1 Ketepatan menyusun query join multi-tabel (INNER, LEFT, RIGHT, FULL OUTER)",
+          "7.2 Kemampuan mengonstruksi nested subquery dan membuat VIEW untuk penyederhanaan akses"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik query kompleks & View",
+          "**Non-tes:** Uji kasus penarikan data relasional",
+          "**Tes:** -"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah & Praktikum Lab",
+          "**Metode:** Discovery Learning",
+          "[PB: 2×(4×50\")]"
+        ],
+        "penugasan": [
+          "Mandiri: Penyusunan script VIEW laporan eksekutif dari 4 tabel relasi",
+          "[PT: 2×(4×60\")]",
+          "[KM: 2×(4×60\")]"
+        ],
+        "materi": [
+          "Kueri Lanjutan Multi-Tabel (JOIN), Nested Subquery, dan Objek View",
+          "[1] Bab 7; [2] Bab 8"
+        ],
+        "bobot": "1%"
+      },
+      {
+        "minggu": "15",
+        "sub_cpmk": "Sub-CPMK8",
+        "indikator": [
+          "8.1 Kualitas rancangan dan kelengkapan implementasi proyek basis data riil organisasi",
+          "8.2 Keterampilan presentasi dan respons tanya jawab pengujian kueri database kelompok"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik penilaian proyek basis data",
+          "**Non-tes:** Presentasi & demo database lab",
+          "**Tes:** -"
+        ],
+        "metode": [
+          "**Bentuk:** Presentasi Proyek",
+          "**Metode:** Project-Based Learning (PjBL)",
+          "[PB: 1×(4×50\")]"
+        ],
+        "penugasan": [
+          "Mandiri: Finalisasi laporan dokumentasi proyek data dictionary dan file SQL dump",
+          "[PT: 1×(4×60\")]",
+          "[KM: 1×(4×60\")]"
+        ],
+        "materi": [
+          "Implementasi dan Evaluasi Proyek Basis Data Relasional Terintegrasi",
+          "Modul Proyek"
+        ],
+        "bobot": "1%"
+      },
+      {
+        "minggu": "16",
+        "sub_cpmk": "Evaluasi Akhir Semester (UAS)",
+        "indikator": [
+          "Evaluasi pencapaian kompetensi akhir seluruh materi"
+        ],
+        "kriteria": [
+          "Kriteria: Rubrik Proyek Akhir / Portofolio / Ujian Akhir"
+        ],
+        "metode": [
+          "Ujian Akhir Semester / Presentasi Proyek"
+        ],
+        "penugasan": [
+          "Laporan Akhir & Demonstrasi"
+        ],
+        "materi": [
+          "**Evaluasi Akhir Semester / Ujian Akhir Semester (UAS)** – Ujian Praktik Kueri SQL Laboratorium & Uji Proyek Basis Data Kelompok Sub-CPMK5 s.d. Sub-CPMK8  [PB: 1×(4×50\")] - *Pengujian live query SQL lab dan penyerahan portofolio proyek data"
+        ],
+        "bobot": "40%"
+      }
+    ],
+    "file_docx": "Output_RPS_Sem1/IF1405-Basis Data/RPS-IF1405-Basis Data.docx",
+    "file_size": "55 KB"
+  },
+  {
+    "kode": "IF360424",
+    "nama": "Konsep AI",
+    "semester": 1,
+    "semester_label": "Semester 1 (Gasal)",
+    "sks_teori": 2,
+    "sks_praktik": 1,
+    "sks_total": 3,
+    "rumpun": "Kecerdasan Buatan (MK Kompetensi Utama)",
+    "tanggal": "1 September 2026",
+    "pengembang": "Suprapto, M.Kom; Asfan Muqtadir, M.Kom",
+    "koordinator": "Suprapto, M.Kom; Asfan Muqtadir, M.Kom",
+    "kaprodi": "Amaludin Arifia, S.Kom., M.Kom.",
+    "syarat": "Tidak ada",
+    "deskripsi": "Mata kuliah Konsep AI menyajikan fondasi teoritis dan praktis disiplin Kecerdasan Buatan (Artificial Intelligence) dari paradigma simbolik klasik hingga paradigma koneksionis modern berbasis data. Mahasiswa mempelajari konsep agen cerdas dan lingkungan (PEAS), pemodelan ruang keadaan (state-space search), algoritma pencarian buta (BFS, DFS, UCS), pencarian heuristik optimal (A* Search), representasi pengetahuan dan sistem pakar, penalaran dengan logika fuzzy, pengantar Machine Learning (supervised, unsupervised, reinforcement learning), jaringan syaraf tiruan dasar (Perceptron), serta pengenalan NLP, Computer Vision, dan Generative AI. Perkuliahan juga menekankan kesadaran kritis terhadap etika AI, bias representasi data, dan keamanan teknologi cerdas.",
+    "cpl": [
+      {
+        "kode": "CPL03",
+        "deskripsi": "Memiliki kemampuan memahami cara kerja sistem komputer serta menerapkan berbagai algoritma/metode untuk memecahkan masalah dalam suatu organisasi. **(Kognitif – C2, C3)**"
+      },
+      {
+        "kode": "CPL05",
+        "deskripsi": "Menguasai konsep teoritis dalam bidang Informatika/Ilmu Komputer untuk mendesain dan mensimulasikan aplikasi teknologi multi-platform yang sesuai dengan kebutuhan industri dan masyarakat. **(Kognitif – C2, C6)**"
+      },
+      {
+        "kode": "CPL08",
+        "deskripsi": "Memiliki kemampuan untuk mengimplementasikan kebutuhan computing dengan menggunakan berbagai metode/algoritma yang sesuai dengan kebutuhan pengguna. **(Kognitif – C3, P3)**"
+      }
+    ],
+    "cpmk": [
+      {
+        "kode": "CPMK031",
+        "deskripsi": "Mampu **menjelaskan** konsep intelligent agent, ruang keadaan (state space), dan menerapkan metode pencarian buta (uninformed search) serta pencarian heuristik (informed search) [C3]. — Kontribusi 100% terhadap CPL03"
+      },
+      {
+        "kode": "CPMK051",
+        "deskripsi": "Mampu **merancang** representasi pengetahuan menggunakan logika proposisi, logika predikat, sistem berbasis aturan (rule-based expert systems), dan logika fuzzy [C6]. — Kontribusi 100% terhadap CPL05"
+      },
+      {
+        "kode": "CPMK081",
+        "deskripsi": "Mampu **mengimplementasikan** dasar algoritma Machine Learning dan Artificial Neural Networks sederhana untuk menyelesaikan masalah klasifikasi atau prediksi [C3, P3]. — Kontribusi 100% terhadap CPL08"
+      }
+    ],
+    "sub_cpmk": [
+      {
+        "kode": "Sub-CPMK1",
+        "deskripsi": "Mahasiswa mampu **menjelaskan** definisi, sejarah, filosofi kecerdasan buatan, uji Turing, klasifikasi AI (narrow vs general), dan struktur agen cerdas (PEAS) [C2, A2] (CPMK031)"
+      },
+      {
+        "kode": "Sub-CPMK2",
+        "deskripsi": "Mahasiswa mampu **menerapkan** formulasi masalah pencarian ruang keadaan dan algoritma pencarian buta (BFS, DFS, Uniform Cost Search) [C3, P2] (CPMK031)"
+      },
+      {
+        "kode": "Sub-CPMK3",
+        "deskripsi": "Mahasiswa mampu **menganalisis** fungsi heuristik dan menerapkan algoritma pencarian terbimbing (Greedy Best-First Search dan A* Search) [C4, P3] (CPMK031)"
+      },
+      {
+        "kode": "Sub-CPMK4",
+        "deskripsi": "Mahasiswa mampu **menguraikan** representasi pengetahuan berbasis logika (First-Order Logic), pohon keputusan, dan inferensi pada sistem pakar [C3, A3] (CPMK051)"
+      },
+      {
+        "kode": "Sub-CPMK5",
+        "deskripsi": "Mahasiswa mampu **menerapkan** penalaran di bawah ketidakpastian menggunakan logika fuzzy (fuzzy set, fuzzifikasi, inferensi Mamdani/Sugeno, defuzzifikasi) [C3, P3] (CPMK051)"
+      },
+      {
+        "kode": "Sub-CPMK6",
+        "deskripsi": "Mahasiswa mampu **menjelaskan** paradigma Machine Learning (Supervised, Unsupervised, Reinforcement Learning) dan tahapan alur kerja data science/AI [C2, A2] (CPMK081)"
+      },
+      {
+        "kode": "Sub-CPMK7",
+        "deskripsi": "Mahasiswa mampu **mengimplementasikan** model dasar klasifikasi (K-Nearest Neighbor / Naive Bayes) dan konsep dasar Artificial Neural Network (Perceptron) [C3, P3] (CPMK081)"
+      },
+      {
+        "kode": "Sub-CPMK8",
+        "deskripsi": "Mahasiswa mampu **mengevaluasi** perkembangan terkini Natural Language Processing (NLP), Computer Vision, Generative AI, serta isu etika AI (keamanan, privasi, bias algoritma) [C5, A4] (CPMK081)"
+      }
+    ],
+    "bahan_kajian": [
+      "Bahan kajian standar APTIKOM 2024: **BK18 Artificial Intelligence**.",
+      "1. **Fondasi & Karakteristik AI:** Definisi kecerdasan, uji Turing, Chinese Room argument, rasionalitas agen, klasifikasi agen cerdas, dan deskripsi lingkungan PEAS. (Sub-CPMK1)",
+      "2. **Pencarian Ruang Keadaan (Uninformed Search):** Formulasi problem ruang keadaan, pohon pencarian, Breadth-First Search (BFS), Depth-First Search (DFS), Depth-Limited Search, dan Uniform Cost Search (UCS). (Sub-CPMK2)",
+      "3. **Pencarian Terbimbing (Informed / Heuristic Search):** Fungsi heuristik admissible dan consistent, Greedy Best-First Search, algoritma A*, dan optimasi jalur terpendek. (Sub-CPMK3)",
+      "4. **Representasi Pengetahuan & Sistem Pakar:** Proposisi, logika predikat orde pertama (FOL), semantic network, rule-based systems, forward vs backward chaining, dan arsitektur sistem pakar. (Sub-CPMK4)",
+      "5. **Penalaran Fuzzy (Fuzzy Logic):** Himpunan tegas vs fuzzy set, fungsi keanggotaan (segitiga, trapesium), operasi fuzzy, inferensi Mamdani dan Sugeno, serta metode defuzzifikasi (Centroid). (Sub-CPMK5)",
+      "6. **Pengantar Pembelajaran Mesin (Machine Learning):** Perbedaan paradigma AI klasik vs ML, supervised vs unsupervised learning, data preprocessing, pembagian train/test split, dan metrik evaluasi (Confusion Matrix, Akurasi, F1-Score). (Sub-CPMK6)",
+      "7. **Algoritma Klasifikasi Dasar & Neural Network:** Konsep K-Nearest Neighbor (KNN), Naive Bayes Classifier, struktur biologis neuron ke artificial neuron, Single-Layer Perceptron, fungsi aktivasi. (Sub-CPMK7)",
+      "8. **Aplikasi Mutakhir & Etika AI:** Pengantar Computer Vision, Natural Language Processing (NLP), Large Language Models (LLM), Generative AI, bias algoritma, etika kecerdasan buatan, dan regulasi AI global. (Sub-CPMK8)"
+    ],
+    "pustaka_utama": [
+      "[1] Russell, S., & Norvig, P. (2020). *Artificial Intelligence: A Modern Approach* (4th ed.). Hoboken: Pearson.",
+      "[2] Luger, G. F. (2021). *Artificial Intelligence: Structures and Strategies for Complex Problem Solving* (6th ed.). Boston: Pearson."
+    ],
+    "pustaka_pendukung": [
+      "[3] Rich, E., Knight, K., & Nair, S. B. (2017). *Artificial Intelligence* (3rd ed.). New Delhi: McGraw-Hill Education.",
+      "[4] Mitchell, T. M. (2017). *Machine Learning*. New York: McGraw-Hill."
+    ],
+    "penilaian": {
+      "mekanisme": [
+        "kontrak perkuliahan dan tata tertib perkuliahan AI disepakati pada pertemuan pertama;",
+        "komposisi nilai akhir: Keaktifan Harian (10%), Tugas Terstruktur (20%), UTS (30%), dan UAS (40%);",
+        "tugas simulasi algoritma wajib dikerjakan mandiri dan orisinal;",
+        "standar penilaian mengacu pada pedoman baku akademik UNIROW;",
+        "nilai akhir diunggah ke SIA UNIROW secara transparan."
+      ],
+      "teknik": "teknik tes (Ujian Tertulis UTS dan UAS) serta teknik non-tes (laporan tugas penelusuran graf, perancangan sistem inferensi fuzzy, koding klasifikasi ML, dan esai etika AI). Instrumen berupa soal analitis dan rubrik penilaian berskala 1–5.",
+      "sifat": "edukatif, otentik, objektif, akuntabel, dan transparan yang menguji kemampuan penalaran logis dan penerapan metode cerdas."
+    },
+    "p1_asesmen": {
+      "title": "Tabel P1. Rencana asesmen dan bobot penilaian per Sub-CPMK (%)",
+      "rows": [
+        [
+          "Sub-CPMK",
+          "CPL",
+          "Harian",
+          "Tugas-1",
+          "Tugas-2",
+          "Tugas-3",
+          "UTS",
+          "UAS",
+          "Total"
+        ],
+        [
+          "Sub-CPMK1",
+          "CPL03",
+          "2",
+          "3",
+          "",
+          "",
+          "",
+          "",
+          "5"
+        ],
+        [
+          "Sub-CPMK2",
+          "CPL03",
+          "1",
+          "2",
+          "",
+          "",
+          "7",
+          "",
+          "10"
+        ],
+        [
+          "Sub-CPMK3",
+          "CPL03",
+          "1",
+          "",
+          "4",
+          "",
+          "10",
+          "",
+          "15"
+        ],
+        [
+          "Sub-CPMK4",
+          "CPL05",
+          "1",
+          "",
+          "3",
+          "",
+          "13",
+          "",
+          "17"
+        ],
+        [
+          "Sub-CPMK5",
+          "CPL05",
+          "1",
+          "",
+          "",
+          "4",
+          "",
+          "8",
+          "13"
+        ],
+        [
+          "Sub-CPMK6",
+          "CPL08",
+          "2",
+          "",
+          "",
+          "4",
+          "",
+          "10",
+          "16"
+        ],
+        [
+          "Sub-CPMK7",
+          "CPL08",
+          "1",
+          "",
+          "",
+          "",
+          "",
+          "11",
+          "12"
+        ],
+        [
+          "Sub-CPMK8",
+          "CPL08",
+          "1",
+          "",
+          "",
+          "",
+          "",
+          "11",
+          "12"
+        ],
+        [
+          "**Total**",
+          "",
+          "**10**",
+          "**5**",
+          "**7**",
+          "**8**",
+          "**30**",
+          "**40**",
+          "**100**"
+        ]
+      ],
+      "widths": [
+        1560,
+        900,
+        960,
+        960,
+        960,
+        1140,
+        960,
+        960,
+        960
+      ],
+      "note": "Bobot per CPL: CPL03 = 30%, CPL05 = 30%, CPL08 = 40%. Nilai Akhir MK = Σ (nilai komponen × bobot komponen) / 100."
+    },
+    "tugas": {
+      "intro": "Tugas terstruktur dirancang memadukan penalaran algoritmik klasik dan penerapan model cerdas berbasis data:",
+      "rows": [
+        [
+          "Tugas",
+          "Sub-CPMK, Jenis, Waktu",
+          "Deskripsi Pengerjaan dan Luaran",
+          "Indikator Penilaian",
+          "Bobot"
+        ],
+        [
+          "**Tugas-1**: Perumusan Agen Cerdas PEAS & BFS/DFS",
+          [
+            "Sub-CPMK1, Sub-CPMK2",
+            "Individu",
+            "Minggu 1–3"
+          ],
+          [
+            "A. Menyusun tabel PEAS untuk sistem rekomendasi e-commerce atau smart home.",
+            "B. Menelusuri graf ruang keadaan dengan algoritma BFS dan DFS.",
+            "Luaran: Dokumen laporan analisis agen & tracing graf."
+          ],
+          [
+            "1. Ketepatan analisis PEAS",
+            "2. Akurasi tracing antrean BFS/DFS",
+            "3. Kerapian penyajian"
+          ],
+          "5%"
+        ],
+        [
+          "**Tugas-2**: Tracing Heuristik A* & Rule-Base Sistem Pakar",
+          [
+            "Sub-CPMK3, Sub-CPMK4",
+            "Kelompok (3 mhs)",
+            "Minggu 5–7"
+          ],
+          [
+            "A. Menghitung rute terpendek pada graf berbobot menggunakan algoritma A* Search dengan fungsi f(n)=g(n)+h(n).",
+            "B. Merancang aturan inferensi sistem pakar.",
+            "Luaran: Makalah analisis perhitungan A* & rancangan rule-base."
+          ],
+          [
+            "1. Akurasi kalkulasi fungsi f(n)",
+            "2. Keteraturan pohon pencarian",
+            "3. Kerja sama tim"
+          ],
+          "7%"
+        ],
+        [
+          "**Tugas-3**: Desain Sistem Inferensi Fuzzy & Klasifikasi ML",
+          [
+            "Sub-CPMK5 s.d. Sub-CPMK8",
+            "Kelompok (3–4 mhs)",
+            "Minggu 9–15"
+          ],
+          [
+            "A. Merancang sistem fuzzy Mamdani lengkap dengan fungsi keanggotaan dan defuzzifikasi.",
+            "B. Menguji model klasifikasi KNN sederhana pada dataset terbuka.",
+            "Luaran: Laporan teknis simulasi fuzzy, source code Python sederhana, & evaluasi metrik."
+          ],
+          [
+            "1. Desain fungsi keanggotaan fuzzy",
+            "2. Ketepatan klasifikasi KNN & metrik",
+            "3. Kualitas presentasi"
+          ],
+          "8%"
+        ]
+      ]
+    },
+    "mingguan": [
+      {
+        "minggu": "1–2",
+        "sub_cpmk": "Sub-CPMK1",
+        "indikator": [
+          "1.1 Ketepatan merumuskan spesifikasi agen cerdas dengan kerangka PEAS",
+          "1.2 Kemampuan membedakan karakteristik lingkungan agen cerdas"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik analisis agen",
+          "**Non-tes:** Diskusi studi kasus vacuum cleaner / autonomous car",
+          "**Tes:** Kuis awal konsep agen"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah interaktif",
+          "**Metode:** Small Group Discussion",
+          "[PB: 2×(3×50\")]"
+        ],
+        "penugasan": [
+          "**Tugas-1 (individu):** Analisis kerangka PEAS dan klasifikasi lingkungan pada sistem AI modern",
+          "[PT: 2×(3×60\")]",
+          "[KM: 2×(3×60\")]"
+        ],
+        "materi": [
+          "Pengantar Kecerdasan Buatan, Uji Turing, dan Agen Cerdas (PEAS)",
+          "[1] Bab 1–2; [2] Bab 1"
+        ],
+        "bobot": "5%"
+      },
+      {
+        "minggu": "3–4",
+        "sub_cpmk": "Sub-CPMK2",
+        "indikator": [
+          "2.1 Ketepatan memformulasikan masalah nyata ke dalam graf ruang keadaan",
+          "2.2 Keterampilan menerapkan penelusuran BFS dan DFS serta menganalisis kompleksitas waktu/memori"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik penelusuran graf",
+          "**Non-tes:** Simulasi penelusuran rute peta",
+          "**Tes:** -"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah & latihan simulasi",
+          "**Metode:** Problem-Based Learning",
+          "[PB: 2×(3×50\")]"
+        ],
+        "penugasan": [
+          "Mandiri: Latihan penelusuran graf puzzle 8-angka menggunakan algoritma BFS/DFS",
+          "[PT: 2×(3×60\")]",
+          "[KM: 2×(3×60\")]"
+        ],
+        "materi": [
+          "Formulasi Problem Ruang Keadaan dan Algoritma Pencarian Buta (BFS & DFS)",
+          "[1] Bab 3; [3] Bab 2"
+        ],
+        "bobot": "3%"
+      },
+      {
+        "minggu": "5–6",
+        "sub_cpmk": "Sub-CPMK3",
+        "indikator": [
+          "3.1 Ketepatan merumuskan nilai fungsi heuristik h(n) yang admissible",
+          "3.2 Kemampuan menerapkan algoritma A* Search untuk menemukan solusi biaya terendah"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik algoritma A* Search",
+          "**Non-tes:** Praktik implementasi pathfinding sederhana",
+          "**Tes:** -"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah & praktikum simulasi",
+          "**Metode:** Collaborative Learning",
+          "[PB: 2×(3×50\")]"
+        ],
+        "penugasan": [
+          "**Tugas-2 (kelompok):** Perhitungan manual dan simulasi pencarian rute peta optimal dengan algoritma A*",
+          "[PT: 2×(3×60\")]",
+          "[KM: 2×(3×60\")]"
+        ],
+        "materi": [
+          "Pencarian Heuristik Terbimbing (Greedy Best-First Search dan A* Search)",
+          "[1] Bab 3; [2] Bab 4"
+        ],
+        "bobot": "5%"
+      },
+      {
+        "minggu": "7",
+        "sub_cpmk": "Sub-CPMK4",
+        "indikator": [
+          "4.1 Ketepatan mentransformasikan kalimat fakta ke representasi logika First-Order Logic",
+          "4.2 Kemampuan melakukan inferensi aturan forward dan backward chaining pada sistem pakar"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik penalaran logika",
+          "**Non-tes:** Diskusi pohon keputusan inferensi",
+          "**Tes:** Kuis persiapan UTS"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah interaktif",
+          "**Metode:** Case-Based Learning (CBL)",
+          "[PB: 1×(3×50\")]"
+        ],
+        "penugasan": [
+          "Mandiri: Penyusunan rule-base sistem pakar diagnosis kerusakan perangkat komputer",
+          "[PT: 1×(3×60\")]",
+          "[KM: 1×(3×60\")]"
+        ],
+        "materi": [
+          "Representasi Pengetahuan Logika, Rule-Based Systems, dan Sistem Pakar",
+          "[1] Bab 7–9; [2] Bab 6–7"
+        ],
+        "bobot": "4%"
+      },
+      {
+        "minggu": "8",
+        "sub_cpmk": "Evaluasi Tengah Semester (UTS)",
+        "indikator": [
+          "Evaluasi penguasaan materi minggu 1 s.d. 7"
+        ],
+        "kriteria": [
+          "Kriteria: Rubrik Ujian Tertulis / Praktik"
+        ],
+        "metode": [
+          "Ujian Tengah Semester Terjadwal"
+        ],
+        "penugasan": [
+          "Mengerjakan lembar soal UTS"
+        ],
+        "materi": [
+          "**Evaluasi Tengah Semester / Ujian Tengah Semester (UTS)** – Ujian tertulis analitis dan penyelesaian kasus pencarian serta representasi pengetahuan Sub-CPMK1 s.d. Sub-CPMK4  [PB: 1×(3×50\")]"
+        ],
+        "bobot": "30%"
+      },
+      {
+        "minggu": "9–10",
+        "sub_cpmk": "Sub-CPMK5",
+        "indikator": [
+          "5.1 Ketepatan merancang fungsi keanggotaan himpunan fuzzy",
+          "5.2 Kemampuan melakukan inferensi fuzzy Mamdani dan perhitungan defuzzifikasi centroid"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik kalkulasi logika fuzzy",
+          "**Non-tes:** Praktik kalkulasi sistem kendali fuzzy",
+          "**Tes:** -"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah & simulasi software",
+          "**Metode:** Problem-Based Learning",
+          "[PB: 2×(3×50\")]"
+        ],
+        "penugasan": [
+          "**Tugas-3 (kelompok):** Rancang bangun sistem inferensi fuzzy kendali kecepatan kipas/suhu ruangan",
+          "[PT: 2×(3×60\")]",
+          "[KM: 2×(3×60\")]"
+        ],
+        "materi": [
+          "Penalaran Berbasis Ketidakpastian dan Sistem Inferensi Logika Fuzzy",
+          "[2] Bab 8; [3] Bab 7"
+        ],
+        "bobot": "5%"
+      },
+      {
+        "minggu": "11–12",
+        "sub_cpmk": "Sub-CPMK6",
+        "indikator": [
+          "6.1 Ketepatan membedakan alur kerja Supervised vs Unsupervised Learning",
+          "6.2 Kemampuan menghitung metrik evaluasi Confusion Matrix (Akurasi, Presisi, Recall)"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik evaluasi model ML",
+          "**Non-tes:** Eksplorasi dataset publik di lab",
+          "**Tes:** -"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah & demonstrasi koding Python",
+          "**Metode:** Discovery Learning",
+          "[PB: 2×(3×50\")]"
+        ],
+        "penugasan": [
+          "Mandiri: Latihan perhitungan metrik evaluasi model klasifikasi biner",
+          "[PT: 2×(3×60\")]",
+          "[KM: 2×(3×60\")]"
+        ],
+        "materi": [
+          "Paradigma Pembelajaran Mesin (Machine Learning) dan Evaluasi Model",
+          "[1] Bab 18; [4] Bab 1–3"
+        ],
+        "bobot": "6%"
+      },
+      {
+        "minggu": "13–14",
+        "sub_cpmk": "Sub-CPMK7",
+        "indikator": [
+          "7.1 Ketepatan menerapkan algoritma K-Nearest Neighbor (KNN) pada dataset tabular",
+          "7.2 Kemampuan menguraikan cara kerja neuron buatan dan pembaruan bobot Perceptron"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik algoritma KNN & Perceptron",
+          "**Non-tes:** Live coding koding sederhana",
+          "**Tes:** -"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah & Praktikum Lab",
+          "**Metode:** Hands-on Lab Practice",
+          "[PB: 2×(3×50\")]"
+        ],
+        "penugasan": [
+          "Mandiri: Latihan perhitungan manual jarak Euclidean pada algoritma KNN",
+          "[PT: 2×(3×60\")]",
+          "[KM: 2×(3×60\")]"
+        ],
+        "materi": [
+          "Algoritma Klasifikasi Dasar (KNN & Naive Bayes) dan Dasar Jaringan Syaraf Tiruan",
+          "[1] Bab 19; [4] Bab 4"
+        ],
+        "bobot": "1%"
+      },
+      {
+        "minggu": "15",
+        "sub_cpmk": "Sub-CPMK8",
+        "indikator": [
+          "8.1 Ketepatan mengevaluasi perkembangan terkini NLP, Computer Vision, dan Generative AI",
+          "8.2 Kedalaman analisis kritis terhadap etika AI, bias algoritma, dan hak cipta karya digital"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik kajian etika AI",
+          "**Non-tes:** Seminar kelas & debat etika AI",
+          "**Tes:** -"
+        ],
+        "metode": [
+          "**Bentuk:** Seminar & Debat Ilmiah",
+          "**Metode:** Project-Based Learning (PjBL)",
+          "[PB: 1×(3×50\")]"
+        ],
+        "penugasan": [
+          "Mandiri: Penyusunan esai kritis etika pemanfaatan AI di era digital",
+          "[PT: 1×(3×60\")]",
+          "[KM: 1×(3×60\")]"
+        ],
+        "materi": [
+          "Aplikasi AI Mutakhir (NLP, Vision, GenAI) dan Kajian Etika Kecerdasan Buatan",
+          "[1] Bab 26–27"
+        ],
+        "bobot": "1%"
+      },
+      {
+        "minggu": "16",
+        "sub_cpmk": "Evaluasi Akhir Semester (UAS)",
+        "indikator": [
+          "Evaluasi pencapaian kompetensi akhir seluruh materi"
+        ],
+        "kriteria": [
+          "Kriteria: Rubrik Proyek Akhir / Portofolio / Ujian Akhir"
+        ],
+        "metode": [
+          "Ujian Akhir Semester / Presentasi Proyek"
+        ],
+        "penugasan": [
+          "Laporan Akhir & Demonstrasi"
+        ],
+        "materi": [
+          "**Evaluasi Akhir Semester / Ujian Akhir Semester (UAS)** – Evaluasi integratif penguasaan Sub-CPMK5 s.d. Sub-CPMK8  [PB: 1×(3×50\")] - *Pelaksanaan ujian tertulis komprehensif dan penyerahan portofolio tugas koding"
+        ],
+        "bobot": "40%"
+      }
+    ],
+    "file_docx": "Output_RPS_Sem1/IF360424-Konsep AI/RPS-IF360424-Konsep AI.docx",
+    "file_size": "54 KB"
+  },
+  {
+    "kode": "IF1201",
+    "nama": "Matematika",
+    "semester": 1,
+    "semester_label": "Semester 1 (Gasal)",
+    "sks_teori": 3,
+    "sks_praktik": 0,
+    "sks_total": 3,
+    "rumpun": "Matematika dan Komputasi Dasar (MK Kompetensi Utama)",
+    "tanggal": "1 September 2026",
+    "pengembang": "Muna Afdi Muniroh, M.Pd",
+    "koordinator": "Muna Afdi Muniroh, M.Pd",
+    "kaprodi": "Amaludin Arifia, S.Kom., M.Kom.",
+    "syarat": "Tidak ada",
+    "deskripsi": "Mata kuliah Matematika membekali mahasiswa Program Studi Teknik Informatika dengan landasan berpikir logis, analitis, dan sistematis yang menjadi fondasi keilmuan komputer. Materi perkuliahan mengintegrasikan topik aljabar bilangan real dan pertidaksamaan, teori himpunan dan relasi, logika proposisi dan pembuktian matematis, induksi matematika, serta kalkulus diferensial terapan (limit, kekontinuan, turunan, dan optimasi fungsi). Pembelajaran difokuskan pada penguatan penalaran deduktif dan pemodelan matematis untuk menyelesaikan permasalahan algoritma, struktur data, dan rekayasa perangkat lunak.",
+    "cpl": [
+      {
+        "kode": "CPL03",
+        "deskripsi": "Memiliki kemampuan memahami cara kerja sistem komputer serta menerapkan berbagai algoritma/metode untuk memecahkan masalah dalam suatu organisasi. **(Kognitif – C2, C3)**"
+      },
+      {
+        "kode": "CPL04",
+        "deskripsi": "Memiliki kompetensi dalam menganalisis persoalan computing yang kompleks untuk mengidentifikasi solusi pengelolaan proyek teknologi di bidang informatika/ilmu komputer dengan mempertimbangkan perkembangan ilmu transdisiplin. **(Kognitif – C4)**"
+      },
+      {
+        "kode": "CPL05",
+        "deskripsi": "Menguasai konsep teoritis dalam bidang Informatika/Ilmu Komputer untuk mendesain dan mensimulasikan aplikasi teknologi multi-platform yang sesuai dengan kebutuhan industri dan masyarakat. **(Kognitif – C2, C6)**"
+      }
+    ],
+    "cpmk": [
+      {
+        "kode": "CPMK031",
+        "deskripsi": "Mampu **menerapkan** konsep himpunan, relasi, fungsi, dan logika proposisi dalam perumusan model masalah komputasi dasar [C3]. — Kontribusi 100% terhadap CPL03"
+      },
+      {
+        "kode": "CPMK041",
+        "deskripsi": "Mampu **menganalisis** sifat-sifat aljabar bilangan real, barisan, deret, dan induksi matematika dalam pembuktian algoritma komputasi [C4]. — Kontribusi 100% terhadap CPL04"
+      },
+      {
+        "kode": "CPMK051",
+        "deskripsi": "Mampu **menghitung** dan menerapkan konsep kalkulus diferensial dasar (limit, kekontinuan, turunan fungsi) untuk optimasi matematis dalam bidang informatika [C3]. — Kontribusi 100% terhadap CPL05"
+      }
+    ],
+    "sub_cpmk": [
+      {
+        "kode": "Sub-CPMK1",
+        "deskripsi": "Mahasiswa mampu **menjelaskan** sistem bilangan real, sifat aljabar bilangan, pertidaksamaan, dan konsep nilai mutlak [C2, A2] (CPMK041)"
+      },
+      {
+        "kode": "Sub-CPMK2",
+        "deskripsi": "Mahasiswa mampu **menerapkan** operasi himpunan (union, intersection, complement, Cartesian product), diagram Venn, dan hukum-hukum aljabar himpunan [C3, A2] (CPMK031)"
+      },
+      {
+        "kode": "Sub-CPMK3",
+        "deskripsi": "Mahasiswa mampu **menganalisis** logika proposisi, tabel kebenaran, hukum ekuivalensi logika, serta aturan penarikan kesimpulan (modus ponens, tollens, silogisme) [C4, A2] (CPMK031)"
+      },
+      {
+        "kode": "Sub-CPMK4",
+        "deskripsi": "Mahasiswa mampu **menerapkan** konsep relasi, sifat relasi (refleksif, simetris, transitif, ekuivalensi), dan pemodelan fungsi (injektif, surjektif, bijektif, komposisi, invers) [C3, A2] (CPMK031)"
+      },
+      {
+        "kode": "Sub-CPMK5",
+        "deskripsi": "Mahasiswa mampu **membuktikan** kebenaran pernyataan matematis dan algoritma komputasi menggunakan prinsip induksi matematika [C4, A3] (CPMK041)"
+      },
+      {
+        "kode": "Sub-CPMK6",
+        "deskripsi": "Mahasiswa mampu **menghitung** limit fungsi aljabar, limit tak hingga, serta menguji kontinuitas suatu fungsi pada titik atau interval [C3, A2] (CPMK051)"
+      },
+      {
+        "kode": "Sub-CPMK7",
+        "deskripsi": "Mahasiswa mampu **menerapkan** aturan turunan fungsi (diferensial: aturan rantai, turunan implisit, turunan tingkat tinggi) [C3, P2] (CPMK051)"
+      },
+      {
+        "kode": "Sub-CPMK8",
+        "deskripsi": "Mahasiswa mampu **menganalisis** aplikasi turunan fungsi untuk menentukan nilai ekstrem (maksimum/minimum), laju perubahan, dan pemecahan masalah optimasi komputasi [C4, A3] (CPMK051)"
+      }
+    ],
+    "bahan_kajian": [
+      "Bahan kajian standar APTIKOM 2024: **BK20 Mathematical and Statistical Foundations**.",
+      "1. **Sistem Bilangan Real & Pertidaksamaan:** Sifat aljabar dan urutan bilangan real, pertidaksamaan linier dan kuadratik, nilai mutlak, serta garis bilangan. (Sub-CPMK1)",
+      "2. **Teori Himpunan:** Notasi himpunan, himpunan bagian, operasi irisan, gabungan, selisih, komplemen, perkalian Kartesian, hukum aljabar himpunan, dan diagram Venn. (Sub-CPMK2)",
+      "3. **Logika Proposisi & Inferensi:** Proposisi, konjungsi, disjungsi, negasi, implikasi, biimplikasi, tabel kebenaran, tautologi/kontradiksi, hukum De Morgan, dan inferensi logis. (Sub-CPMK3)",
+      "4. **Relasi dan Fungsi:** Definisi relasi, representasi matriks dan graf berarah, sifat relasi (refleksif, simetris, transitif, ekuivalensi), fungsi khusus, komposisi, dan invers. (Sub-CPMK4)",
+      "5. **Induksi Matematika & Rekursi:** Prinsip induksi matematika sederhana, induksi kuat, dan pembuktian rumus deret serta kebenaran algoritma perulangan. (Sub-CPMK5)",
+      "6. **Limit Fungsi & Kekontinuan:** Definisi limit fungsi intuitif, teorema limit, limit fungsi aljabar dan trigonometri, bentuk tak tentu, limit di tak hingga, dan uji kekontinuan. (Sub-CPMK6)",
+      "7. **Kalkulus Diferensial (Turunan Fungsi):** Definisi turunan sebagai limit laju perubahan, aturan pencarian turunan (aturan hasil kali, hasil bagi, aturan rantai), turunan implisit. (Sub-CPMK7)",
+      "8. **Aplikasi Turunan & Optimasi Komputasi:** Uji turunan pertama dan kedua, kecekungan, titik belok, penentuan nilai ekstrem maksimum/minimum, dan masalah optimasi komputasi. (Sub-CPMK8)"
+    ],
+    "pustaka_utama": [
+      "[1] Stewart, J., Clegg, D., & Watson, S. (2020). *Calculus: Early Transcendentals* (9th ed.). Boston: Cengage Learning.",
+      "[2] Rosen, K. H. (2019). *Discrete Mathematics and Its Applications* (8th ed.). New York: McGraw-Hill Education."
+    ],
+    "pustaka_pendukung": [
+      "[3] Varberg, D., Purcell, E. J., & Rigdon, S. E. (2014). *Kalkulus* (Edisi ke-9). Jakarta: Erlangga.",
+      "[4] Anton, H., Bivens, I., & Davis, S. (2016). *Calculus: Early Transcendentals* (11th ed.). Hoboken: John Wiley & Sons."
+    ],
+    "penilaian": {
+      "mekanisme": [
+        "kontrak perkuliahan dan tata cara asesmen dijelaskan pada pertemuan pertama;",
+        "komposisi nilai akhir: Keaktifan/Kuis Harian (10%), Tugas Terstruktur (20%), UTS (30%), dan UAS (40%);",
+        "tugas penyelesaian soal latihan dikoreksi dan dibahas bersama guna memperkuat pemahaman;",
+        "standar mutu nilai mengacu pada pedoman akademik UNIROW (A s.d. E);",
+        "nilai akhir diunggah ke SIA UNIROW."
+      ],
+      "teknik": "teknik tes (Ujian Tertulis UTS dan UAS berbentuk uraian matematis) serta teknik non-tes (evaluasi portofolio latihan soal mandiri, kuis berkala, dan keaktifan pembahasan soal). Instrumen menggunakan soal uraian pembuktian/kalkulasi dan rubrik berskala 1–5.",
+      "sifat": "edukatif, otentik, objektif, akuntabel, dan transparan yang menguji ketajaman nalar deduktif dan akurasi komputasi matematis."
+    },
+    "p1_asesmen": {
+      "title": "Tabel P1. Rencana asesmen dan bobot penilaian per Sub-CPMK (%)",
+      "rows": [
+        [
+          "Sub-CPMK",
+          "CPL",
+          "Harian",
+          "Tugas-1",
+          "Tugas-2",
+          "Tugas-3",
+          "UTS",
+          "UAS",
+          "Total"
+        ],
+        [
+          "Sub-CPMK1",
+          "CPL04",
+          "2",
+          "3",
+          "",
+          "",
+          "",
+          "",
+          "5"
+        ],
+        [
+          "Sub-CPMK2",
+          "CPL03",
+          "1",
+          "2",
+          "",
+          "",
+          "7",
+          "",
+          "10"
+        ],
+        [
+          "Sub-CPMK3",
+          "CPL03",
+          "1",
+          "",
+          "4",
+          "",
+          "10",
+          "",
+          "15"
+        ],
+        [
+          "Sub-CPMK4",
+          "CPL03",
+          "1",
+          "",
+          "3",
+          "",
+          "13",
+          "",
+          "17"
+        ],
+        [
+          "Sub-CPMK5",
+          "CPL04",
+          "1",
+          "",
+          "",
+          "4",
+          "",
+          "8",
+          "13"
+        ],
+        [
+          "Sub-CPMK6",
+          "CPL05",
+          "2",
+          "",
+          "",
+          "4",
+          "",
+          "10",
+          "16"
+        ],
+        [
+          "Sub-CPMK7",
+          "CPL05",
+          "1",
+          "",
+          "",
+          "",
+          "",
+          "11",
+          "12"
+        ],
+        [
+          "Sub-CPMK8",
+          "CPL05",
+          "1",
+          "",
+          "",
+          "",
+          "",
+          "11",
+          "12"
+        ],
+        [
+          "**Total**",
+          "",
+          "**10**",
+          "**5**",
+          "**7**",
+          "**8**",
+          "**30**",
+          "**40**",
+          "**100**"
+        ]
+      ],
+      "widths": [
+        1560,
+        900,
+        960,
+        960,
+        960,
+        1140,
+        960,
+        960,
+        960
+      ],
+      "note": "Bobot per CPL: CPL04 = 18%, CPL03 = 42%, CPL05 = 40%. Nilai Akhir MK = Σ (nilai komponen × bobot komponen) / 100."
+    },
+    "tugas": {
+      "intro": "Tugas terstruktur dirancang untuk mengasah ketelitian aljabar, pembuktian logis, dan penerapan kalkulus optimasi:",
+      "rows": [
+        [
+          "Tugas",
+          "Sub-CPMK, Jenis, Waktu",
+          "Deskripsi Pengerjaan dan Luaran",
+          "Indikator Penilaian",
+          "Bobot"
+        ],
+        [
+          "**Tugas-1**: Penyelesaian Pertidaksamaan & Operasi Himpunan",
+          [
+            "Sub-CPMK1, Sub-CPMK2",
+            "Individu",
+            "Minggu 1–3"
+          ],
+          [
+            "A. Menentukan himpunan penyelesaian pertidaksamaan kuadratik dan nilai mutlak.",
+            "B. Membuktikan sifat operasi aljabar himpunan.",
+            "Luaran: Lembar kerja penyelesaian soal matematika individu."
+          ],
+          [
+            "1. Akurasi langkah aljabar",
+            "2. Ketepatan himpunan penyelesaian",
+            "3. Kerapian penulisan rumus"
+          ],
+          "5%"
+        ],
+        [
+          "**Tugas-2**: Tabel Kebenaran Logika & Analisis Relasi",
+          [
+            "Sub-CPMK3, Sub-CPMK4",
+            "Kelompok (3 mhs)",
+            "Minggu 5–7"
+          ],
+          [
+            "A. Menguji ekuivalensi pernyataan majemuk menggunakan hukum logika.",
+            "B. Menganalisis sifat-sifat relasi dan relasi ekuivalensi.",
+            "Luaran: Laporan analisis tabel kebenaran & sifat relasi."
+          ],
+          [
+            "1. Ketepatan tabel kebenaran",
+            "2. Ketajaman analisis relasi ekuivalensi",
+            "3. Kerja sama tim"
+          ],
+          "7%"
+        ],
+        [
+          "**Tugas-3**: Induksi Matematika & Optimasi Kalkulus",
+          [
+            "Sub-CPMK5 s.d. Sub-CPMK8",
+            "Kelompok (3–4 mhs)",
+            "Minggu 9–15"
+          ],
+          [
+            "A. Membuktikan rumus deret dan keterbagian dengan induksi matematika.",
+            "B. Menyelesaikan studi kasus optimasi nilai ekstrem menggunakan turunan fungsi.",
+            "Luaran: Laporan penyelesaian pembuktian & pemodelan optimasi."
+          ],
+          [
+            "1. Keabsahan langkah induksi",
+            "2. Ketepatan kalkulasi turunan & optimasi",
+            "3. Kualitas presentasi"
+          ],
+          "8%"
+        ]
+      ]
+    },
+    "mingguan": [
+      {
+        "minggu": "1–2",
+        "sub_cpmk": "Sub-CPMK1",
+        "indikator": [
+          "1.1 Ketepatan menyelesaikan pertidaksamaan linier, kuadratik, dan rasional",
+          "1.2 Kemampuan menyelesaikan pertidaksamaan yang memuat nilai mutlak"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik ketepatan aljabar",
+          "**Non-tes:** Partisipasi latihan soal papan tulis",
+          "**Tes:** Kuis diagnostik aljabar"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah interaktif",
+          "**Metode:** Problem-Based Learning",
+          "[PB: 2×(3×50\")]"
+        ],
+        "penugasan": [
+          "**Tugas-1 (individu):** Latihan penyelesaian himpunan penyelesaian pertidaksamaan nilai mutlak",
+          "[PT: 2×(3×60\")]",
+          "[KM: 2×(3×60\")]"
+        ],
+        "materi": [
+          "Sistem Bilangan Real, Pertidaksamaan, dan Konsep Nilai Mutlak",
+          "[1] Bab 1; [3] Bab 1"
+        ],
+        "bobot": "5%"
+      },
+      {
+        "minggu": "3–4",
+        "sub_cpmk": "Sub-CPMK2",
+        "indikator": [
+          "2.1 Ketepatan melakukan operasi himpunan dan pembuktian hukum aljabar himpunan",
+          "2.2 Kemampuan memodelkan relasi keanggotaan menggunakan diagram Venn"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik pembuktian himpunan",
+          "**Non-tes:** Diskusi soal himpunan",
+          "**Tes:** -"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah interaktif",
+          "**Metode:** Collaborative Learning",
+          "[PB: 2×(3×50\")]"
+        ],
+        "penugasan": [
+          "Mandiri: Latihan pembuktian kesamaan himpunan dengan hukum aljabar",
+          "[PT: 2×(3×60\")]",
+          "[KM: 2×(3×60\")]"
+        ],
+        "materi": [
+          "Teori Himpunan, Operasi Aljabar Himpunan, dan Perkalian Kartesian",
+          "[2] Bab 2"
+        ],
+        "bobot": "3%"
+      },
+      {
+        "minggu": "5–6",
+        "sub_cpmk": "Sub-CPMK3",
+        "indikator": [
+          "3.1 Ketepatan menyusun tabel kebenaran proposisi majemuk",
+          "3.2 Kemampuan menguji keabsahan argumen menggunakan modus ponens, tollens, silogisme"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik tabel kebenaran",
+          "**Non-tes:** Latihan analisis argumen logis",
+          "**Tes:** -"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah & tutorial latihan",
+          "**Metode:** Discovery Learning",
+          "[PB: 2×(3×50\")]"
+        ],
+        "penugasan": [
+          "**Tugas-2 (kelompok):** Analisis keabsahan argumen penarikan kesimpulan dan penyederhanaan logika gerbang",
+          "[PT: 2×(3×60\")]",
+          "[KM: 2×(3×60\")]"
+        ],
+        "materi": [
+          "Logika Proposisi, Tabel Kebenaran, Ekuivalensi Logis, dan Aturan Inferensi",
+          "[2] Bab 1"
+        ],
+        "bobot": "5%"
+      },
+      {
+        "minggu": "7",
+        "sub_cpmk": "Sub-CPMK4",
+        "indikator": [
+          "4.1 Ketepatan menentukan sifat relasi (refleksif, simetris, transitif)",
+          "4.2 Kemampuan mengidentifikasi karakteristik fungsi (injektif, surjektif, bijektif) dan invers"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik relasi & fungsi",
+          "**Non-tes:** Latihan soal representasi matriks relasi",
+          "**Tes:** Kuis persiapan UTS"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah interaktif",
+          "**Metode:** Problem-Based Learning",
+          "[PB: 1×(3×50\")]"
+        ],
+        "penugasan": [
+          "Mandiri: Latihan pemetaan fungsi komposisi dan fungsi invers",
+          "[PT: 1×(3×60\")]",
+          "[KM: 1×(3×60\")]"
+        ],
+        "materi": [
+          "Konsep Relasi, Relasi Ekuivalensi, dan Pemodelan Fungsi Matematis",
+          "[2] Bab 2 & 9"
+        ],
+        "bobot": "4%"
+      },
+      {
+        "minggu": "8",
+        "sub_cpmk": "Evaluasi Tengah Semester (UTS)",
+        "indikator": [
+          "Evaluasi penguasaan materi minggu 1 s.d. 7"
+        ],
+        "kriteria": [
+          "Kriteria: Rubrik Ujian Tertulis / Praktik"
+        ],
+        "metode": [
+          "Ujian Tengah Semester Terjadwal"
+        ],
+        "penugasan": [
+          "Mengerjakan lembar soal UTS"
+        ],
+        "materi": [
+          "**Evaluasi Tengah Semester / Ujian Tengah Semester (UTS)** – Ujian tertulis uraian matematis Sub-CPMK1 s.d. Sub-CPMK4  [PB: 1×(3×50\")]"
+        ],
+        "bobot": "30%"
+      },
+      {
+        "minggu": "9–10",
+        "sub_cpmk": "Sub-CPMK5",
+        "indikator": [
+          "5.1 Ketepatan langkah pembuktian pernyataan matematis dengan induksi matematika",
+          "5.2 Kemampuan membuktikan kebenaran keterbagian dan rumus deret bilangan"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik pembuktian induksi",
+          "**Non-tes:** Diskusi pembuktian terstruktur",
+          "**Tes:** -"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah & tutorial pembuktian",
+          "**Metode:** Problem-Based Learning",
+          "[PB: 2×(3×50\")]"
+        ],
+        "penugasan": [
+          "**Tugas-3 (kelompok):** Pembuktian rumus algoritma perulangan menggunakan induksi matematika",
+          "[PT: 2×(3×60\")]",
+          "[KM: 2×(3×60\")]"
+        ],
+        "materi": [
+          "Prinsip Induksi Matematika dan Pembuktian Kebenaran Algoritma",
+          "[2] Bab 5"
+        ],
+        "bobot": "5%"
+      },
+      {
+        "minggu": "11–12",
+        "sub_cpmk": "Sub-CPMK6",
+        "indikator": [
+          "6.1 Ketepatan menghitung limit fungsi aljabar dan limit tak hingga",
+          "6.2 Kemampuan menguji kekontinuan fungsi pada suatu titik"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik kalkulasi limit",
+          "**Non-tes:** Latihan mandiri di papan tulis",
+          "**Tes:** -"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah interaktif",
+          "**Metode:** Discovery Learning",
+          "[PB: 2×(3×50\")]"
+        ],
+        "penugasan": [
+          "Mandiri: Latihan penyelesaian bentuk tak tentu limit fungsi",
+          "[PT: 2×(3×60\")]",
+          "[KM: 2×(3×60\")]"
+        ],
+        "materi": [
+          "Konsep Limit Fungsi, Teorema Limit, Bentuk Tak Tentu, dan Uji Kekontinuan",
+          "[1] Bab 2; [3] Bab 2"
+        ],
+        "bobot": "6%"
+      },
+      {
+        "minggu": "13–14",
+        "sub_cpmk": "Sub-CPMK7",
+        "indikator": [
+          "7.1 Ketepatan menerapkan rumus turunan fungsi aljabar dan aturan rantai",
+          "7.2 Kemampuan menentukan turunan fungsi implisit dan turunan tingkat tinggi"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik diferensiasi fungsi",
+          "**Non-tes:** Latihan soal diferensial",
+          "**Tes:** -"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah & tutorial latihan",
+          "**Metode:** Problem-Based Learning",
+          "[PB: 2×(3×50\")]"
+        ],
+        "penugasan": [
+          "Mandiri: Latihan aturan rantai pada fungsi komposisi bertingkat",
+          "[PT: 2×(3×60\")]",
+          "[KM: 2×(3×60\")]"
+        ],
+        "materi": [
+          "Kalkulus Diferensial: Aturan Turunan, Aturan Rantai, dan Turunan Implisit",
+          "[1] Bab 3; [3] Bab 3"
+        ],
+        "bobot": "1%"
+      },
+      {
+        "minggu": "15",
+        "sub_cpmk": "Sub-CPMK8",
+        "indikator": [
+          "8.1 Ketepatan menentukan titik kritis, interval naik/turun, dan nilai ekstrem fungsi",
+          "8.2 Kemampuan merumuskan model optimasi matematis pada kasus komputasi"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik analisis optimasi fungsi",
+          "**Non-tes:** Presentasi penyelesaian masalah optimasi",
+          "**Tes:** -"
+        ],
+        "metode": [
+          "**Bentuk:** Seminar & diskusi kelompok",
+          "**Metode:** Project-Based Learning (PjBL)",
+          "[PB: 1×(3×50\")]"
+        ],
+        "penugasan": [
+          "Mandiri: Latihan pemecahan soal aplikasi optimasi dimensi dan biaya",
+          "[PT: 1×(3×60\")]",
+          "[KM: 1×(3×60\")]"
+        ],
+        "materi": [
+          "Aplikasi Turunan: Penentuan Nilai Ekstrem, Kecekungan, dan Pemecahan Masalah Optimasi",
+          "[1] Bab 4; [3] Bab 4"
+        ],
+        "bobot": "1%"
+      },
+      {
+        "minggu": "16",
+        "sub_cpmk": "Evaluasi Akhir Semester (UAS)",
+        "indikator": [
+          "Evaluasi pencapaian kompetensi akhir seluruh materi"
+        ],
+        "kriteria": [
+          "Kriteria: Rubrik Proyek Akhir / Portofolio / Ujian Akhir"
+        ],
+        "metode": [
+          "Ujian Akhir Semester / Presentasi Proyek"
+        ],
+        "penugasan": [
+          "Laporan Akhir & Demonstrasi"
+        ],
+        "materi": [
+          "**Evaluasi Akhir Semester / Ujian Akhir Semester (UAS)** – Ujian tertulis komprehensif induksi matematika dan kalkulus Sub-CPMK5 s.d. Sub-CPMK8  [PB: 1×(3×50\")] - *Pelaksanaan ujian tertulis uraian matematis"
+        ],
+        "bobot": "40%"
+      }
+    ],
+    "file_docx": "Output_RPS_Sem1/IF1201-Matematika/RPS-IF1201-Matematika.docx",
+    "file_size": "54 KB"
+  },
+  {
+    "kode": "IF7601",
+    "nama": "Manajemen Perangkat Lunak",
+    "semester": 7,
+    "semester_label": "Semester 7 (Gasal)",
+    "sks_teori": 3,
+    "sks_praktik": 0,
+    "sks_total": 3,
+    "rumpun": "(MK Kompetensi Utama)",
+    "tanggal": "30 September 2026",
+    "pengembang": "Aris Wijayanti, M.Kom",
+    "koordinator": "Aris Wijayanti, M.Kom",
+    "kaprodi": "Amaludin Arifia, S.Kom., M.Kom.",
+    "syarat": "Tidak ada",
+    "deskripsi": "Mata kuliah ini membahas berbagai topik terkait Manajemen Perangkat Lunak.",
+    "cpl": [
+      {
+        "kode": "CPL05",
+        "deskripsi": "Menguasai konsep teoritis dalam bidang Informatika/Ilmu Komputer untuk mendesain dan menyimulasikan aplikasi teknologi multi-platform yang sesuai dengan kebutuhan industri dan masyarakat. (P)"
+      },
+      {
+        "kode": "CPL08",
+        "deskripsi": "Memiliki kemampuan untuk mengimplementasikan kebutuhan computing dengan menggunakan berbagai metode/algoritma yang sesuai dengan kebutuhan pengguna. (KK)"
+      }
+    ],
+    "cpmk": [
+      {
+        "kode": "CPMK051",
+        "deskripsi": "Mampu **menjelaskan** dan merangkum konsep utama mata kuliah [C2]. — Kontribusi 50% terhadap CPL05"
+      },
+      {
+        "kode": "CPMK081",
+        "deskripsi": "Mampu **menerapkan** dan menyelesaikan studi kasus terkait mata kuliah ini [C3]. — Kontribusi 50% terhadap CPL08"
+      }
+    ],
+    "sub_cpmk": [
+      {
+        "kode": "Sub-CPMK1",
+        "deskripsi": "Mahasiswa mampu **menjelaskan** ruang lingkup Manajemen Perangkat Lunak [C2, A2] (CPMK051)"
+      },
+      {
+        "kode": "Sub-CPMK2",
+        "deskripsi": "Mahasiswa mampu **mengidentifikasi** masalah dan teori dasar Manajemen Perangkat Lunak [C2, A2] (CPMK051)"
+      },
+      {
+        "kode": "Sub-CPMK3",
+        "deskripsi": "Mahasiswa mampu **menganalisis** studi kasus awal [C4, A3] (CPMK081)"
+      },
+      {
+        "kode": "Sub-CPMK4",
+        "deskripsi": "Mahasiswa mampu **menyimpulkan** solusi dari kasus [C5, A3] (CPMK081)"
+      },
+      {
+        "kode": "Sub-CPMK5",
+        "deskripsi": "Mahasiswa mampu **merancang** pendekatan lanjutan Manajemen Perangkat Lunak [C6, P2] (CPMK081)"
+      },
+      {
+        "kode": "Sub-CPMK6",
+        "deskripsi": "Mahasiswa mampu **mengembangkan** purwarupa/konsep Manajemen Perangkat Lunak [C6, P3] (CPMK081)"
+      },
+      {
+        "kode": "Sub-CPMK7",
+        "deskripsi": "Mahasiswa mampu **mengevaluasi** hasil implementasi [C5, P4] (CPMK081)"
+      },
+      {
+        "kode": "Sub-CPMK8",
+        "deskripsi": "Mahasiswa mampu **mempresentasikan** proyek akhir Manajemen Perangkat Lunak [C6, P4] (CPMK081)"
+      }
+    ],
+    "bahan_kajian": [
+      "Bahan kajian APTIKOM 2024: **BK01**.",
+      "1. **Konsep:** Pengantar (Sub-CPMK1)",
+      "2. **Identifikasi:** Dasar (Sub-CPMK2)",
+      "3. **Analisis:** Lanjutan (Sub-CPMK3)",
+      "4. **Kesimpulan:** Lanjutan (Sub-CPMK4)",
+      "5. **Rancangan:** Praktik (Sub-CPMK5)",
+      "6. **Pengembangan:** Praktik (Sub-CPMK6)",
+      "7. **Evaluasi:** Evaluasi (Sub-CPMK7)",
+      "8. **Presentasi:** Final (Sub-CPMK8)"
+    ],
+    "pustaka_utama": [
+      "[1] Penulis Standar. (2026). *Buku Ajar Manajemen Perangkat Lunak*. Kota: Penerbit."
+    ],
+    "pustaka_pendukung": [
+      "[2] Referensi Jurnal terkait Manajemen Perangkat Lunak."
+    ],
+    "penilaian": {
+      "mekanisme": [
+        "pada pertemuan pertama dijelaskan kontrak kuliah;",
+        "komposisi nilai akhir: UTS 20%, UAS 20%, Tugas 40%, Partisipasi 20%;",
+        "nilai diunggah ke SIA UNIROW."
+      ],
+      "teknik": "teknik tes (Ujian Tulis) dan teknik non-tes (Tugas/Proyek).",
+      "sifat": "edukatif, otentik, objektif, akuntabel, dan transparan."
+    },
+    "p1_asesmen": {
+      "title": "Tabel P1. Rencana asesmen dan bobot penilaian per Sub-CPMK (%)",
+      "rows": [
+        [
+          "Sub-CPMK",
+          "CPL",
+          "Tugas",
+          "Kuis",
+          "UTS",
+          "UAS",
+          "Total"
+        ],
+        [
+          "Sub-CPMK1",
+          "CPL05",
+          "2",
+          "3",
+          "",
+          "",
+          "5"
+        ],
+        [
+          "Sub-CPMK2",
+          "CPL05",
+          "2",
+          "3",
+          "",
+          "",
+          "5"
+        ],
+        [
+          "Sub-CPMK3",
+          "CPL08",
+          "5",
+          "5",
+          "",
+          "",
+          "10"
+        ],
+        [
+          "Sub-CPMK4",
+          "CPL08",
+          "5",
+          "5",
+          "",
+          "",
+          "10"
+        ],
+        [
+          "Sub-CPMK5",
+          "CPL08",
+          "10",
+          "",
+          "",
+          "",
+          "10"
+        ],
+        [
+          "Sub-CPMK6",
+          "CPL08",
+          "10",
+          "",
+          "",
+          "",
+          "10"
+        ],
+        [
+          "Sub-CPMK7",
+          "CPL08",
+          "5",
+          "",
+          "",
+          "",
+          "5"
+        ],
+        [
+          "Sub-CPMK8",
+          "CPL08",
+          "5",
+          "",
+          "",
+          "",
+          "5"
+        ],
+        [
+          "**UTS**",
+          "",
+          "",
+          "",
+          "**20**",
+          "",
+          "**20**"
+        ],
+        [
+          "**UAS**",
+          "",
+          "",
+          "",
+          "",
+          "**20**",
+          "**20**"
+        ],
+        [
+          "**Total**",
+          "",
+          "**44**",
+          "**16**",
+          "**20**",
+          "**20**",
+          "**100**"
+        ]
+      ],
+      "widths": [
+        1560,
+        900,
+        1140,
+        960,
+        960,
+        960,
+        960
+      ],
+      "note": "Nilai Akhir MK = Σ (nilai komponen × bobot komponen) / 100."
+    },
+    "tugas": {
+      "intro": "Tugas terstruktur terdiri atas:",
+      "rows": [
+        [
+          "Tugas",
+          "Sub-CPMK, Jenis, Waktu",
+          "Deskripsi Pengerjaan dan Luaran",
+          "Indikator Penilaian",
+          "Bobot"
+        ],
+        [
+          "**Tugas-1**: Ringkasan",
+          [
+            "Sub-CPMK1",
+            "Individu",
+            "Mg 1-2"
+          ],
+          [
+            "Membuat ringkasan materi",
+            "Luaran: Dokumen"
+          ],
+          [
+            "Ketepatan teori"
+          ],
+          "5%"
+        ]
+      ]
+    },
+    "mingguan": [
+      {
+        "minggu": "1–2",
+        "sub_cpmk": "Sub-CPMK1",
+        "indikator": [
+          "1.1 Ketepatan pemahaman"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik deskriptif",
+          "**Non-tes:** Tanya Jawab",
+          "**Tes:** Kuis"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah",
+          "**Metode:** Ceramah",
+          "[PB: 2×(3×50\")]"
+        ],
+        "penugasan": [
+          "**Tugas-1:** Ringkasan",
+          "[PT: 2×(3×60\")]",
+          "[KM: 2×(3×60\")]"
+        ],
+        "materi": [
+          "Pengantar",
+          "[1] Bab 1"
+        ],
+        "bobot": "5%"
+      },
+      {
+        "minggu": "3–4",
+        "sub_cpmk": "Sub-CPMK2",
+        "indikator": [
+          "2.1 Ketepatan identifikasi"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik deskriptif",
+          "**Non-tes:** Diskusi",
+          "**Tes:** Kuis"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah",
+          "**Metode:** Diskusi",
+          "[PB: 2×(3×50\")]"
+        ],
+        "penugasan": [
+          "Belajar Mandiri",
+          "[PT: 2×(3×60\")]",
+          "[KM: 2×(3×60\")]"
+        ],
+        "materi": [
+          "Dasar Teori",
+          "[1] Bab 2"
+        ],
+        "bobot": "5%"
+      },
+      {
+        "minggu": "5–6",
+        "sub_cpmk": "Sub-CPMK3",
+        "indikator": [
+          "3.1 Ketepatan analisis"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik analisis",
+          "**Non-tes:** Makalah",
+          "**Tes:** Kuis"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah",
+          "**Metode:** Case Study",
+          "[PB: 2×(3×50\")]"
+        ],
+        "penugasan": [
+          "**Tugas-2:** Studi Kasus",
+          "[PT: 2×(3×60\")]",
+          "[KM: 2×(3×60\")]"
+        ],
+        "materi": [
+          "Analisis Kasus",
+          "[1] Bab 3"
+        ],
+        "bobot": "10%"
+      },
+      {
+        "minggu": "7",
+        "sub_cpmk": "Sub-CPMK4",
+        "indikator": [
+          "4.1 Ketepatan penyimpulan"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik presentasi",
+          "**Non-tes:** Presentasi",
+          "**Tes:** Kuis"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah",
+          "**Metode:** Seminar",
+          "[PB: 1×(3×50\")]"
+        ],
+        "penugasan": [
+          "Belajar Mandiri",
+          "[PT: 1×(3×60\")]",
+          "[KM: 1×(3×60\")]"
+        ],
+        "materi": [
+          "Kesimpulan",
+          "[1] Bab 4"
+        ],
+        "bobot": "10%"
+      },
+      {
+        "minggu": "8",
+        "sub_cpmk": "Evaluasi Tengah Semester (UTS)",
+        "indikator": [
+          "Evaluasi penguasaan materi minggu 1 s.d. 7"
+        ],
+        "kriteria": [
+          "Kriteria: Rubrik Ujian Tertulis / Praktik"
+        ],
+        "metode": [
+          "Ujian Tengah Semester Terjadwal"
+        ],
+        "penugasan": [
+          "Mengerjakan lembar soal UTS"
+        ],
+        "materi": [
+          "**Evaluasi Tengah Semester / Ujian Tengah Semester** – Ujian tulis untuk Sub-CPMK1–Sub-CPMK4  [PB: 1×(3×50\")]"
+        ],
+        "bobot": "20%"
+      },
+      {
+        "minggu": "9–10",
+        "sub_cpmk": "Sub-CPMK5",
+        "indikator": [
+          "5.1 Ketepatan perancangan"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik perancangan",
+          "**Non-tes:** Desain",
+          "**Tes:** -"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah",
+          "**Metode:** Project",
+          "[PB: 2×(3×50\")]"
+        ],
+        "penugasan": [
+          "**Tugas-3:** Draft Proyek",
+          "[PT: 2×(3×60\")]",
+          "[KM: 2×(3×60\")]"
+        ],
+        "materi": [
+          "Perancangan",
+          "[1] Bab 5"
+        ],
+        "bobot": "10%"
+      },
+      {
+        "minggu": "11–12",
+        "sub_cpmk": "Sub-CPMK6",
+        "indikator": [
+          "6.1 Ketepatan pengembangan"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik produk",
+          "**Non-tes:** Prototipe",
+          "**Tes:** -"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah",
+          "**Metode:** Project",
+          "[PB: 2×(3×50\")]"
+        ],
+        "penugasan": [
+          "Belajar Mandiri",
+          "[PT: 2×(3×60\")]",
+          "[KM: 2×(3×60\")]"
+        ],
+        "materi": [
+          "Pengembangan",
+          "[1] Bab 6"
+        ],
+        "bobot": "10%"
+      },
+      {
+        "minggu": "13–14",
+        "sub_cpmk": "Sub-CPMK7",
+        "indikator": [
+          "7.1 Ketepatan evaluasi"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik evaluasi",
+          "**Non-tes:** Laporan",
+          "**Tes:** -"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah",
+          "**Metode:** Project",
+          "[PB: 2×(3×50\")]"
+        ],
+        "penugasan": [
+          "Belajar Mandiri",
+          "[PT: 2×(3×60\")]",
+          "[KM: 2×(3×60\")]"
+        ],
+        "materi": [
+          "Evaluasi",
+          "[1] Bab 7"
+        ],
+        "bobot": "5%"
+      },
+      {
+        "minggu": "15",
+        "sub_cpmk": "Sub-CPMK8",
+        "indikator": [
+          "8.1 Ketepatan presentasi"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik presentasi",
+          "**Non-tes:** Demo",
+          "**Tes:** -"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah",
+          "**Metode:** Seminar",
+          "[PB: 1×(3×50\")]"
+        ],
+        "penugasan": [
+          "Belajar Mandiri",
+          "[PT: 1×(3×60\")]",
+          "[KM: 1×(3×60\")]"
+        ],
+        "materi": [
+          "Presentasi",
+          "[1] Bab 8"
+        ],
+        "bobot": "5%"
+      },
+      {
+        "minggu": "16",
+        "sub_cpmk": "Evaluasi Akhir Semester (UAS)",
+        "indikator": [
+          "Evaluasi pencapaian kompetensi akhir seluruh materi"
+        ],
+        "kriteria": [
+          "Kriteria: Rubrik Proyek Akhir / Portofolio / Ujian Akhir"
+        ],
+        "metode": [
+          "Ujian Akhir Semester / Presentasi Proyek"
+        ],
+        "penugasan": [
+          "Laporan Akhir & Demonstrasi"
+        ],
+        "materi": [
+          "**Evaluasi Akhir Semester / Ujian Akhir Semester** – Presentasi Proyek  [PB: 1×(3×50\")] - *Pengumpulan Laporan"
+        ],
+        "bobot": "20%"
+      }
+    ],
+    "file_docx": "Output_RPS_Sem7/IF7601-Manajemen Perangkat Lunak/RPS-IF7601-Manajemen Perangkat Lunak.docx",
+    "file_size": "43 KB"
+  },
+  {
+    "kode": "IF7602",
+    "nama": "Interaksi Manusia dan Komputer",
+    "semester": 7,
+    "semester_label": "Semester 7 (Gasal)",
+    "sks_teori": 3,
+    "sks_praktik": 0,
+    "sks_total": 3,
+    "rumpun": "(MK Kompetensi Utama)",
+    "tanggal": "30 September 2026",
+    "pengembang": "Alfian Nurlifa, M.Kom",
+    "koordinator": "Alfian Nurlifa, M.Kom",
+    "kaprodi": "Amaludin Arifia, S.Kom., M.Kom.",
+    "syarat": "Tidak ada",
+    "deskripsi": "Mata kuliah ini membahas berbagai topik terkait Interaksi Manusia dan Komputer.",
+    "cpl": [
+      {
+        "kode": "CPL05",
+        "deskripsi": "Menguasai konsep teoritis dalam bidang Informatika/Ilmu Komputer untuk mendesain dan menyimulasikan aplikasi teknologi multi-platform yang sesuai dengan kebutuhan industri dan masyarakat. (P)"
+      },
+      {
+        "kode": "CPL08",
+        "deskripsi": "Memiliki kemampuan untuk mengimplementasikan kebutuhan computing dengan menggunakan berbagai metode/algoritma yang sesuai dengan kebutuhan pengguna. (KK)"
+      }
+    ],
+    "cpmk": [
+      {
+        "kode": "CPMK051",
+        "deskripsi": "Mampu **menjelaskan** dan merangkum konsep utama mata kuliah [C2]. — Kontribusi 50% terhadap CPL05"
+      },
+      {
+        "kode": "CPMK081",
+        "deskripsi": "Mampu **menerapkan** dan menyelesaikan studi kasus terkait mata kuliah ini [C3]. — Kontribusi 50% terhadap CPL08"
+      }
+    ],
+    "sub_cpmk": [
+      {
+        "kode": "Sub-CPMK1",
+        "deskripsi": "Mahasiswa mampu **menjelaskan** ruang lingkup Interaksi Manusia dan Komputer [C2, A2] (CPMK051)"
+      },
+      {
+        "kode": "Sub-CPMK2",
+        "deskripsi": "Mahasiswa mampu **mengidentifikasi** masalah dan teori dasar Interaksi Manusia dan Komputer [C2, A2] (CPMK051)"
+      },
+      {
+        "kode": "Sub-CPMK3",
+        "deskripsi": "Mahasiswa mampu **menganalisis** studi kasus awal [C4, A3] (CPMK081)"
+      },
+      {
+        "kode": "Sub-CPMK4",
+        "deskripsi": "Mahasiswa mampu **menyimpulkan** solusi dari kasus [C5, A3] (CPMK081)"
+      },
+      {
+        "kode": "Sub-CPMK5",
+        "deskripsi": "Mahasiswa mampu **merancang** pendekatan lanjutan Interaksi Manusia dan Komputer [C6, P2] (CPMK081)"
+      },
+      {
+        "kode": "Sub-CPMK6",
+        "deskripsi": "Mahasiswa mampu **mengembangkan** purwarupa/konsep Interaksi Manusia dan Komputer [C6, P3] (CPMK081)"
+      },
+      {
+        "kode": "Sub-CPMK7",
+        "deskripsi": "Mahasiswa mampu **mengevaluasi** hasil implementasi [C5, P4] (CPMK081)"
+      },
+      {
+        "kode": "Sub-CPMK8",
+        "deskripsi": "Mahasiswa mampu **mempresentasikan** proyek akhir Interaksi Manusia dan Komputer [C6, P4] (CPMK081)"
+      }
+    ],
+    "bahan_kajian": [
+      "Bahan kajian APTIKOM 2024: **BK01**.",
+      "1. **Konsep:** Pengantar (Sub-CPMK1)",
+      "2. **Identifikasi:** Dasar (Sub-CPMK2)",
+      "3. **Analisis:** Lanjutan (Sub-CPMK3)",
+      "4. **Kesimpulan:** Lanjutan (Sub-CPMK4)",
+      "5. **Rancangan:** Praktik (Sub-CPMK5)",
+      "6. **Pengembangan:** Praktik (Sub-CPMK6)",
+      "7. **Evaluasi:** Evaluasi (Sub-CPMK7)",
+      "8. **Presentasi:** Final (Sub-CPMK8)"
+    ],
+    "pustaka_utama": [
+      "[1] Penulis Standar. (2026). *Buku Ajar Interaksi Manusia dan Komputer*. Kota: Penerbit."
+    ],
+    "pustaka_pendukung": [
+      "[2] Referensi Jurnal terkait Interaksi Manusia dan Komputer."
+    ],
+    "penilaian": {
+      "mekanisme": [
+        "pada pertemuan pertama dijelaskan kontrak kuliah;",
+        "komposisi nilai akhir: UTS 20%, UAS 20%, Tugas 40%, Partisipasi 20%;",
+        "nilai diunggah ke SIA UNIROW."
+      ],
+      "teknik": "teknik tes (Ujian Tulis) dan teknik non-tes (Tugas/Proyek).",
+      "sifat": "edukatif, otentik, objektif, akuntabel, dan transparan."
+    },
+    "p1_asesmen": {
+      "title": "Tabel P1. Rencana asesmen dan bobot penilaian per Sub-CPMK (%)",
+      "rows": [
+        [
+          "Sub-CPMK",
+          "CPL",
+          "Tugas",
+          "Kuis",
+          "UTS",
+          "UAS",
+          "Total"
+        ],
+        [
+          "Sub-CPMK1",
+          "CPL05",
+          "2",
+          "3",
+          "",
+          "",
+          "5"
+        ],
+        [
+          "Sub-CPMK2",
+          "CPL05",
+          "2",
+          "3",
+          "",
+          "",
+          "5"
+        ],
+        [
+          "Sub-CPMK3",
+          "CPL08",
+          "5",
+          "5",
+          "",
+          "",
+          "10"
+        ],
+        [
+          "Sub-CPMK4",
+          "CPL08",
+          "5",
+          "5",
+          "",
+          "",
+          "10"
+        ],
+        [
+          "Sub-CPMK5",
+          "CPL08",
+          "10",
+          "",
+          "",
+          "",
+          "10"
+        ],
+        [
+          "Sub-CPMK6",
+          "CPL08",
+          "10",
+          "",
+          "",
+          "",
+          "10"
+        ],
+        [
+          "Sub-CPMK7",
+          "CPL08",
+          "5",
+          "",
+          "",
+          "",
+          "5"
+        ],
+        [
+          "Sub-CPMK8",
+          "CPL08",
+          "5",
+          "",
+          "",
+          "",
+          "5"
+        ],
+        [
+          "**UTS**",
+          "",
+          "",
+          "",
+          "**20**",
+          "",
+          "**20**"
+        ],
+        [
+          "**UAS**",
+          "",
+          "",
+          "",
+          "",
+          "**20**",
+          "**20**"
+        ],
+        [
+          "**Total**",
+          "",
+          "**44**",
+          "**16**",
+          "**20**",
+          "**20**",
+          "**100**"
+        ]
+      ],
+      "widths": [
+        1560,
+        900,
+        1140,
+        960,
+        960,
+        960,
+        960
+      ],
+      "note": "Nilai Akhir MK = Σ (nilai komponen × bobot komponen) / 100."
+    },
+    "tugas": {
+      "intro": "Tugas terstruktur terdiri atas:",
+      "rows": [
+        [
+          "Tugas",
+          "Sub-CPMK, Jenis, Waktu",
+          "Deskripsi Pengerjaan dan Luaran",
+          "Indikator Penilaian",
+          "Bobot"
+        ],
+        [
+          "**Tugas-1**: Ringkasan",
+          [
+            "Sub-CPMK1",
+            "Individu",
+            "Mg 1-2"
+          ],
+          [
+            "Membuat ringkasan materi",
+            "Luaran: Dokumen"
+          ],
+          [
+            "Ketepatan teori"
+          ],
+          "5%"
+        ]
+      ]
+    },
+    "mingguan": [
+      {
+        "minggu": "1–2",
+        "sub_cpmk": "Sub-CPMK1",
+        "indikator": [
+          "1.1 Ketepatan pemahaman"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik deskriptif",
+          "**Non-tes:** Tanya Jawab",
+          "**Tes:** Kuis"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah",
+          "**Metode:** Ceramah",
+          "[PB: 2×(3×50\")]"
+        ],
+        "penugasan": [
+          "**Tugas-1:** Ringkasan",
+          "[PT: 2×(3×60\")]",
+          "[KM: 2×(3×60\")]"
+        ],
+        "materi": [
+          "Pengantar",
+          "[1] Bab 1"
+        ],
+        "bobot": "5%"
+      },
+      {
+        "minggu": "3–4",
+        "sub_cpmk": "Sub-CPMK2",
+        "indikator": [
+          "2.1 Ketepatan identifikasi"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik deskriptif",
+          "**Non-tes:** Diskusi",
+          "**Tes:** Kuis"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah",
+          "**Metode:** Diskusi",
+          "[PB: 2×(3×50\")]"
+        ],
+        "penugasan": [
+          "Belajar Mandiri",
+          "[PT: 2×(3×60\")]",
+          "[KM: 2×(3×60\")]"
+        ],
+        "materi": [
+          "Dasar Teori",
+          "[1] Bab 2"
+        ],
+        "bobot": "5%"
+      },
+      {
+        "minggu": "5–6",
+        "sub_cpmk": "Sub-CPMK3",
+        "indikator": [
+          "3.1 Ketepatan analisis"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik analisis",
+          "**Non-tes:** Makalah",
+          "**Tes:** Kuis"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah",
+          "**Metode:** Case Study",
+          "[PB: 2×(3×50\")]"
+        ],
+        "penugasan": [
+          "**Tugas-2:** Studi Kasus",
+          "[PT: 2×(3×60\")]",
+          "[KM: 2×(3×60\")]"
+        ],
+        "materi": [
+          "Analisis Kasus",
+          "[1] Bab 3"
+        ],
+        "bobot": "10%"
+      },
+      {
+        "minggu": "7",
+        "sub_cpmk": "Sub-CPMK4",
+        "indikator": [
+          "4.1 Ketepatan penyimpulan"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik presentasi",
+          "**Non-tes:** Presentasi",
+          "**Tes:** Kuis"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah",
+          "**Metode:** Seminar",
+          "[PB: 1×(3×50\")]"
+        ],
+        "penugasan": [
+          "Belajar Mandiri",
+          "[PT: 1×(3×60\")]",
+          "[KM: 1×(3×60\")]"
+        ],
+        "materi": [
+          "Kesimpulan",
+          "[1] Bab 4"
+        ],
+        "bobot": "10%"
+      },
+      {
+        "minggu": "8",
+        "sub_cpmk": "Evaluasi Tengah Semester (UTS)",
+        "indikator": [
+          "Evaluasi penguasaan materi minggu 1 s.d. 7"
+        ],
+        "kriteria": [
+          "Kriteria: Rubrik Ujian Tertulis / Praktik"
+        ],
+        "metode": [
+          "Ujian Tengah Semester Terjadwal"
+        ],
+        "penugasan": [
+          "Mengerjakan lembar soal UTS"
+        ],
+        "materi": [
+          "**Evaluasi Tengah Semester / Ujian Tengah Semester** – Ujian tulis untuk Sub-CPMK1–Sub-CPMK4  [PB: 1×(3×50\")]"
+        ],
+        "bobot": "20%"
+      },
+      {
+        "minggu": "9–10",
+        "sub_cpmk": "Sub-CPMK5",
+        "indikator": [
+          "5.1 Ketepatan perancangan"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik perancangan",
+          "**Non-tes:** Desain",
+          "**Tes:** -"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah",
+          "**Metode:** Project",
+          "[PB: 2×(3×50\")]"
+        ],
+        "penugasan": [
+          "**Tugas-3:** Draft Proyek",
+          "[PT: 2×(3×60\")]",
+          "[KM: 2×(3×60\")]"
+        ],
+        "materi": [
+          "Perancangan",
+          "[1] Bab 5"
+        ],
+        "bobot": "10%"
+      },
+      {
+        "minggu": "11–12",
+        "sub_cpmk": "Sub-CPMK6",
+        "indikator": [
+          "6.1 Ketepatan pengembangan"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik produk",
+          "**Non-tes:** Prototipe",
+          "**Tes:** -"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah",
+          "**Metode:** Project",
+          "[PB: 2×(3×50\")]"
+        ],
+        "penugasan": [
+          "Belajar Mandiri",
+          "[PT: 2×(3×60\")]",
+          "[KM: 2×(3×60\")]"
+        ],
+        "materi": [
+          "Pengembangan",
+          "[1] Bab 6"
+        ],
+        "bobot": "10%"
+      },
+      {
+        "minggu": "13–14",
+        "sub_cpmk": "Sub-CPMK7",
+        "indikator": [
+          "7.1 Ketepatan evaluasi"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik evaluasi",
+          "**Non-tes:** Laporan",
+          "**Tes:** -"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah",
+          "**Metode:** Project",
+          "[PB: 2×(3×50\")]"
+        ],
+        "penugasan": [
+          "Belajar Mandiri",
+          "[PT: 2×(3×60\")]",
+          "[KM: 2×(3×60\")]"
+        ],
+        "materi": [
+          "Evaluasi",
+          "[1] Bab 7"
+        ],
+        "bobot": "5%"
+      },
+      {
+        "minggu": "15",
+        "sub_cpmk": "Sub-CPMK8",
+        "indikator": [
+          "8.1 Ketepatan presentasi"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik presentasi",
+          "**Non-tes:** Demo",
+          "**Tes:** -"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah",
+          "**Metode:** Seminar",
+          "[PB: 1×(3×50\")]"
+        ],
+        "penugasan": [
+          "Belajar Mandiri",
+          "[PT: 1×(3×60\")]",
+          "[KM: 1×(3×60\")]"
+        ],
+        "materi": [
+          "Presentasi",
+          "[1] Bab 8"
+        ],
+        "bobot": "5%"
+      },
+      {
+        "minggu": "16",
+        "sub_cpmk": "Evaluasi Akhir Semester (UAS)",
+        "indikator": [
+          "Evaluasi pencapaian kompetensi akhir seluruh materi"
+        ],
+        "kriteria": [
+          "Kriteria: Rubrik Proyek Akhir / Portofolio / Ujian Akhir"
+        ],
+        "metode": [
+          "Ujian Akhir Semester / Presentasi Proyek"
+        ],
+        "penugasan": [
+          "Laporan Akhir & Demonstrasi"
+        ],
+        "materi": [
+          "**Evaluasi Akhir Semester / Ujian Akhir Semester** – Presentasi Proyek  [PB: 1×(3×50\")] - *Pengumpulan Laporan"
+        ],
+        "bobot": "20%"
+      }
+    ],
+    "file_docx": "Output_RPS_Sem7/IF7602-Interaksi Manusia dan Komputer/RPS-IF7602-Interaksi Manusia dan Komputer.docx",
+    "file_size": "43 KB"
+  },
+  {
+    "kode": "IF7603",
+    "nama": "Sistem Informasi Bisnis",
+    "semester": 7,
+    "semester_label": "Semester 7 (Gasal)",
+    "sks_teori": 3,
+    "sks_praktik": 0,
+    "sks_total": 3,
+    "rumpun": "(MK Kompetensi Utama)",
+    "tanggal": "30 September 2026",
+    "pengembang": "Andy Haryoko, M.T",
+    "koordinator": "Andy Haryoko, M.T",
+    "kaprodi": "Amaludin Arifia, S.Kom., M.Kom.",
+    "syarat": "Tidak ada",
+    "deskripsi": "Mata kuliah ini membahas berbagai topik terkait Sistem Informasi Bisnis.",
+    "cpl": [
+      {
+        "kode": "CPL05",
+        "deskripsi": "Menguasai konsep teoritis dalam bidang Informatika/Ilmu Komputer untuk mendesain dan menyimulasikan aplikasi teknologi multi-platform yang sesuai dengan kebutuhan industri dan masyarakat. (P)"
+      },
+      {
+        "kode": "CPL08",
+        "deskripsi": "Memiliki kemampuan untuk mengimplementasikan kebutuhan computing dengan menggunakan berbagai metode/algoritma yang sesuai dengan kebutuhan pengguna. (KK)"
+      }
+    ],
+    "cpmk": [
+      {
+        "kode": "CPMK051",
+        "deskripsi": "Mampu **menjelaskan** dan merangkum konsep utama mata kuliah [C2]. — Kontribusi 50% terhadap CPL05"
+      },
+      {
+        "kode": "CPMK081",
+        "deskripsi": "Mampu **menerapkan** dan menyelesaikan studi kasus terkait mata kuliah ini [C3]. — Kontribusi 50% terhadap CPL08"
+      }
+    ],
+    "sub_cpmk": [
+      {
+        "kode": "Sub-CPMK1",
+        "deskripsi": "Mahasiswa mampu **menjelaskan** ruang lingkup Sistem Informasi Bisnis [C2, A2] (CPMK051)"
+      },
+      {
+        "kode": "Sub-CPMK2",
+        "deskripsi": "Mahasiswa mampu **mengidentifikasi** masalah dan teori dasar Sistem Informasi Bisnis [C2, A2] (CPMK051)"
+      },
+      {
+        "kode": "Sub-CPMK3",
+        "deskripsi": "Mahasiswa mampu **menganalisis** studi kasus awal [C4, A3] (CPMK081)"
+      },
+      {
+        "kode": "Sub-CPMK4",
+        "deskripsi": "Mahasiswa mampu **menyimpulkan** solusi dari kasus [C5, A3] (CPMK081)"
+      },
+      {
+        "kode": "Sub-CPMK5",
+        "deskripsi": "Mahasiswa mampu **merancang** pendekatan lanjutan Sistem Informasi Bisnis [C6, P2] (CPMK081)"
+      },
+      {
+        "kode": "Sub-CPMK6",
+        "deskripsi": "Mahasiswa mampu **mengembangkan** purwarupa/konsep Sistem Informasi Bisnis [C6, P3] (CPMK081)"
+      },
+      {
+        "kode": "Sub-CPMK7",
+        "deskripsi": "Mahasiswa mampu **mengevaluasi** hasil implementasi [C5, P4] (CPMK081)"
+      },
+      {
+        "kode": "Sub-CPMK8",
+        "deskripsi": "Mahasiswa mampu **mempresentasikan** proyek akhir Sistem Informasi Bisnis [C6, P4] (CPMK081)"
+      }
+    ],
+    "bahan_kajian": [
+      "Bahan kajian APTIKOM 2024: **BK01**.",
+      "1. **Konsep:** Pengantar (Sub-CPMK1)",
+      "2. **Identifikasi:** Dasar (Sub-CPMK2)",
+      "3. **Analisis:** Lanjutan (Sub-CPMK3)",
+      "4. **Kesimpulan:** Lanjutan (Sub-CPMK4)",
+      "5. **Rancangan:** Praktik (Sub-CPMK5)",
+      "6. **Pengembangan:** Praktik (Sub-CPMK6)",
+      "7. **Evaluasi:** Evaluasi (Sub-CPMK7)",
+      "8. **Presentasi:** Final (Sub-CPMK8)"
+    ],
+    "pustaka_utama": [
+      "[1] Penulis Standar. (2026). *Buku Ajar Sistem Informasi Bisnis*. Kota: Penerbit."
+    ],
+    "pustaka_pendukung": [
+      "[2] Referensi Jurnal terkait Sistem Informasi Bisnis."
+    ],
+    "penilaian": {
+      "mekanisme": [
+        "pada pertemuan pertama dijelaskan kontrak kuliah;",
+        "komposisi nilai akhir: UTS 20%, UAS 20%, Tugas 40%, Partisipasi 20%;",
+        "nilai diunggah ke SIA UNIROW."
+      ],
+      "teknik": "teknik tes (Ujian Tulis) dan teknik non-tes (Tugas/Proyek).",
+      "sifat": "edukatif, otentik, objektif, akuntabel, dan transparan."
+    },
+    "p1_asesmen": {
+      "title": "Tabel P1. Rencana asesmen dan bobot penilaian per Sub-CPMK (%)",
+      "rows": [
+        [
+          "Sub-CPMK",
+          "CPL",
+          "Tugas",
+          "Kuis",
+          "UTS",
+          "UAS",
+          "Total"
+        ],
+        [
+          "Sub-CPMK1",
+          "CPL05",
+          "2",
+          "3",
+          "",
+          "",
+          "5"
+        ],
+        [
+          "Sub-CPMK2",
+          "CPL05",
+          "2",
+          "3",
+          "",
+          "",
+          "5"
+        ],
+        [
+          "Sub-CPMK3",
+          "CPL08",
+          "5",
+          "5",
+          "",
+          "",
+          "10"
+        ],
+        [
+          "Sub-CPMK4",
+          "CPL08",
+          "5",
+          "5",
+          "",
+          "",
+          "10"
+        ],
+        [
+          "Sub-CPMK5",
+          "CPL08",
+          "10",
+          "",
+          "",
+          "",
+          "10"
+        ],
+        [
+          "Sub-CPMK6",
+          "CPL08",
+          "10",
+          "",
+          "",
+          "",
+          "10"
+        ],
+        [
+          "Sub-CPMK7",
+          "CPL08",
+          "5",
+          "",
+          "",
+          "",
+          "5"
+        ],
+        [
+          "Sub-CPMK8",
+          "CPL08",
+          "5",
+          "",
+          "",
+          "",
+          "5"
+        ],
+        [
+          "**UTS**",
+          "",
+          "",
+          "",
+          "**20**",
+          "",
+          "**20**"
+        ],
+        [
+          "**UAS**",
+          "",
+          "",
+          "",
+          "",
+          "**20**",
+          "**20**"
+        ],
+        [
+          "**Total**",
+          "",
+          "**44**",
+          "**16**",
+          "**20**",
+          "**20**",
+          "**100**"
+        ]
+      ],
+      "widths": [
+        1560,
+        900,
+        1140,
+        960,
+        960,
+        960,
+        960
+      ],
+      "note": "Nilai Akhir MK = Σ (nilai komponen × bobot komponen) / 100."
+    },
+    "tugas": {
+      "intro": "Tugas terstruktur terdiri atas:",
+      "rows": [
+        [
+          "Tugas",
+          "Sub-CPMK, Jenis, Waktu",
+          "Deskripsi Pengerjaan dan Luaran",
+          "Indikator Penilaian",
+          "Bobot"
+        ],
+        [
+          "**Tugas-1**: Ringkasan",
+          [
+            "Sub-CPMK1",
+            "Individu",
+            "Mg 1-2"
+          ],
+          [
+            "Membuat ringkasan materi",
+            "Luaran: Dokumen"
+          ],
+          [
+            "Ketepatan teori"
+          ],
+          "5%"
+        ]
+      ]
+    },
+    "mingguan": [
+      {
+        "minggu": "1–2",
+        "sub_cpmk": "Sub-CPMK1",
+        "indikator": [
+          "1.1 Ketepatan pemahaman"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik deskriptif",
+          "**Non-tes:** Tanya Jawab",
+          "**Tes:** Kuis"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah",
+          "**Metode:** Ceramah",
+          "[PB: 2×(3×50\")]"
+        ],
+        "penugasan": [
+          "**Tugas-1:** Ringkasan",
+          "[PT: 2×(3×60\")]",
+          "[KM: 2×(3×60\")]"
+        ],
+        "materi": [
+          "Pengantar",
+          "[1] Bab 1"
+        ],
+        "bobot": "5%"
+      },
+      {
+        "minggu": "3–4",
+        "sub_cpmk": "Sub-CPMK2",
+        "indikator": [
+          "2.1 Ketepatan identifikasi"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik deskriptif",
+          "**Non-tes:** Diskusi",
+          "**Tes:** Kuis"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah",
+          "**Metode:** Diskusi",
+          "[PB: 2×(3×50\")]"
+        ],
+        "penugasan": [
+          "Belajar Mandiri",
+          "[PT: 2×(3×60\")]",
+          "[KM: 2×(3×60\")]"
+        ],
+        "materi": [
+          "Dasar Teori",
+          "[1] Bab 2"
+        ],
+        "bobot": "5%"
+      },
+      {
+        "minggu": "5–6",
+        "sub_cpmk": "Sub-CPMK3",
+        "indikator": [
+          "3.1 Ketepatan analisis"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik analisis",
+          "**Non-tes:** Makalah",
+          "**Tes:** Kuis"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah",
+          "**Metode:** Case Study",
+          "[PB: 2×(3×50\")]"
+        ],
+        "penugasan": [
+          "**Tugas-2:** Studi Kasus",
+          "[PT: 2×(3×60\")]",
+          "[KM: 2×(3×60\")]"
+        ],
+        "materi": [
+          "Analisis Kasus",
+          "[1] Bab 3"
+        ],
+        "bobot": "10%"
+      },
+      {
+        "minggu": "7",
+        "sub_cpmk": "Sub-CPMK4",
+        "indikator": [
+          "4.1 Ketepatan penyimpulan"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik presentasi",
+          "**Non-tes:** Presentasi",
+          "**Tes:** Kuis"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah",
+          "**Metode:** Seminar",
+          "[PB: 1×(3×50\")]"
+        ],
+        "penugasan": [
+          "Belajar Mandiri",
+          "[PT: 1×(3×60\")]",
+          "[KM: 1×(3×60\")]"
+        ],
+        "materi": [
+          "Kesimpulan",
+          "[1] Bab 4"
+        ],
+        "bobot": "10%"
+      },
+      {
+        "minggu": "8",
+        "sub_cpmk": "Evaluasi Tengah Semester (UTS)",
+        "indikator": [
+          "Evaluasi penguasaan materi minggu 1 s.d. 7"
+        ],
+        "kriteria": [
+          "Kriteria: Rubrik Ujian Tertulis / Praktik"
+        ],
+        "metode": [
+          "Ujian Tengah Semester Terjadwal"
+        ],
+        "penugasan": [
+          "Mengerjakan lembar soal UTS"
+        ],
+        "materi": [
+          "**Evaluasi Tengah Semester / Ujian Tengah Semester** – Ujian tulis untuk Sub-CPMK1–Sub-CPMK4  [PB: 1×(3×50\")]"
+        ],
+        "bobot": "20%"
+      },
+      {
+        "minggu": "9–10",
+        "sub_cpmk": "Sub-CPMK5",
+        "indikator": [
+          "5.1 Ketepatan perancangan"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik perancangan",
+          "**Non-tes:** Desain",
+          "**Tes:** -"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah",
+          "**Metode:** Project",
+          "[PB: 2×(3×50\")]"
+        ],
+        "penugasan": [
+          "**Tugas-3:** Draft Proyek",
+          "[PT: 2×(3×60\")]",
+          "[KM: 2×(3×60\")]"
+        ],
+        "materi": [
+          "Perancangan",
+          "[1] Bab 5"
+        ],
+        "bobot": "10%"
+      },
+      {
+        "minggu": "11–12",
+        "sub_cpmk": "Sub-CPMK6",
+        "indikator": [
+          "6.1 Ketepatan pengembangan"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik produk",
+          "**Non-tes:** Prototipe",
+          "**Tes:** -"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah",
+          "**Metode:** Project",
+          "[PB: 2×(3×50\")]"
+        ],
+        "penugasan": [
+          "Belajar Mandiri",
+          "[PT: 2×(3×60\")]",
+          "[KM: 2×(3×60\")]"
+        ],
+        "materi": [
+          "Pengembangan",
+          "[1] Bab 6"
+        ],
+        "bobot": "10%"
+      },
+      {
+        "minggu": "13–14",
+        "sub_cpmk": "Sub-CPMK7",
+        "indikator": [
+          "7.1 Ketepatan evaluasi"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik evaluasi",
+          "**Non-tes:** Laporan",
+          "**Tes:** -"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah",
+          "**Metode:** Project",
+          "[PB: 2×(3×50\")]"
+        ],
+        "penugasan": [
+          "Belajar Mandiri",
+          "[PT: 2×(3×60\")]",
+          "[KM: 2×(3×60\")]"
+        ],
+        "materi": [
+          "Evaluasi",
+          "[1] Bab 7"
+        ],
+        "bobot": "5%"
+      },
+      {
+        "minggu": "15",
+        "sub_cpmk": "Sub-CPMK8",
+        "indikator": [
+          "8.1 Ketepatan presentasi"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik presentasi",
+          "**Non-tes:** Demo",
+          "**Tes:** -"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah",
+          "**Metode:** Seminar",
+          "[PB: 1×(3×50\")]"
+        ],
+        "penugasan": [
+          "Belajar Mandiri",
+          "[PT: 1×(3×60\")]",
+          "[KM: 1×(3×60\")]"
+        ],
+        "materi": [
+          "Presentasi",
+          "[1] Bab 8"
+        ],
+        "bobot": "5%"
+      },
+      {
+        "minggu": "16",
+        "sub_cpmk": "Evaluasi Akhir Semester (UAS)",
+        "indikator": [
+          "Evaluasi pencapaian kompetensi akhir seluruh materi"
+        ],
+        "kriteria": [
+          "Kriteria: Rubrik Proyek Akhir / Portofolio / Ujian Akhir"
+        ],
+        "metode": [
+          "Ujian Akhir Semester / Presentasi Proyek"
+        ],
+        "penugasan": [
+          "Laporan Akhir & Demonstrasi"
+        ],
+        "materi": [
+          "**Evaluasi Akhir Semester / Ujian Akhir Semester** – Presentasi Proyek  [PB: 1×(3×50\")] - *Pengumpulan Laporan"
+        ],
+        "bobot": "20%"
+      }
+    ],
+    "file_docx": "Output_RPS_Sem7/IF7603-Sistem Informasi Bisnis/RPS-IF7603-Sistem Informasi Bisnis.docx",
+    "file_size": "43 KB"
+  },
+  {
+    "kode": "IF7604",
+    "nama": "Etika Profesi",
+    "semester": 7,
+    "semester_label": "Semester 7 (Gasal)",
+    "sks_teori": 2,
+    "sks_praktik": 0,
+    "sks_total": 2,
+    "rumpun": "(MK Kompetensi Utama)",
+    "tanggal": "30 September 2026",
+    "pengembang": "Miftahul Ulum, M.Kom",
+    "koordinator": "Miftahul Ulum, M.Kom",
+    "kaprodi": "Amaludin Arifia, S.Kom., M.Kom.",
+    "syarat": "Tidak ada",
+    "deskripsi": "Mata kuliah ini membahas berbagai topik terkait Etika Profesi.",
+    "cpl": [
+      {
+        "kode": "CPL05",
+        "deskripsi": "Menguasai konsep teoritis dalam bidang Informatika/Ilmu Komputer untuk mendesain dan menyimulasikan aplikasi teknologi multi-platform yang sesuai dengan kebutuhan industri dan masyarakat. (P)"
+      },
+      {
+        "kode": "CPL08",
+        "deskripsi": "Memiliki kemampuan untuk mengimplementasikan kebutuhan computing dengan menggunakan berbagai metode/algoritma yang sesuai dengan kebutuhan pengguna. (KK)"
+      }
+    ],
+    "cpmk": [
+      {
+        "kode": "CPMK051",
+        "deskripsi": "Mampu **menjelaskan** dan merangkum konsep utama mata kuliah [C2]. — Kontribusi 50% terhadap CPL05"
+      },
+      {
+        "kode": "CPMK081",
+        "deskripsi": "Mampu **menerapkan** dan menyelesaikan studi kasus terkait mata kuliah ini [C3]. — Kontribusi 50% terhadap CPL08"
+      }
+    ],
+    "sub_cpmk": [
+      {
+        "kode": "Sub-CPMK1",
+        "deskripsi": "Mahasiswa mampu **menjelaskan** ruang lingkup Etika Profesi [C2, A2] (CPMK051)"
+      },
+      {
+        "kode": "Sub-CPMK2",
+        "deskripsi": "Mahasiswa mampu **mengidentifikasi** masalah dan teori dasar Etika Profesi [C2, A2] (CPMK051)"
+      },
+      {
+        "kode": "Sub-CPMK3",
+        "deskripsi": "Mahasiswa mampu **menganalisis** studi kasus awal [C4, A3] (CPMK081)"
+      },
+      {
+        "kode": "Sub-CPMK4",
+        "deskripsi": "Mahasiswa mampu **menyimpulkan** solusi dari kasus [C5, A3] (CPMK081)"
+      },
+      {
+        "kode": "Sub-CPMK5",
+        "deskripsi": "Mahasiswa mampu **merancang** pendekatan lanjutan Etika Profesi [C6, P2] (CPMK081)"
+      },
+      {
+        "kode": "Sub-CPMK6",
+        "deskripsi": "Mahasiswa mampu **mengembangkan** purwarupa/konsep Etika Profesi [C6, P3] (CPMK081)"
+      },
+      {
+        "kode": "Sub-CPMK7",
+        "deskripsi": "Mahasiswa mampu **mengevaluasi** hasil implementasi [C5, P4] (CPMK081)"
+      },
+      {
+        "kode": "Sub-CPMK8",
+        "deskripsi": "Mahasiswa mampu **mempresentasikan** proyek akhir Etika Profesi [C6, P4] (CPMK081)"
+      }
+    ],
+    "bahan_kajian": [
+      "Bahan kajian APTIKOM 2024: **BK01**.",
+      "1. **Konsep:** Pengantar (Sub-CPMK1)",
+      "2. **Identifikasi:** Dasar (Sub-CPMK2)",
+      "3. **Analisis:** Lanjutan (Sub-CPMK3)",
+      "4. **Kesimpulan:** Lanjutan (Sub-CPMK4)",
+      "5. **Rancangan:** Praktik (Sub-CPMK5)",
+      "6. **Pengembangan:** Praktik (Sub-CPMK6)",
+      "7. **Evaluasi:** Evaluasi (Sub-CPMK7)",
+      "8. **Presentasi:** Final (Sub-CPMK8)"
+    ],
+    "pustaka_utama": [
+      "[1] Penulis Standar. (2026). *Buku Ajar Etika Profesi*. Kota: Penerbit."
+    ],
+    "pustaka_pendukung": [
+      "[2] Referensi Jurnal terkait Etika Profesi."
+    ],
+    "penilaian": {
+      "mekanisme": [
+        "pada pertemuan pertama dijelaskan kontrak kuliah;",
+        "komposisi nilai akhir: UTS 20%, UAS 20%, Tugas 40%, Partisipasi 20%;",
+        "nilai diunggah ke SIA UNIROW."
+      ],
+      "teknik": "teknik tes (Ujian Tulis) dan teknik non-tes (Tugas/Proyek).",
+      "sifat": "edukatif, otentik, objektif, akuntabel, dan transparan."
+    },
+    "p1_asesmen": {
+      "title": "Tabel P1. Rencana asesmen dan bobot penilaian per Sub-CPMK (%)",
+      "rows": [
+        [
+          "Sub-CPMK",
+          "CPL",
+          "Tugas",
+          "Kuis",
+          "UTS",
+          "UAS",
+          "Total"
+        ],
+        [
+          "Sub-CPMK1",
+          "CPL05",
+          "2",
+          "3",
+          "",
+          "",
+          "5"
+        ],
+        [
+          "Sub-CPMK2",
+          "CPL05",
+          "2",
+          "3",
+          "",
+          "",
+          "5"
+        ],
+        [
+          "Sub-CPMK3",
+          "CPL08",
+          "5",
+          "5",
+          "",
+          "",
+          "10"
+        ],
+        [
+          "Sub-CPMK4",
+          "CPL08",
+          "5",
+          "5",
+          "",
+          "",
+          "10"
+        ],
+        [
+          "Sub-CPMK5",
+          "CPL08",
+          "10",
+          "",
+          "",
+          "",
+          "10"
+        ],
+        [
+          "Sub-CPMK6",
+          "CPL08",
+          "10",
+          "",
+          "",
+          "",
+          "10"
+        ],
+        [
+          "Sub-CPMK7",
+          "CPL08",
+          "5",
+          "",
+          "",
+          "",
+          "5"
+        ],
+        [
+          "Sub-CPMK8",
+          "CPL08",
+          "5",
+          "",
+          "",
+          "",
+          "5"
+        ],
+        [
+          "**UTS**",
+          "",
+          "",
+          "",
+          "**20**",
+          "",
+          "**20**"
+        ],
+        [
+          "**UAS**",
+          "",
+          "",
+          "",
+          "",
+          "**20**",
+          "**20**"
+        ],
+        [
+          "**Total**",
+          "",
+          "**44**",
+          "**16**",
+          "**20**",
+          "**20**",
+          "**100**"
+        ]
+      ],
+      "widths": [
+        1560,
+        900,
+        1140,
+        960,
+        960,
+        960,
+        960
+      ],
+      "note": "Nilai Akhir MK = Σ (nilai komponen × bobot komponen) / 100."
+    },
+    "tugas": {
+      "intro": "Tugas terstruktur terdiri atas:",
+      "rows": [
+        [
+          "Tugas",
+          "Sub-CPMK, Jenis, Waktu",
+          "Deskripsi Pengerjaan dan Luaran",
+          "Indikator Penilaian",
+          "Bobot"
+        ],
+        [
+          "**Tugas-1**: Ringkasan",
+          [
+            "Sub-CPMK1",
+            "Individu",
+            "Mg 1-2"
+          ],
+          [
+            "Membuat ringkasan materi",
+            "Luaran: Dokumen"
+          ],
+          [
+            "Ketepatan teori"
+          ],
+          "5%"
+        ]
+      ]
+    },
+    "mingguan": [
+      {
+        "minggu": "1–2",
+        "sub_cpmk": "Sub-CPMK1",
+        "indikator": [
+          "1.1 Ketepatan pemahaman"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik deskriptif",
+          "**Non-tes:** Tanya Jawab",
+          "**Tes:** Kuis"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah",
+          "**Metode:** Ceramah",
+          "[PB: 2×(2×50\")]"
+        ],
+        "penugasan": [
+          "**Tugas-1:** Ringkasan",
+          "[PT: 2×(2×60\")]",
+          "[KM: 2×(2×60\")]"
+        ],
+        "materi": [
+          "Pengantar",
+          "[1] Bab 1"
+        ],
+        "bobot": "5%"
+      },
+      {
+        "minggu": "3–4",
+        "sub_cpmk": "Sub-CPMK2",
+        "indikator": [
+          "2.1 Ketepatan identifikasi"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik deskriptif",
+          "**Non-tes:** Diskusi",
+          "**Tes:** Kuis"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah",
+          "**Metode:** Diskusi",
+          "[PB: 2×(2×50\")]"
+        ],
+        "penugasan": [
+          "Belajar Mandiri",
+          "[PT: 2×(2×60\")]",
+          "[KM: 2×(2×60\")]"
+        ],
+        "materi": [
+          "Dasar Teori",
+          "[1] Bab 2"
+        ],
+        "bobot": "5%"
+      },
+      {
+        "minggu": "5–6",
+        "sub_cpmk": "Sub-CPMK3",
+        "indikator": [
+          "3.1 Ketepatan analisis"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik analisis",
+          "**Non-tes:** Makalah",
+          "**Tes:** Kuis"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah",
+          "**Metode:** Case Study",
+          "[PB: 2×(2×50\")]"
+        ],
+        "penugasan": [
+          "**Tugas-2:** Studi Kasus",
+          "[PT: 2×(2×60\")]",
+          "[KM: 2×(2×60\")]"
+        ],
+        "materi": [
+          "Analisis Kasus",
+          "[1] Bab 3"
+        ],
+        "bobot": "10%"
+      },
+      {
+        "minggu": "7",
+        "sub_cpmk": "Sub-CPMK4",
+        "indikator": [
+          "4.1 Ketepatan penyimpulan"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik presentasi",
+          "**Non-tes:** Presentasi",
+          "**Tes:** Kuis"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah",
+          "**Metode:** Seminar",
+          "[PB: 1×(2×50\")]"
+        ],
+        "penugasan": [
+          "Belajar Mandiri",
+          "[PT: 1×(2×60\")]",
+          "[KM: 1×(2×60\")]"
+        ],
+        "materi": [
+          "Kesimpulan",
+          "[1] Bab 4"
+        ],
+        "bobot": "10%"
+      },
+      {
+        "minggu": "8",
+        "sub_cpmk": "Evaluasi Tengah Semester (UTS)",
+        "indikator": [
+          "Evaluasi penguasaan materi minggu 1 s.d. 7"
+        ],
+        "kriteria": [
+          "Kriteria: Rubrik Ujian Tertulis / Praktik"
+        ],
+        "metode": [
+          "Ujian Tengah Semester Terjadwal"
+        ],
+        "penugasan": [
+          "Mengerjakan lembar soal UTS"
+        ],
+        "materi": [
+          "**Evaluasi Tengah Semester / Ujian Tengah Semester** – Ujian tulis untuk Sub-CPMK1–Sub-CPMK4  [PB: 1×(2×50\")]"
+        ],
+        "bobot": "20%"
+      },
+      {
+        "minggu": "9–10",
+        "sub_cpmk": "Sub-CPMK5",
+        "indikator": [
+          "5.1 Ketepatan perancangan"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik perancangan",
+          "**Non-tes:** Desain",
+          "**Tes:** -"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah",
+          "**Metode:** Project",
+          "[PB: 2×(2×50\")]"
+        ],
+        "penugasan": [
+          "**Tugas-3:** Draft Proyek",
+          "[PT: 2×(2×60\")]",
+          "[KM: 2×(2×60\")]"
+        ],
+        "materi": [
+          "Perancangan",
+          "[1] Bab 5"
+        ],
+        "bobot": "10%"
+      },
+      {
+        "minggu": "11–12",
+        "sub_cpmk": "Sub-CPMK6",
+        "indikator": [
+          "6.1 Ketepatan pengembangan"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik produk",
+          "**Non-tes:** Prototipe",
+          "**Tes:** -"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah",
+          "**Metode:** Project",
+          "[PB: 2×(2×50\")]"
+        ],
+        "penugasan": [
+          "Belajar Mandiri",
+          "[PT: 2×(2×60\")]",
+          "[KM: 2×(2×60\")]"
+        ],
+        "materi": [
+          "Pengembangan",
+          "[1] Bab 6"
+        ],
+        "bobot": "10%"
+      },
+      {
+        "minggu": "13–14",
+        "sub_cpmk": "Sub-CPMK7",
+        "indikator": [
+          "7.1 Ketepatan evaluasi"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik evaluasi",
+          "**Non-tes:** Laporan",
+          "**Tes:** -"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah",
+          "**Metode:** Project",
+          "[PB: 2×(2×50\")]"
+        ],
+        "penugasan": [
+          "Belajar Mandiri",
+          "[PT: 2×(2×60\")]",
+          "[KM: 2×(2×60\")]"
+        ],
+        "materi": [
+          "Evaluasi",
+          "[1] Bab 7"
+        ],
+        "bobot": "5%"
+      },
+      {
+        "minggu": "15",
+        "sub_cpmk": "Sub-CPMK8",
+        "indikator": [
+          "8.1 Ketepatan presentasi"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik presentasi",
+          "**Non-tes:** Demo",
+          "**Tes:** -"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah",
+          "**Metode:** Seminar",
+          "[PB: 1×(2×50\")]"
+        ],
+        "penugasan": [
+          "Belajar Mandiri",
+          "[PT: 1×(2×60\")]",
+          "[KM: 1×(2×60\")]"
+        ],
+        "materi": [
+          "Presentasi",
+          "[1] Bab 8"
+        ],
+        "bobot": "5%"
+      },
+      {
+        "minggu": "16",
+        "sub_cpmk": "Evaluasi Akhir Semester (UAS)",
+        "indikator": [
+          "Evaluasi pencapaian kompetensi akhir seluruh materi"
+        ],
+        "kriteria": [
+          "Kriteria: Rubrik Proyek Akhir / Portofolio / Ujian Akhir"
+        ],
+        "metode": [
+          "Ujian Akhir Semester / Presentasi Proyek"
+        ],
+        "penugasan": [
+          "Laporan Akhir & Demonstrasi"
+        ],
+        "materi": [
+          "**Evaluasi Akhir Semester / Ujian Akhir Semester** – Presentasi Proyek  [PB: 1×(2×50\")] - *Pengumpulan Laporan"
+        ],
+        "bobot": "20%"
+      }
+    ],
+    "file_docx": "Output_RPS_Sem7/IF7604-Etika Profesi/RPS-IF7604-Etika Profesi.docx",
+    "file_size": "43 KB"
+  },
+  {
+    "kode": "IF7605",
+    "nama": "Perancangan dan Pengembangan Produk",
+    "semester": 7,
+    "semester_label": "Semester 7 (Gasal)",
+    "sks_teori": 3,
+    "sks_praktik": 0,
+    "sks_total": 3,
+    "rumpun": "(MK Kompetensi Utama)",
+    "tanggal": "30 September 2026",
+    "pengembang": "Fitroh Amaluddin, M.T",
+    "koordinator": "Fitroh Amaluddin, M.T",
+    "kaprodi": "Amaludin Arifia, S.Kom., M.Kom.",
+    "syarat": "Tidak ada",
+    "deskripsi": "Mata kuliah ini membahas berbagai topik terkait Perancangan dan Pengembangan Produk.",
+    "cpl": [
+      {
+        "kode": "CPL05",
+        "deskripsi": "Menguasai konsep teoritis dalam bidang Informatika/Ilmu Komputer untuk mendesain dan menyimulasikan aplikasi teknologi multi-platform yang sesuai dengan kebutuhan industri dan masyarakat. (P)"
+      },
+      {
+        "kode": "CPL08",
+        "deskripsi": "Memiliki kemampuan untuk mengimplementasikan kebutuhan computing dengan menggunakan berbagai metode/algoritma yang sesuai dengan kebutuhan pengguna. (KK)"
+      }
+    ],
+    "cpmk": [
+      {
+        "kode": "CPMK051",
+        "deskripsi": "Mampu **menjelaskan** dan merangkum konsep utama mata kuliah [C2]. — Kontribusi 50% terhadap CPL05"
+      },
+      {
+        "kode": "CPMK081",
+        "deskripsi": "Mampu **menerapkan** dan menyelesaikan studi kasus terkait mata kuliah ini [C3]. — Kontribusi 50% terhadap CPL08"
+      }
+    ],
+    "sub_cpmk": [
+      {
+        "kode": "Sub-CPMK1",
+        "deskripsi": "Mahasiswa mampu **menjelaskan** ruang lingkup Perancangan dan Pengembangan Produk [C2, A2] (CPMK051)"
+      },
+      {
+        "kode": "Sub-CPMK2",
+        "deskripsi": "Mahasiswa mampu **mengidentifikasi** masalah dan teori dasar Perancangan dan Pengembangan Produk [C2, A2] (CPMK051)"
+      },
+      {
+        "kode": "Sub-CPMK3",
+        "deskripsi": "Mahasiswa mampu **menganalisis** studi kasus awal [C4, A3] (CPMK081)"
+      },
+      {
+        "kode": "Sub-CPMK4",
+        "deskripsi": "Mahasiswa mampu **menyimpulkan** solusi dari kasus [C5, A3] (CPMK081)"
+      },
+      {
+        "kode": "Sub-CPMK5",
+        "deskripsi": "Mahasiswa mampu **merancang** pendekatan lanjutan Perancangan dan Pengembangan Produk [C6, P2] (CPMK081)"
+      },
+      {
+        "kode": "Sub-CPMK6",
+        "deskripsi": "Mahasiswa mampu **mengembangkan** purwarupa/konsep Perancangan dan Pengembangan Produk [C6, P3] (CPMK081)"
+      },
+      {
+        "kode": "Sub-CPMK7",
+        "deskripsi": "Mahasiswa mampu **mengevaluasi** hasil implementasi [C5, P4] (CPMK081)"
+      },
+      {
+        "kode": "Sub-CPMK8",
+        "deskripsi": "Mahasiswa mampu **mempresentasikan** proyek akhir Perancangan dan Pengembangan Produk [C6, P4] (CPMK081)"
+      }
+    ],
+    "bahan_kajian": [
+      "Bahan kajian APTIKOM 2024: **BK01**.",
+      "1. **Konsep:** Pengantar (Sub-CPMK1)",
+      "2. **Identifikasi:** Dasar (Sub-CPMK2)",
+      "3. **Analisis:** Lanjutan (Sub-CPMK3)",
+      "4. **Kesimpulan:** Lanjutan (Sub-CPMK4)",
+      "5. **Rancangan:** Praktik (Sub-CPMK5)",
+      "6. **Pengembangan:** Praktik (Sub-CPMK6)",
+      "7. **Evaluasi:** Evaluasi (Sub-CPMK7)",
+      "8. **Presentasi:** Final (Sub-CPMK8)"
+    ],
+    "pustaka_utama": [
+      "[1] Penulis Standar. (2026). *Buku Ajar Perancangan dan Pengembangan Produk*. Kota: Penerbit."
+    ],
+    "pustaka_pendukung": [
+      "[2] Referensi Jurnal terkait Perancangan dan Pengembangan Produk."
+    ],
+    "penilaian": {
+      "mekanisme": [
+        "pada pertemuan pertama dijelaskan kontrak kuliah;",
+        "komposisi nilai akhir: UTS 20%, UAS 20%, Tugas 40%, Partisipasi 20%;",
+        "nilai diunggah ke SIA UNIROW."
+      ],
+      "teknik": "teknik tes (Ujian Tulis) dan teknik non-tes (Tugas/Proyek).",
+      "sifat": "edukatif, otentik, objektif, akuntabel, dan transparan."
+    },
+    "p1_asesmen": {
+      "title": "Tabel P1. Rencana asesmen dan bobot penilaian per Sub-CPMK (%)",
+      "rows": [
+        [
+          "Sub-CPMK",
+          "CPL",
+          "Tugas",
+          "Kuis",
+          "UTS",
+          "UAS",
+          "Total"
+        ],
+        [
+          "Sub-CPMK1",
+          "CPL05",
+          "2",
+          "3",
+          "",
+          "",
+          "5"
+        ],
+        [
+          "Sub-CPMK2",
+          "CPL05",
+          "2",
+          "3",
+          "",
+          "",
+          "5"
+        ],
+        [
+          "Sub-CPMK3",
+          "CPL08",
+          "5",
+          "5",
+          "",
+          "",
+          "10"
+        ],
+        [
+          "Sub-CPMK4",
+          "CPL08",
+          "5",
+          "5",
+          "",
+          "",
+          "10"
+        ],
+        [
+          "Sub-CPMK5",
+          "CPL08",
+          "10",
+          "",
+          "",
+          "",
+          "10"
+        ],
+        [
+          "Sub-CPMK6",
+          "CPL08",
+          "10",
+          "",
+          "",
+          "",
+          "10"
+        ],
+        [
+          "Sub-CPMK7",
+          "CPL08",
+          "5",
+          "",
+          "",
+          "",
+          "5"
+        ],
+        [
+          "Sub-CPMK8",
+          "CPL08",
+          "5",
+          "",
+          "",
+          "",
+          "5"
+        ],
+        [
+          "**UTS**",
+          "",
+          "",
+          "",
+          "**20**",
+          "",
+          "**20**"
+        ],
+        [
+          "**UAS**",
+          "",
+          "",
+          "",
+          "",
+          "**20**",
+          "**20**"
+        ],
+        [
+          "**Total**",
+          "",
+          "**44**",
+          "**16**",
+          "**20**",
+          "**20**",
+          "**100**"
+        ]
+      ],
+      "widths": [
+        1560,
+        900,
+        1140,
+        960,
+        960,
+        960,
+        960
+      ],
+      "note": "Nilai Akhir MK = Σ (nilai komponen × bobot komponen) / 100."
+    },
+    "tugas": {
+      "intro": "Tugas terstruktur terdiri atas:",
+      "rows": [
+        [
+          "Tugas",
+          "Sub-CPMK, Jenis, Waktu",
+          "Deskripsi Pengerjaan dan Luaran",
+          "Indikator Penilaian",
+          "Bobot"
+        ],
+        [
+          "**Tugas-1**: Ringkasan",
+          [
+            "Sub-CPMK1",
+            "Individu",
+            "Mg 1-2"
+          ],
+          [
+            "Membuat ringkasan materi",
+            "Luaran: Dokumen"
+          ],
+          [
+            "Ketepatan teori"
+          ],
+          "5%"
+        ]
+      ]
+    },
+    "mingguan": [
+      {
+        "minggu": "1–2",
+        "sub_cpmk": "Sub-CPMK1",
+        "indikator": [
+          "1.1 Ketepatan pemahaman"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik deskriptif",
+          "**Non-tes:** Tanya Jawab",
+          "**Tes:** Kuis"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah",
+          "**Metode:** Ceramah",
+          "[PB: 2×(3×50\")]"
+        ],
+        "penugasan": [
+          "**Tugas-1:** Ringkasan",
+          "[PT: 2×(3×60\")]",
+          "[KM: 2×(3×60\")]"
+        ],
+        "materi": [
+          "Pengantar",
+          "[1] Bab 1"
+        ],
+        "bobot": "5%"
+      },
+      {
+        "minggu": "3–4",
+        "sub_cpmk": "Sub-CPMK2",
+        "indikator": [
+          "2.1 Ketepatan identifikasi"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik deskriptif",
+          "**Non-tes:** Diskusi",
+          "**Tes:** Kuis"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah",
+          "**Metode:** Diskusi",
+          "[PB: 2×(3×50\")]"
+        ],
+        "penugasan": [
+          "Belajar Mandiri",
+          "[PT: 2×(3×60\")]",
+          "[KM: 2×(3×60\")]"
+        ],
+        "materi": [
+          "Dasar Teori",
+          "[1] Bab 2"
+        ],
+        "bobot": "5%"
+      },
+      {
+        "minggu": "5–6",
+        "sub_cpmk": "Sub-CPMK3",
+        "indikator": [
+          "3.1 Ketepatan analisis"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik analisis",
+          "**Non-tes:** Makalah",
+          "**Tes:** Kuis"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah",
+          "**Metode:** Case Study",
+          "[PB: 2×(3×50\")]"
+        ],
+        "penugasan": [
+          "**Tugas-2:** Studi Kasus",
+          "[PT: 2×(3×60\")]",
+          "[KM: 2×(3×60\")]"
+        ],
+        "materi": [
+          "Analisis Kasus",
+          "[1] Bab 3"
+        ],
+        "bobot": "10%"
+      },
+      {
+        "minggu": "7",
+        "sub_cpmk": "Sub-CPMK4",
+        "indikator": [
+          "4.1 Ketepatan penyimpulan"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik presentasi",
+          "**Non-tes:** Presentasi",
+          "**Tes:** Kuis"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah",
+          "**Metode:** Seminar",
+          "[PB: 1×(3×50\")]"
+        ],
+        "penugasan": [
+          "Belajar Mandiri",
+          "[PT: 1×(3×60\")]",
+          "[KM: 1×(3×60\")]"
+        ],
+        "materi": [
+          "Kesimpulan",
+          "[1] Bab 4"
+        ],
+        "bobot": "10%"
+      },
+      {
+        "minggu": "8",
+        "sub_cpmk": "Evaluasi Tengah Semester (UTS)",
+        "indikator": [
+          "Evaluasi penguasaan materi minggu 1 s.d. 7"
+        ],
+        "kriteria": [
+          "Kriteria: Rubrik Ujian Tertulis / Praktik"
+        ],
+        "metode": [
+          "Ujian Tengah Semester Terjadwal"
+        ],
+        "penugasan": [
+          "Mengerjakan lembar soal UTS"
+        ],
+        "materi": [
+          "**Evaluasi Tengah Semester / Ujian Tengah Semester** – Ujian tulis untuk Sub-CPMK1–Sub-CPMK4  [PB: 1×(3×50\")]"
+        ],
+        "bobot": "20%"
+      },
+      {
+        "minggu": "9–10",
+        "sub_cpmk": "Sub-CPMK5",
+        "indikator": [
+          "5.1 Ketepatan perancangan"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik perancangan",
+          "**Non-tes:** Desain",
+          "**Tes:** -"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah",
+          "**Metode:** Project",
+          "[PB: 2×(3×50\")]"
+        ],
+        "penugasan": [
+          "**Tugas-3:** Draft Proyek",
+          "[PT: 2×(3×60\")]",
+          "[KM: 2×(3×60\")]"
+        ],
+        "materi": [
+          "Perancangan",
+          "[1] Bab 5"
+        ],
+        "bobot": "10%"
+      },
+      {
+        "minggu": "11–12",
+        "sub_cpmk": "Sub-CPMK6",
+        "indikator": [
+          "6.1 Ketepatan pengembangan"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik produk",
+          "**Non-tes:** Prototipe",
+          "**Tes:** -"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah",
+          "**Metode:** Project",
+          "[PB: 2×(3×50\")]"
+        ],
+        "penugasan": [
+          "Belajar Mandiri",
+          "[PT: 2×(3×60\")]",
+          "[KM: 2×(3×60\")]"
+        ],
+        "materi": [
+          "Pengembangan",
+          "[1] Bab 6"
+        ],
+        "bobot": "10%"
+      },
+      {
+        "minggu": "13–14",
+        "sub_cpmk": "Sub-CPMK7",
+        "indikator": [
+          "7.1 Ketepatan evaluasi"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik evaluasi",
+          "**Non-tes:** Laporan",
+          "**Tes:** -"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah",
+          "**Metode:** Project",
+          "[PB: 2×(3×50\")]"
+        ],
+        "penugasan": [
+          "Belajar Mandiri",
+          "[PT: 2×(3×60\")]",
+          "[KM: 2×(3×60\")]"
+        ],
+        "materi": [
+          "Evaluasi",
+          "[1] Bab 7"
+        ],
+        "bobot": "5%"
+      },
+      {
+        "minggu": "15",
+        "sub_cpmk": "Sub-CPMK8",
+        "indikator": [
+          "8.1 Ketepatan presentasi"
+        ],
+        "kriteria": [
+          "**Kriteria:** Rubrik presentasi",
+          "**Non-tes:** Demo",
+          "**Tes:** -"
+        ],
+        "metode": [
+          "**Bentuk:** Kuliah",
+          "**Metode:** Seminar",
+          "[PB: 1×(3×50\")]"
+        ],
+        "penugasan": [
+          "Belajar Mandiri",
+          "[PT: 1×(3×60\")]",
+          "[KM: 1×(3×60\")]"
+        ],
+        "materi": [
+          "Presentasi",
+          "[1] Bab 8"
+        ],
+        "bobot": "5%"
+      },
+      {
+        "minggu": "16",
+        "sub_cpmk": "Evaluasi Akhir Semester (UAS)",
+        "indikator": [
+          "Evaluasi pencapaian kompetensi akhir seluruh materi"
+        ],
+        "kriteria": [
+          "Kriteria: Rubrik Proyek Akhir / Portofolio / Ujian Akhir"
+        ],
+        "metode": [
+          "Ujian Akhir Semester / Presentasi Proyek"
+        ],
+        "penugasan": [
+          "Laporan Akhir & Demonstrasi"
+        ],
+        "materi": [
+          "**Evaluasi Akhir Semester / Ujian Akhir Semester** – Presentasi Proyek  [PB: 1×(3×50\")] - *Pengumpulan Laporan"
+        ],
+        "bobot": "20%"
+      }
+    ],
+    "file_docx": "Output_RPS_Sem7/IF7605-Perancangan dan Pengembangan Produk/RPS-IF7605-Perancangan dan Pengembangan Produk.docx",
+    "file_size": "43 KB"
+  }
+];

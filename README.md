@@ -1,6 +1,9 @@
-# Dokumen RPS - Program Studi S1 Teknik Informatika
+# Dokumen RPS & Portal SPA - Program Studi S1 Teknik Informatika
 
 Repositori ini memuat dokumen resmi **Rencana Pembelajaran Semester (RPS)** berbasis **Outcome-Based Education (OBE)** untuk Program Studi **S1 Teknik Informatika**, Universitas PGRI Ronggolawe (UNIROW) Tuban.
+
+🌐 **Portal Interaktif SPA (Live Demo)**:  
+👉 **[https://tifbelajar.github.io/DokumenRPS/](https://tifbelajar.github.io/DokumenRPS/)**
 
 Penyusunan dokumen RPS ini berpedoman pada:
 - **Kurikulum APTIKOM 2024** (Bidang Informatika/Ilmu Komputer).
@@ -9,11 +12,34 @@ Penyusunan dokumen RPS ini berpedoman pada:
 
 ---
 
+## 🚀 Fitur Portal SPA
+
+1. **Dashboard & Katalog Interaktif**: Eksplorasi 12 mata kuliah Semester 1 dan Semester 7.
+2. **Pencarian Real-Time & Filter Semester**: Filter cepat berdasarkan kode MK, nama mata kuliah, dosen pengampu, atau semester.
+3. **Detail RPS Lengkap**:
+   - Profil mata kuliah, dosen pengembang, koordinator RMK, kaprodi.
+   - Perumusan CPL, CPMK dengan Taksonomi Bloom, dan Sub-CPMK.
+   - Matriks 16 Pertemuan (Minggu 1 s.d. 16, termasuk UTS dan UAS).
+   - Skema Asesmen & Pembobotan Sub-CPMK (Tabel P1) serta rancangan tugas terstruktur.
+   - Daftar pustaka referensi utama dan pendukung.
+4. **Unduh Langsung Dokumen Word (`.docx`)** untuk setiap mata kuliah.
+5. **Mode Gelap / Terang (Dark & Light Mode)** dengan transisi mulus dan penyimpanan preferensi lokal.
+6. **Deep Linking Hash**: Bagikan tautan spesifik untuk masing-masing RPS (misal: `#kode=IF1404`).
+
+---
+
 ## 📁 Struktur Direktori
 
 ```text
 DokumenRPS/
-├── Output_RPS_Sem1/   # RPS Semester 1 (7 Mata Kuliah)
+├── index.html         # Halaman utama Single Page Application (SPA)
+├── styles.css         # Styling modern, responsif, dan glassmorphism
+├── app.js             # Logika interaktif SPA (pencarian, filter, modal, routing)
+├── rps_data.js        # Dataset RPS untuk kompatibilitas offline & online
+├── rps_data.json      # Endpoint data terstruktur JSON
+├── .nojekyll          # Konfigurasi GitHub Pages
+│
+├── Output_RPS_Sem1/   # Berkas RPS Dokumen Word Semester 1 (7 Mata Kuliah)
 │   ├── IF1201-Matematika/
 │   ├── IF1302-Pengantar Teknologi Informasi/
 │   ├── IF1303-Arsitektur Komputer/
@@ -22,12 +48,15 @@ DokumenRPS/
 │   ├── IF360424-Konsep AI/
 │   └── UNV1101-Pancasila/
 │
-└── Output_RPS_Sem7/   # RPS Semester 7 (5 Mata Kuliah)
-    ├── IF7601-Manajemen Perangkat Lunak/
-    ├── IF7602-Interaksi Manusia dan Komputer/
-    ├── IF7603-Sistem Informasi Bisnis/
-    ├── IF7604-Etika Profesi/
-    └── IF7605-Perancangan dan Pengembangan Produk/
+├── Output_RPS_Sem7/   # Berkas RPS Dokumen Word Semester 7 (5 Mata Kuliah)
+│   ├── IF7601-Manajemen Perangkat Lunak/
+│   ├── IF7602-Interaksi Manusia dan Komputer/
+│   ├── IF7603-Sistem Informasi Bisnis/
+│   ├── IF7604-Etika Profesi/
+│   └── IF7605-Perancangan dan Pengembangan Produk/
+│
+└── scripts/
+    └── extract_data.py # Skrip otomasi ekstraksi data RPS ke JSON
 ```
 
 ---
@@ -38,11 +67,11 @@ DokumenRPS/
 | No | Kode MK | Nama Mata Kuliah | Bobot SKS | Format Berkas |
 |:--:|:-------:|:-----------------|:---------:|:-------------:|
 | 1 | `UNV1101` | Pancasila | 2 SKS | `.docx` |
-| 2 | `IF1302` | Pengantar Teknologi Informasi | 3 SKS | `.docx` |
-| 3 | `IF1303` | Arsitektur Komputer | 3 SKS | `.docx` |
-| 4 | `IF1404` | Algoritma dan Pemrograman Dasar | 4 SKS | `.docx` |
-| 5 | `IF1405` | Basis Data | 4 SKS | `.docx` |
-| 6 | `IF360424` | Konsep AI | 3 SKS | `.docx` |
+| 2 | `IF1302` | Pengantar Teknologi Informasi | 3 SKS (2T + 1P) | `.docx` |
+| 3 | `IF1303` | Arsitektur Komputer | 3 SKS (2T + 1P) | `.docx` |
+| 4 | `IF1404` | Algoritma dan Pemrograman Dasar | 4 SKS (2T + 2P) | `.docx` |
+| 5 | `IF1405` | Basis Data | 4 SKS (2T + 2P) | `.docx` |
+| 6 | `IF360424` | Konsep AI | 3 SKS (2T + 1P) | `.docx` |
 | 7 | `IF1201` | Matematika | 3 SKS | `.docx` |
 
 ### Semester 7

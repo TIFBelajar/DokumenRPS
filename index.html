@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  
+  <title>Portal RPS OBE - S1 Teknik Informatika UNIROW</title>
+  <meta name="description" content="Portal Rencana Pembelajaran Semester (RPS) berbasis Outcome-Based Education (OBE) standar APTIKOM 2024 Program Studi S1 Teknik Informatika UNIROW Tuban.">
+  <meta name="keywords" content="RPS, OBE, APTIKOM 2024, Teknik Informatika, UNIROW, Kurikulum Perguruan Tinggi, Silabus, Rencana Pembelajaran">
+  <meta name="author" content="Program Studi Teknik Informatika UNIROW">
+
+  <!-- Open Graph / Meta Sosial -->
+  <meta property="og:title" content="Portal RPS OBE - S1 Teknik Informatika UNIROW">
+  <meta property="og:description" content="Koleksi dan Pratinjau Interaktif Dokumen Rencana Pembelajaran Semester (RPS) OBE APTIKOM 2024 & Panduan KPT UNIROW.">
+  <meta property="og:type" content="website">
+
+  <!-- Favicon -->
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🎓</text></svg>">
+
+  <!-- Google Fonts & Stylesheet -->
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <!-- Site Header & Navbar -->
+  <header class="site-header">
+    <div class="nav-container">
+      <a href="./" class="brand-wrapper" aria-label="Beranda Portal RPS">
+        <div class="brand-logo-badge">TI</div>
+        <div class="brand-text">
+          <h1>Portal Dokumen RPS</h1>
+          <p>S1 Teknik Informatika • Universitas PGRI Ronggolawe</p>
+        </div>
+      </a>
+
+      <div class="nav-actions">
+        <!-- Dark / Light Mode Toggle -->
+        <button type="button" class="icon-btn" id="theme-toggle" aria-label="Ubah Tema Warna">
+          <svg id="theme-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+          </svg>
+        </button>
+
+        <!-- GitHub Repository Link -->
+        <a href="https://github.com/TIFBelajar/DokumenRPS" target="_blank" rel="noopener noreferrer" class="btn-github" aria-label="Lihat repositori GitHub">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
+            <path fill-rule="evenodd" clip-rule="evenodd" d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.53 1.032 1.53 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0112 6.844c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.019 10.019 0 0022 12.017C22 6.484 17.522 2 12 2z"/>
+          </svg>
+          <span>GitHub</span>
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="hero-section">
+    <div class="hero-content">
+      <div class="hero-pill">
+        <span>✨ Standar Kurikulum APTIKOM 2024 & Format KPT UNIROW</span>
+      </div>
+      <h1 class="hero-title">Rencana Pembelajaran Semester <span>(RPS) OBE</span></h1>
+      <p class="hero-subtitle">
+        Akses repositori digital dokumen pembelajaran Program Studi S1 Teknik Informatika. Dilengkapi perumusan CPL, CPMK berbasis Taksonomi Bloom, matriks 16 pertemuan, dan rubrik asesmen.
+      </p>
+
+      <!-- Key Stats Bar -->
+      <div class="stats-bar">
+        <div class="stat-card">
+          <span class="stat-number" id="stat-total-mk">12</span>
+          <span class="stat-label">Total Mata Kuliah</span>
+        </div>
+        <div class="stat-card">
+          <span class="stat-number" id="stat-sks-1">21 SKS</span>
+          <span class="stat-label">Semester 1</span>
+        </div>
+        <div class="stat-card">
+          <span class="stat-number" id="stat-sks-7">14 SKS</span>
+          <span class="stat-label">Semester 7</span>
+        </div>
+        <div class="stat-card">
+          <span class="stat-number">100%</span>
+          <span class="stat-label">Kepatuhan OBE</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Main Content Area -->
+  <main class="main-container">
+    <!-- Controls (Search & Filter Tabs) -->
+    <div class="controls-wrapper">
+      <!-- Search Input -->
+      <div class="search-box">
+        <svg class="search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <circle cx="11" cy="11" r="8"></circle>
+          <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+        </svg>
+        <input 
+          type="search" 
+          id="search-input" 
+          class="search-input" 
+          placeholder="Cari kode MK, nama mata kuliah, dosen, materi..."
+          autocomplete="off"
+        >
+      </div>
+
+      <!-- Semester Filters -->
+      <div class="filter-group">
+        <button type="button" class="filter-tab active" data-sem="all">
+          Semua Semester <span class="tab-badge">12</span>
+        </button>
+        <button type="button" class="filter-tab" data-sem="1">
+          Semester 1 <span class="tab-badge">7</span>
+        </button>
+        <button type="button" class="filter-tab" data-sem="7">
+          Semester 7 <span class="tab-badge">5</span>
+        </button>
+      </div>
+    </div>
+
+    <!-- Course Cards Grid -->
+    <section class="courses-grid" id="courses-grid" aria-label="Daftar Mata Kuliah">
+      <!-- Cards rendered via JavaScript -->
+    </section>
+  </main>
+
+  <!-- Detail Modal / Drawer -->
+  <div class="modal-overlay" id="modal-overlay" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+    <div class="modal-content">
+      <!-- Modal Header -->
+      <div class="modal-header">
+        <div class="modal-header-info">
+          <div class="modal-code" id="modal-kode">IF1404</div>
+          <h2 class="modal-title" id="modal-title">Algoritma dan Pemrograman Dasar</h2>
+          <div class="modal-badges" id="modal-badges">
+            <!-- Badges injected dynamically -->
+          </div>
+        </div>
+        <button type="button" class="modal-close-btn" id="modal-close-btn" aria-label="Tutup Detail">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <line x1="18" y1="6" x2="6" y2="18"></line>
+            <line x1="6" y1="6" x2="18" y2="18"></line>
+          </svg>
+        </button>
+      </div>
+
+      <!-- Navigation Tabs inside Modal -->
+      <nav class="modal-nav-tabs">
+        <button type="button" class="modal-tab-btn active" data-tab="tab-overview">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path></svg>
+          Ringkasan & Profil
+        </button>
+        <button type="button" class="modal-tab-btn" data-tab="tab-cpl">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path></svg>
+          CPL & CPMK
+        </button>
+        <button type="button" class="modal-tab-btn" data-tab="tab-schedule">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect></svg>
+          Rencana 16 Pertemuan
+        </button>
+        <button type="button" class="modal-tab-btn" data-tab="tab-assessment">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="3"></circle></svg>
+          Asesmen & Tugas
+        </button>
+        <button type="button" class="modal-tab-btn" data-tab="tab-references">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path></svg>
+          Pustaka & Referensi
+        </button>
+      </nav>
+
+      <!-- Modal Body Content -->
+      <div class="modal-body">
+        <div id="tab-overview" class="tab-pane active"></div>
+        <div id="tab-cpl" class="tab-pane"></div>
+        <div id="tab-schedule" class="tab-pane"></div>
+        <div id="tab-assessment" class="tab-pane"></div>
+        <div id="tab-references" class="tab-pane"></div>
+      </div>
+
+      <!-- Modal Footer -->
+      <div class="modal-footer">
+        <button type="button" class="copy-link-btn" id="modal-copy-link">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path>
+            <path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path>
+          </svg>
+          Salin Tautan RPS
+        </button>
+
+        <a href="#" id="modal-download-link" download class="download-link-btn">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+            <polyline points="7 10 12 15 17 10"></polyline>
+            <line x1="12" y1="15" x2="12" y2="3"></line>
+          </svg>
+          Unduh Dokumen (.docx)
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Toast Notification -->
+  <div id="toast" class="toast-notice" role="status" aria-live="polite"></div>
+
+  <!-- Site Footer -->
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <p>&copy; 2026 Program Studi S1 Teknik Informatika, Universitas PGRI Ronggolawe (UNIROW) Tuban.</p>
+      <div class="footer-links">
+        <a href="https://github.com/TIFBelajar/DokumenRPS" target="_blank" rel="noopener noreferrer">Repositori Dokumen</a>
+        <a href="https://github.com/TIFBelajar" target="_blank" rel="noopener noreferrer">Organisasi GitHub</a>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Scripts -->
+  <script src="rps_data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
