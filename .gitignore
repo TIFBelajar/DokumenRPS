@@ -1,0 +1,8 @@
+# Temporary office lock files
+.~lock.*#
+~$*
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
